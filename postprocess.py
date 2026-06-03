@@ -1,127 +1,152 @@
 #!/usr/bin/env python3
-"""Merge product names from data.json into data_full.json + copy to frontend public/"""
-import json, shutil, os
+"""
+Fix data_full.json:
+1. Re-assign products to correct categories using products-and-services.html as source of truth
+2. Remove products with no data (404s)
+3. Copy to frontend/public/
+"""
+import json, re, gzip, urllib.request, shutil, os, time
 
-with open("data.json", encoding="utf-8") as f:
-    basic = json.load(f)
-
-with open("data_full.json", encoding="utf-8") as f:
-    full = json.load(f)
-
-# Build name map from basic data: id -> prodname
-name_map = {str(p.get("proddispid", "")): p.get("prodname", "") for p in basic.get("products", [])}
-
-# Also extract names from image URLs in full data
-def name_from_img(img):
-    """Guess product name from image URL slug"""
-    import re
-    if not img:
-        return ""
-    # e.g. cooling-tower-oxidizing-biocide-chemical-250x250.jpg
-    base = img.rsplit("/", 1)[-1]
-    base = re.sub(r'-\d+x\d+\.(jpg|jpeg|png|webp)$', '', base, flags=re.IGNORECASE)
-    base = re.sub(r'\.(jpg|jpeg|png|webp)$', '', base, flags=re.IGNORECASE)
-    # Convert slug to title
-    return " ".join(w.capitalize() for w in base.replace("-", " ").split())
-
-# Patch product names in categories
-for cat in full.get("categories", []):
-    for prod in cat.get("products", []):
-        pid = str(prod.get("proddispid", ""))
-        if pid in name_map and name_map[pid]:
-            prod["prodname"] = name_map[pid]
-        elif prod["prodname"].startswith("Product "):
-            # Try from thumbnail slug
-            n = name_from_img(prod.get("thumbnail", ""))
-            if n and not n.startswith("Product"):
-                prod["prodname"] = n
-
-# Patch all_products too
-for prod in full.get("all_products", []):
-    pid = str(prod.get("proddispid", ""))
-    if pid in name_map and name_map[pid]:
-        prod["prodname"] = name_map[pid]
-    elif prod.get("prodname", "").startswith("Product "):
-        n = name_from_img(prod.get("thumbnail", ""))
-        if n and not n.startswith("Product"):
-            prod["prodname"] = n
-
-# Also fix category assignment - products are all lumped in CT Chemicals
-# Rebuild categories from data.json names
-cat_map = {}
-for p in basic.get("products", []):
-    pid = str(p.get("proddispid", ""))
-    # We'll rely on the scraper's category_slug for assignment but fix names
-    pass
-
-# Fix: some products scraped from cooling-tower page but actually belong to other cats
-# Re-assign based on prodname keywords
-cat_keywords = {
-    "Boiler Chemicals": ["boiler", "antiscalant", "ph booster", "benzalkonium"],
-    "Cooling Tower Chemicals": ["cooling tower", "biocide", "dispersant", "metal dispersant"],
-    "Hypochlorite Chemicals": ["hypochlorite", "bleaching powder", "calcium hypochlorite"],
-    "Laboratory Chemicals": ["edta", "citric acid", "phosphoric", "sulphuric", "sodium bicarbonate", "sodium meta", "sodium bi", "caustic", "acid slurry", "glacial acetic", "potassium permanganate", "magnesium chloride", "soda ash"],
-    "Liquid Products": ["liquid soap", "glacial acetic", "soda ash"],
+HEADERS = {
+    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+    "Accept-Encoding": "gzip, deflate",
+    "Accept": "text/html,*/*",
 }
 
-def infer_category(prodname):
-    pn = prodname.lower()
-    if "boiler" in pn:
-        return ("Boiler Chemicals", "boiler-chemicals")
-    if "cooling tower" in pn:
-        return ("Cooling Tower Chemicals", "cooling-tower-chemicals")
-    if "hypochlorite" in pn or "bleaching" in pn:
-        return ("Hypochlorite Chemicals", "hypochlorite-chemical")
-    if "edta" in pn or "labsa" in pn or "sodium bicarbonate" in pn or "sodium meta" in pn:
-        return ("Laboratory Chemicals", "laboratory-chemicals")
-    if "soap" in pn or "glacial acetic" in pn:
-        return ("Liquid Products", "liquid-products")
-    return None
+def fetch(url):
+    req = urllib.request.Request(url, headers=HEADERS)
+    r = urllib.request.urlopen(req, timeout=20)
+    raw = r.read()
+    enc = r.info().get("Content-Encoding", "")
+    if enc == "gzip":
+        import gzip as gz
+        raw = gz.decompress(raw)
+    return raw.decode("utf-8", errors="replace")
 
-# Rebuild categories from scratch using name_map
-all_cats = {}
-for p in basic.get("products", []):
-    pid = str(p.get("proddispid", ""))
-    pname = p.get("prodname", "")
-    # Find full detail
-    detail = None
-    for ap in full.get("all_products", []):
-        if str(ap.get("proddispid", "")) == pid:
-            detail = ap
-            break
-    
-    cat_info = infer_category(pname)
-    if not cat_info:
-        cat_info = ("Other Products", "other-products")
-    cat_name, cat_slug = cat_info
-    
-    prod_entry = {
-        "proddispid": pid,
-        "prodname": pname,
-        "thumbnail": (detail or {}).get("thumbnail") or p.get("image", ""),
-        "category": cat_name,
-        "category_slug": cat_slug,
-        "product_url": (detail or {}).get("product_url", ""),
-        "description": (detail or {}).get("description", ""),
-        "price": (detail or {}).get("price", ""),
-        "images": (detail or {}).get("images", []),
-        "specifications": (detail or {}).get("specifications", {}),
-    }
-    
-    if cat_name not in all_cats:
-        all_cats[cat_name] = {"name": cat_name, "slug": cat_slug, "products": []}
-    all_cats[cat_name]["products"].append(prod_entry)
+def clean(s):
+    s = re.sub(r"&amp;", "&", s or "")
+    s = re.sub(r"&[lg]t;", "", s)
+    return s.strip()
 
-full["categories"] = list(all_cats.values())
+print("Fetching products-and-services.html (authoritative category list)...")
+html = fetch("https://www.indiamart.com/chemcaretechnologies/products-and-services.html")
+
+# Parse: category links followed by product links
+# Build: pid -> {category_name, category_slug, product_name}
+SKIP = {"products-and-services","profile","enquiry","photos","testimonial"}
+
+pid_to_cat = {}   # pid -> (cat_name, cat_slug)
+cat_order = []    # [slug, ...]
+cat_names = {}    # slug -> display name
+
+pattern = re.compile(
+    r'href="(?:https?://www\.indiamart\.com)?/chemcaretechnologies/([\w-]+)\.html(?:#(\d+))?"[^>]*>\s*([^<]{2,120}?)\s*</a>',
+    re.IGNORECASE
+)
+
+current_cat_slug = None
+current_cat_name = None
+
+for m in pattern.finditer(html):
+    slug = m.group(1)
+    pid  = m.group(2) or ""
+    text = clean(m.group(3).strip())
+
+    if slug in SKIP:
+        continue
+    if not text or text in ("View More","View more details","Home","Our Products","About Us","Photos","Contact Us","Testimonial"):
+        continue
+
+    if not pid:
+        # Category header
+        current_cat_slug = slug
+        current_cat_name = text
+        if slug not in cat_names:
+            cat_names[slug] = text
+            cat_order.append(slug)
+    else:
+        # Product under current category
+        if current_cat_slug and pid not in pid_to_cat:
+            pid_to_cat[pid] = (current_cat_name, current_cat_slug)
+
+print(f"  Found {len(cat_order)} categories, {len(pid_to_cat)} products with category assignment")
+
+# Load existing data_full.json
+with open("data_full.json", encoding="utf-8") as f:
+    data = json.load(f)
+
+# Build pid -> full product detail from existing data
+existing = {}
+for cat in data.get("categories", []):
+    for p in cat.get("products", []):
+        pid = str(p.get("proddispid",""))
+        if pid:
+            existing[pid] = p
+
+print(f"  Existing scraped products: {len(existing)}")
+
+# Build new category structure
+new_cats = {}  # slug -> {name, slug, products:[]}
+for slug in cat_order:
+    new_cats[slug] = {"name": cat_names[slug], "slug": slug, "products": []}
+
+# Also add "Other Chemicals" for products not on p&s page
+uncategorized_pids = []
+
+for pid, pdata in existing.items():
+    # Skip 404/empty products
+    if not pdata.get("prodname") or pdata["prodname"].startswith("Product "):
+        if not pdata.get("thumbnail") and not pdata.get("images"):
+            continue  # completely empty, skip
+
+    # Assign to correct category from p&s page
+    if pid in pid_to_cat:
+        cat_name, cat_slug = pid_to_cat[pid]
+        if cat_slug not in new_cats:
+            new_cats[cat_slug] = {"name": cat_name, "slug": cat_slug, "products": []}
+        # Update category fields in product
+        pdata["category"] = cat_name
+        pdata["category_slug"] = cat_slug
+        # Avoid duplicates
+        existing_ids = {str(p["proddispid"]) for p in new_cats[cat_slug]["products"]}
+        if pid not in existing_ids:
+            new_cats[cat_slug]["products"].append(pdata)
+    else:
+        uncategorized_pids.append(pid)
+
+# Handle uncategorized  
+if uncategorized_pids:
+    new_cats["other-chemicals"] = {"name": "Other Chemicals", "slug": "other-chemicals", "products": []}
+    for pid in uncategorized_pids:
+        pdata = existing[pid]
+        if pdata.get("prodname"):
+            pdata["category"] = "Other Chemicals"
+            pdata["category_slug"] = "other-chemicals"
+            new_cats["other-chemicals"]["products"].append(pdata)
+
+# Build ordered list (follow p&s page order)
+ordered_cats = []
+for slug in cat_order:
+    if slug in new_cats and new_cats[slug]["products"]:
+        ordered_cats.append(new_cats[slug])
+# Any extra
+for slug, cat in new_cats.items():
+    if slug not in cat_order and cat["products"]:
+        ordered_cats.append(cat)
+
+data["categories"] = ordered_cats
+data["meta"]["total_categories"] = len(ordered_cats)
+data["meta"]["total_products"] = sum(len(c["products"]) for c in ordered_cats)
+data["meta"]["fixed_at"] = time.strftime("%Y-%m-%dT%H:%M:%SZ", time.gmtime())
 
 with open("data_full.json", "w", encoding="utf-8") as f:
-    json.dump(full, f, indent=2, ensure_ascii=False)
+    json.dump(data, f, indent=2, ensure_ascii=False)
 
-# Copy to frontend public/
 os.makedirs("frontend/public", exist_ok=True)
 shutil.copy("data_full.json", "frontend/public/data_full.json")
-shutil.copy("data.json", "frontend/public/data.json")
 
-print(f"Done. {len(all_cats)} categories, total products: {sum(len(c['products']) for c in all_cats.values())}")
-for cat_name, cat in all_cats.items():
-    print(f"  {cat_name}: {len(cat['products'])} products")
+print(f"\n=== Fixed ===")
+print(f"  Categories: {data['meta']['total_categories']}")
+print(f"  Products:   {data['meta']['total_products']}")
+for c in ordered_cats:
+    print(f"    {c['name']}: {len(c['products'])} products")

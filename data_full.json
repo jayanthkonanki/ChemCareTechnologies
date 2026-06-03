@@ -9,260 +9,11 @@
     "gst": "37**********1Z6",
     "response_rate": "85%",
     "business_type": "Trader - Wholesaler / Distributor",
-    "description": "Chem Care Technologies is a leading Trader, Wholesaler and Distributor of Boiler Chemicals, Laboratory Chemicals & Cooling Tower Chemicals from Vijayawada, Andhra Pradesh, India.",
+    "description": "Chem Care Technologies is a leading Trader, Wholesaler and Distributor of industrial chemicals from Vijayawada, Andhra Pradesh, India. We supply Boiler Chemicals, Cooling Tower Chemicals, Laboratory Chemicals, Water Treatment Chemicals and more.",
     "logo": "https://5.imimg.com/data5/SELLER/Logo/2025/5/509401904/ZB/OI/PC/6407096/logo02.jpg",
     "indiamart_url": "https://www.indiamart.com/chemcaretechnologies/"
   },
   "categories": [
-    {
-      "name": "Other Products",
-      "slug": "other-products",
-      "products": [
-        {
-          "proddispid": "22358332212",
-          "prodname": "Non Ferric Alum",
-          "thumbnail": "https://5.imimg.com/data5/SELLER/Default/2025/5/509212915/OG/SY/OT/6407096/non-ferric-alum-250x250.jpg",
-          "category": "Other Products",
-          "category_slug": "other-products",
-          "product_url": "",
-          "description": "",
-          "price": "",
-          "images": [],
-          "specifications": {}
-        },
-        {
-          "proddispid": "22370636862",
-          "prodname": "Monohydrate Citric Acid",
-          "thumbnail": "https://5.imimg.com/data5/SELLER/Default/2025/5/509218587/LJ/CI/NO/6407096/monohydrate-citric-acid-250x250.jpg",
-          "category": "Other Products",
-          "category_slug": "other-products",
-          "product_url": "https://www.indiamart.com/proddetail/22370636862.html",
-          "description": "",
-          "price": "₹ 71",
-          "images": [
-            "https://5.imimg.com/data5/SELLER/Default/2025/5/509218379/US/ML/YN/6407096/monohydrate-citric-acid-500x500.jpg",
-            "https://5.imimg.com/data5/SELLER/Default/2025/5/509218379/US/ML/YN/6407096/monohydrate-citric-acid-1000x1000.jpg",
-            "https://5.imimg.com/data5/SELLER/Default/2025/5/509218587/LJ/CI/NO/6407096/monohydrate-citric-acid-1000x1000.jpg",
-            "https://5.imimg.com/data5/SELLER/Default/2025/5/509219161/ZC/YX/BJ/6407096/monohydrate-citric-acid-1000x1000.jpg",
-            "https://5.imimg.com/data5/SELLER/Logo/2025/5/509401904/ZB/OI/PC/6407096/logo02-90x90.jpg"
-          ],
-          "specifications": {
-            "Form": "Powder",
-            "Packaging Size": "50 kg",
-            "Packaging Type": "Bag",
-            "Boiling Point": "310 Deg C",
-            "Melting Point": "153 Deg C",
-            "Soluble In": "Water, Alcohal",
-            "Country of Origin": "Made in India",
-            "Availability": "In Stock",
-            "View in Hindi": "मोनोहाइड्रेट साइट्रिक एसिड, पैकेजिंग प्रकार: बैग, पैकेजिंग आकार: 50 किग्रा",
-            "Price": "Excluding all taxes",
-            "Ships from": "Vijayawada",
-            "Shipping": "As per delivery location"
-          }
-        },
-        {
-          "proddispid": "22384207133",
-          "prodname": "Dilute Sulphuric Acid",
-          "thumbnail": "https://5.imimg.com/data5/FB/LJ/FB/SELLER-6407096/sulphuric-acid-250x250.jpg",
-          "category": "Other Products",
-          "category_slug": "other-products",
-          "product_url": "",
-          "description": "",
-          "price": "",
-          "images": [],
-          "specifications": {}
-        },
-        {
-          "proddispid": "25168723930",
-          "prodname": "Sodium Bi Corbonet",
-          "thumbnail": "https://5.imimg.com/data5/ANDROID/Default/2022/3/YG/AM/VX/6407096/1646807037701-jpg-250x250.jpg",
-          "category": "Other Products",
-          "category_slug": "other-products",
-          "product_url": "",
-          "description": "",
-          "price": "",
-          "images": [],
-          "specifications": {}
-        },
-        {
-          "proddispid": "2855568390912",
-          "prodname": "Caustic Soda Flakes",
-          "thumbnail": "https://5.imimg.com/data5/SELLER/Default/2025/5/509214803/DQ/XA/BL/6407096/caustic-soda-powder-250x250.jpg",
-          "category": "Other Products",
-          "category_slug": "other-products",
-          "product_url": "https://www.indiamart.com/proddetail/2855568390912.html",
-          "description": "",
-          "price": "₹ 50",
-          "images": [
-            "https://5.imimg.com/data5/ANDROID/Default/2025/1/483382148/BL/EB/OX/6407096/product-jpeg-500x500.jpeg",
-            "https://5.imimg.com/data5/ANDROID/Default/2025/1/483382148/BL/EB/OX/6407096/product-jpeg-1000x1000.jpeg",
-            "https://5.imimg.com/data5/SELLER/Default/2025/5/509214803/DQ/XA/BL/6407096/caustic-soda-powder-1000x1000.jpg",
-            "https://5.imimg.com/data5/SELLER/Default/2025/5/509214940/ML/HA/QZ/6407096/caustic-soda-powder-1000x1000.jpg",
-            "https://5.imimg.com/data5/SELLER/Logo/2025/5/509401904/ZB/OI/PC/6407096/logo02-90x90.jpg"
-          ],
-          "specifications": {
-            "Packaging Size": "25 Kg",
-            "Purity %": "98%",
-            "Usage/Application": "Industrial",
-            "Physical State": "Flakes",
-            "Grade Standard": "Industrial Grade",
-            "Color": "white",
-            "Packaging Type": "Bag",
-            "Country of Origin": "Made in India",
-            "Availability": "In Stock",
-            "View in Hindi": "कास्टिक सोडा फ्लेक्स",
-            "Price": "Excluding all taxes",
-            "Ships from": "Vijayawada",
-            "Shipping": "As per delivery location"
-          }
-        },
-        {
-          "proddispid": "27255517733",
-          "prodname": "Benzalkonium Chloride Bkc",
-          "thumbnail": "https://5.imimg.com/data5/SELLER/Default/2025/5/509223153/PD/WJ/VU/6407096/benzalkonium-chloride-bkc-250x250.jpg",
-          "category": "Other Products",
-          "category_slug": "other-products",
-          "product_url": "https://www.indiamart.com/proddetail/27255517733.html",
-          "description": "",
-          "price": "₹ 145",
-          "images": [
-            "https://5.imimg.com/data5/ANDROID/Default/2022/10/TQ/GI/GM/6407096/product-jpeg-500x500.jpg",
-            "https://5.imimg.com/data5/ANDROID/Default/2022/10/TQ/GI/GM/6407096/product-jpeg-1000x1000.jpg",
-            "https://5.imimg.com/data5/SELLER/Default/2025/5/509223153/PD/WJ/VU/6407096/benzalkonium-chloride-bkc-1000x1000.jpg",
-            "https://5.imimg.com/data5/SELLER/Logo/2025/5/509401904/ZB/OI/PC/6407096/logo02-90x90.jpg",
-            "https://5.imimg.com/data5/SELLER/Default/2025/5/509223153/PD/WJ/VU/6407096/benzalkonium-chloride-bkc-125x125.jpg"
-          ],
-          "specifications": {
-            "Purity": "50%",
-            "Packaging Type": "Drum",
-            "Grade Standard": "Technical Grade",
-            "Usage/Application": "Surface Disinfectant",
-            "Packaging Size": "50 kg",
-            "Physical State": "Gel",
-            "Purity (%)": "50 %, 80%",
-            "Availability": "In Stock",
-            "Price": "Excluding all taxes",
-            "Ships from": "Vijayawada",
-            "Shipping": "As per delivery location"
-          }
-        },
-        {
-          "proddispid": "27448526762",
-          "prodname": "Magnesium Chloride Flakes",
-          "thumbnail": "https://3.imimg.com/data3/UE/HC/GLADMIN-9751/magnesium-chloride-250x250.jpg",
-          "category": "Other Products",
-          "category_slug": "other-products",
-          "product_url": "https://www.indiamart.com/proddetail/27448526762.html",
-          "description": "",
-          "price": "₹ 15",
-          "images": [
-            "https://5.imimg.com/data5/ANDROID/Default/2022/11/OP/ZX/TQ/6407096/product-jpeg-500x500.jpg",
-            "https://5.imimg.com/data5/SELLER/Logo/2025/5/509401904/ZB/OI/PC/6407096/logo02-90x90.jpg",
-            "https://3.imimg.com/data3/UE/HC/GLADMIN-9751/magnesium-chloride-125x125.jpg",
-            "https://5.imimg.com/data5/ANDROID/Default/2022/11/OP/ZX/TQ/6407096/product-jpeg-125x125.jpg",
-            "https://5.imimg.com/data5/ANDROID/Default/2022/11/OP/ZX/TQ/6407096/product-jpeg-1000x1000.jpg"
-          ],
-          "specifications": {
-            "Physical State/Form": "Crystal, Powder",
-            "Purity/Concentration": "&gt;99%",
-            "Packaging Size": "25 Kg",
-            "Packaging Type": "Bag",
-            "Purity": "99%",
-            "Grade": "Industrial",
-            "Usage/Application": "industrial use",
-            "Availability": "In Stock",
-            "Price": "Excluding all taxes",
-            "Ships from": "Vijayawada",
-            "Shipping": "As per delivery location"
-          }
-        },
-        {
-          "proddispid": "22478149448",
-          "prodname": "Phosphoric Acid Food Grade",
-          "thumbnail": "https://3.imimg.com/data3/XK/IP/GLADMIN-5896/phosphoric-acid-250x250.jpg",
-          "category": "Other Products",
-          "category_slug": "other-products",
-          "product_url": "https://www.indiamart.com/proddetail/22478149448.html",
-          "description": "",
-          "price": "₹ 115",
-          "images": [
-            "https://5.imimg.com/data5/VZ/JD/UI/ANDROID-6407096/product-jpeg-500x500.jpg",
-            "https://5.imimg.com/data5/SELLER/Logo/2025/5/509401904/ZB/OI/PC/6407096/logo02-90x90.jpg",
-            "https://3.imimg.com/data3/XK/IP/GLADMIN-5896/phosphoric-acid-125x125.jpg",
-            "https://5.imimg.com/data5/VZ/JD/UI/ANDROID-6407096/product-jpeg-125x125.jpg",
-            "https://5.imimg.com/data5/VZ/JD/UI/ANDROID-6407096/product-jpeg-1000x1000.jpg"
-          ],
-          "specifications": {
-            "Packaging Size": "35-50kg",
-            "Usage/Application": "Agricultural Industry",
-            "Packaging Type": "plastic container",
-            "Packaging Details": "5Ltr Can",
-            "Form": "Liquid",
-            "Brand": "on customer requirement",
-            "Color": "transparent",
-            "Country of Origin": "Made in India",
-            "Availability": "In Stock",
-            "Price": "Excluding all taxes",
-            "Ships from": "Vijayawada",
-            "Shipping": "As per delivery location"
-          }
-        },
-        {
-          "proddispid": "2856853895573",
-          "prodname": "Potassium Permanganate",
-          "thumbnail": "",
-          "category": "Other Products",
-          "category_slug": "other-products",
-          "product_url": "",
-          "description": "",
-          "price": "",
-          "images": [],
-          "specifications": {}
-        },
-        {
-          "proddispid": "26531547012",
-          "prodname": "Soda Ash Light",
-          "thumbnail": "https://5.imimg.com/data5/GLADMIN/Default/2022/6/UZ/WK/DY/93066/soda-ash-light-250x250.jpg",
-          "category": "Other Products",
-          "category_slug": "other-products",
-          "product_url": "https://www.indiamart.com/proddetail/26531547012.html",
-          "description": "",
-          "price": "₹ 33",
-          "images": [
-            "https://5.imimg.com/data5/ANDROID/Default/2022/9/BA/GT/JS/6407096/product-jpeg-500x500.jpg",
-            "https://5.imimg.com/data5/SELLER/Logo/2025/5/509401904/ZB/OI/PC/6407096/logo02-90x90.jpg",
-            "https://5.imimg.com/data5/GLADMIN/Default/2022/6/UZ/WK/DY/93066/soda-ash-light-125x125.jpg",
-            "https://5.imimg.com/data5/ANDROID/Default/2022/9/BA/GT/JS/6407096/product-jpeg-125x125.jpg",
-            "https://5.imimg.com/data5/ANDROID/Default/2022/9/BA/GT/JS/6407096/product-jpeg-1000x1000.jpg"
-          ],
-          "specifications": {
-            "Packaging Size": "50KG",
-            "Form": "Powder",
-            "Packaging Type": "Bag",
-            "Brand": "Nirma",
-            "Grade": "Technical",
-            "Country of Origin": "Made in India",
-            "Availability": "In Stock",
-            "Price": "Excluding all taxes",
-            "Ships from": "Vijayawada",
-            "Shipping": "As per delivery location"
-          }
-        },
-        {
-          "proddispid": "2855568391130",
-          "prodname": "Soda Ash Powder",
-          "thumbnail": "",
-          "category": "Other Products",
-          "category_slug": "other-products",
-          "product_url": "",
-          "description": "",
-          "price": "",
-          "images": [],
-          "specifications": {}
-        }
-      ]
-    },
     {
       "name": "Boiler Chemicals",
       "slug": "boiler-chemicals",
@@ -270,19 +21,20 @@
         {
           "proddispid": "22358329791",
           "prodname": "High Pressure Boiler Antiscalant Chemical",
-          "thumbnail": "https://5.imimg.com/data5/SELLER/Default/2025/5/509212032/KE/UI/DN/6407096/high-pressure-boiler-antiscalant-chemical-250x250.jpg",
-          "category": "Boiler Chemicals",
-          "category_slug": "boiler-chemicals",
           "product_url": "https://www.indiamart.com/proddetail/22358329791.html",
-          "description": "",
+          "description": "We are a reputed entity, engaged in offering a qualitative array of High Pressure Boiler Antiscalant Chemical.",
           "price": "₹ 86",
+          "unit": "",
+          "min_order": "\"Kg\",\"PC_ITEM_NAME\":\"High Pressure Boile",
           "images": [
             "https://5.imimg.com/data5/SELLER/Default/2025/5/509211926/TI/HA/LB/6407096/high-pressure-boiler-antiscalant-chemical-500x500.jpg",
             "https://5.imimg.com/data5/SELLER/Default/2025/5/509211926/TI/HA/LB/6407096/high-pressure-boiler-antiscalant-chemical-1000x1000.jpg",
             "https://5.imimg.com/data5/SELLER/Default/2025/5/509212032/KE/UI/DN/6407096/high-pressure-boiler-antiscalant-chemical-1000x1000.jpg",
             "https://5.imimg.com/data5/SELLER/Default/2025/5/509212125/NT/VA/MI/6407096/high-pressure-boiler-antiscalant-chemical-1000x1000.jpg",
-            "https://5.imimg.com/data5/SELLER/Logo/2025/5/509401904/ZB/OI/PC/6407096/logo02-90x90.jpg"
+            "https://5.imimg.com/data5/SELLER/Default/2025/5/509212032/KE/UI/DN/6407096/high-pressure-boiler-antiscalant-chemical-500x500.jpg",
+            "https://5.imimg.com/data5/SELLER/Default/2025/5/509212125/NT/VA/MI/6407096/high-pressure-boiler-antiscalant-chemical-500x500.jpg"
           ],
+          "thumbnail": "https://5.imimg.com/data5/SELLER/Default/2025/5/509212032/KE/UI/DN/6407096/high-pressure-boiler-antiscalant-chemical-250x250.jpg",
           "specifications": {
             "Grade Standard": "Technical Grade",
             "Physical State": "Liquid",
@@ -292,28 +44,34 @@
             "Purity": "45-50%",
             "Ph Of Product": "3.8~4.1",
             "Country of Origin": "Made in India",
-            "Availability": "In Stock",
-            "Price": "Excluding all taxes",
-            "Ships from": "Vijayawada",
-            "Shipping": "As per delivery location"
-          }
+            "GST Registration Date": "Jul 2017",
+            "Legal Status of Firm": "Partnership",
+            "Nature of Business": "Trader - Wholesaler/Distributor",
+            "Number of Employees": "Upto 10 People",
+            "Annual Turnover": "5 - 25 Cr",
+            "IndiaMART Member Since": "Dec 2012",
+            "GST": "37**********1Z6"
+          },
+          "category": "Boiler Chemicals",
+          "category_slug": "boiler-chemicals"
         },
         {
           "proddispid": "22383194355",
           "prodname": "Low Pressure Boiler Antiscalant Chemical",
-          "thumbnail": "https://5.imimg.com/data5/SELLER/Default/2025/5/509211185/YA/LD/PZ/6407096/low-pressure-boiler-antiscalant-chemical-250x250.jpg",
-          "category": "Boiler Chemicals",
-          "category_slug": "boiler-chemicals",
           "product_url": "https://www.indiamart.com/proddetail/22383194355.html",
-          "description": "",
+          "description": "We are successfully meeting the requirements of our clients by offering the best quality range of Low Pressure Boiler Antiscalant Chemical.",
           "price": "₹ 130",
+          "unit": "",
+          "min_order": "\"Kg\",\"PC_ITEM_NAME\":\"Low Pressure Boiler",
           "images": [
             "https://5.imimg.com/data5/SELLER/Default/2025/5/509211097/TN/FT/GV/6407096/low-pressure-boiler-antiscalant-chemical-500x500.jpg",
             "https://5.imimg.com/data5/SELLER/Default/2025/5/509211097/TN/FT/GV/6407096/low-pressure-boiler-antiscalant-chemical-1000x1000.jpg",
             "https://5.imimg.com/data5/SELLER/Default/2025/5/509211185/YA/LD/PZ/6407096/low-pressure-boiler-antiscalant-chemical-1000x1000.jpg",
             "https://5.imimg.com/data5/SELLER/Default/2025/5/509211288/CM/QA/ZS/6407096/low-pressure-boiler-antiscalant-chemical-1000x1000.jpg",
-            "https://5.imimg.com/data5/SELLER/Logo/2025/5/509401904/ZB/OI/PC/6407096/logo02-90x90.jpg"
+            "https://5.imimg.com/data5/SELLER/Default/2025/5/509211185/YA/LD/PZ/6407096/low-pressure-boiler-antiscalant-chemical-500x500.jpg",
+            "https://5.imimg.com/data5/SELLER/Default/2025/5/509211288/CM/QA/ZS/6407096/low-pressure-boiler-antiscalant-chemical-500x500.jpg"
           ],
+          "thumbnail": "https://5.imimg.com/data5/SELLER/Default/2025/5/509211185/YA/LD/PZ/6407096/low-pressure-boiler-antiscalant-chemical-250x250.jpg",
           "specifications": {
             "Grade Standard": "Technical Grade",
             "Packaging Size": "50 kg",
@@ -323,28 +81,36 @@
             "Brand": "Chem Care",
             "Solid content": "45-50%",
             "Country of Origin": "Made in India",
-            "Availability": "In Stock",
-            "Price": "Excluding all taxes",
-            "Ships from": "Vijayawada",
-            "Shipping": "As per delivery location"
-          }
+            "GST Registration Date": "Jul 2017",
+            "Legal Status of Firm": "Partnership",
+            "Nature of Business": "Trader - Wholesaler/Distributor",
+            "Number of Employees": "Upto 10 People",
+            "Annual Turnover": "5 - 25 Cr",
+            "IndiaMART Member Since": "Dec 2012",
+            "GST": "37**********1Z6"
+          },
+          "category": "Boiler Chemicals",
+          "category_slug": "boiler-chemicals"
         },
         {
           "proddispid": "22383193048",
           "prodname": "High Pressure Boiler Ph Booster Chemical",
-          "thumbnail": "https://5.imimg.com/data5/KG/KU/ZF/SELLER-6407096/high-pressure-boiler-ph-booster-chemical-250x250.jpg",
-          "category": "Boiler Chemicals",
-          "category_slug": "boiler-chemicals",
           "product_url": "https://www.indiamart.com/proddetail/22383193048.html",
-          "description": "",
+          "description": "Keeping track with latest market trends, we are devotedly engaged in offering a wide assortment of High Pressure Boiler Ph Booster Chemical.",
           "price": "₹ 185",
+          "unit": "",
+          "min_order": "\"Litre\",\"PC_ITEM_NAME\":\"High Pressure Bo",
           "images": [
             "https://5.imimg.com/data5/SELLER/Default/2025/5/509212091/SL/OU/FK/6407096/high-pressure-boiler-antiscalant-chemical-500x500.jpg",
             "https://5.imimg.com/data5/SELLER/Default/2025/5/509212091/SL/OU/FK/6407096/high-pressure-boiler-antiscalant-chemical-1000x1000.jpg",
             "https://5.imimg.com/data5/KG/KU/ZF/SELLER-6407096/high-pressure-boiler-ph-booster-chemical-1000x1000.jpg",
             "https://5.imimg.com/data5/SELLER/Default/2025/5/509235394/JA/KM/BY/6407096/high-pressure-boiler-ph-booster-chemical-1000x1000.jpg",
-            "https://5.imimg.com/data5/SELLER/Default/2025/5/509235540/PU/HN/DV/6407096/high-pressure-boiler-ph-booster-chemical-1000x1000.jpg"
+            "https://5.imimg.com/data5/SELLER/Default/2025/5/509235540/PU/HN/DV/6407096/high-pressure-boiler-ph-booster-chemical-1000x1000.jpg",
+            "https://5.imimg.com/data5/KG/KU/ZF/SELLER-6407096/high-pressure-boiler-ph-booster-chemical-500x500.jpg",
+            "https://5.imimg.com/data5/SELLER/Default/2025/5/509235394/JA/KM/BY/6407096/high-pressure-boiler-ph-booster-chemical-500x500.jpg",
+            "https://5.imimg.com/data5/SELLER/Default/2025/5/509235540/PU/HN/DV/6407096/high-pressure-boiler-ph-booster-chemical-500x500.jpg"
           ],
+          "thumbnail": "https://5.imimg.com/data5/KG/KU/ZF/SELLER-6407096/high-pressure-boiler-ph-booster-chemical-250x250.jpg",
           "specifications": {
             "Physical State": "Liquid",
             "Usage/Application": "Industrial",
@@ -356,28 +122,64 @@
             "PH Value": "9",
             "Shelf Life": "6 Month",
             "Country of Origin": "Made in India",
-            "Availability": "In Stock",
-            "Price": "Excluding all taxes",
-            "Ships from": "Vijayawada",
-            "Shipping": "As per delivery location"
-          }
+            "GST Registration Date": "Jul 2017",
+            "Legal Status of Firm": "Partnership",
+            "Nature of Business": "Trader - Wholesaler/Distributor",
+            "Number of Employees": "Upto 10 People",
+            "Annual Turnover": "5 - 25 Cr",
+            "IndiaMART Member Since": "Dec 2012",
+            "GST": "37**********1Z6"
+          },
+          "category": "Boiler Chemicals",
+          "category_slug": "boiler-chemicals"
+        },
+        {
+          "proddispid": "27255517733",
+          "prodname": "Benzalkonium Chloride Bkc",
+          "product_url": "https://www.indiamart.com/proddetail/27255517733.html",
+          "description": "Established in the year  2012  we\" Chem Care Technologies.\" is a Manufacturer of the wide spectrum Non Ferric Alum, View More, Cooling Tower Chemicals etc. We are manufacturing these products using premium grade raw material that is procured from the authentic vendors of the market. We offer these products at reasonable rates and deliver these within the promised time-frame.",
+          "price": "₹ 145",
+          "unit": "",
+          "min_order": "\"Kg\",\"PC_ITEM_NAME\":\"Benzalkonium Chlori",
+          "images": [
+            "https://5.imimg.com/data5/ANDROID/Default/2022/10/TQ/GI/GM/6407096/product-jpeg-500x500.jpg",
+            "https://5.imimg.com/data5/ANDROID/Default/2022/10/TQ/GI/GM/6407096/product-jpeg-1000x1000.jpg",
+            "https://5.imimg.com/data5/SELLER/Default/2025/5/509223153/PD/WJ/VU/6407096/benzalkonium-chloride-bkc-1000x1000.jpg",
+            "https://5.imimg.com/data5/SELLER/Default/2025/5/509223153/PD/WJ/VU/6407096/benzalkonium-chloride-bkc-500x500.jpg"
+          ],
+          "thumbnail": "https://5.imimg.com/data5/SELLER/Default/2025/5/509223153/PD/WJ/VU/6407096/benzalkonium-chloride-bkc-250x250.jpg",
+          "specifications": {
+            "Purity": "50%",
+            "Packaging Type": "Drum",
+            "Grade Standard": "Technical Grade",
+            "Usage/Application": "Surface Disinfectant",
+            "Packaging Size": "50 kg",
+            "Physical State": "Gel",
+            "Purity (%)": "50 %, 80%",
+            "GST Registration Date": "Jul 2017",
+            "Legal Status of Firm": "Partnership",
+            "Nature of Business": "Trader - Wholesaler/Distributor",
+            "Number of Employees": "Upto 10 People",
+            "Annual Turnover": "5 - 25 Cr",
+            "IndiaMART Member Since": "Dec 2012",
+            "GST": "37**********1Z6"
+          },
+          "category": "Boiler Chemicals",
+          "category_slug": "boiler-chemicals"
         },
         {
           "proddispid": "22383197062",
           "prodname": "Low Pressure Boiler Ph Booster Chemical",
-          "thumbnail": "https://5.imimg.com/data5/GLADMIN/Default/2022/6/NR/DE/WX/87490/ph-booster-chemical-250x250.jpg",
-          "category": "Boiler Chemicals",
-          "category_slug": "boiler-chemicals",
           "product_url": "https://www.indiamart.com/proddetail/22383197062.html",
-          "description": "",
+          "description": "In order to meet various demands of our esteemed clients, we are engaged in providing an optimum quality array of Low Pressure Boiler Ph Booster Chemical.",
           "price": "₹ 62",
+          "unit": "",
+          "min_order": "\"Litre\",\"PC_ITEM_NAME\":\"Low Pressure Boi",
           "images": [
             "https://5.imimg.com/data5/GJ/PU/BQ/SELLER-6407096/low-pressure-boiler-ph-booster-chemical-500x500.jpg",
-            "https://5.imimg.com/data5/SELLER/Logo/2025/5/509401904/ZB/OI/PC/6407096/logo02-90x90.jpg",
-            "https://5.imimg.com/data5/GLADMIN/Default/2022/6/NR/DE/WX/87490/ph-booster-chemical-125x125.jpg",
-            "https://5.imimg.com/data5/GJ/PU/BQ/SELLER-6407096/low-pressure-boiler-ph-booster-chemical-125x125.jpg",
             "https://5.imimg.com/data5/GJ/PU/BQ/SELLER-6407096/low-pressure-boiler-ph-booster-chemical-1000x1000.jpg"
           ],
+          "thumbnail": "https://5.imimg.com/data5/GJ/PU/BQ/SELLER-6407096/low-pressure-boiler-ph-booster-chemical-250x250.jpg",
           "specifications": {
             "Packaging Size": "50 kg",
             "Grade Standard": "Bio-Tech Grade",
@@ -386,11 +188,16 @@
             "Brand": "Chem Care",
             "Physical State": "Liquid",
             "Shelf Life": "6 Month",
-            "Availability": "In Stock",
-            "Price": "Excluding all taxes",
-            "Ships from": "Vijayawada",
-            "Shipping": "As per delivery location"
-          }
+            "GST Registration Date": "Jul 2017",
+            "Legal Status of Firm": "Partnership",
+            "Nature of Business": "Trader - Wholesaler/Distributor",
+            "Number of Employees": "Upto 10 People",
+            "Annual Turnover": "5 - 25 Cr",
+            "IndiaMART Member Since": "Dec 2012",
+            "GST": "37**********1Z6"
+          },
+          "category": "Boiler Chemicals",
+          "category_slug": "boiler-chemicals"
         }
       ]
     },
@@ -401,19 +208,16 @@
         {
           "proddispid": "22370638188",
           "prodname": "EDTA 2Na & 4 Na Chemical",
-          "thumbnail": "https://5.imimg.com/data5/GLADMIN/Default/2024/6/424762055/XS/HG/WD/105656/edta-disodium-salt-250x250.jpg",
-          "category": "Laboratory Chemicals",
-          "category_slug": "laboratory-chemicals",
           "product_url": "https://www.indiamart.com/proddetail/22370638188.html",
-          "description": "",
+          "description": "Keeping in mind ever-evolving requirements of our respected clients, we are providing a premium quality range of EDTA 2Na Chemical.",
           "price": "₹ 155",
+          "unit": "",
+          "min_order": "\"Kg\",\"PC_ITEM_NAME\":\"EDTA 2Na \\u0026 4 N",
           "images": [
             "https://5.imimg.com/data5/LY/GU/KJ/SELLER-6407096/edta-2na-chemical-500x500.jpg",
-            "https://5.imimg.com/data5/SELLER/Logo/2025/5/509401904/ZB/OI/PC/6407096/logo02-90x90.jpg",
-            "https://5.imimg.com/data5/GLADMIN/Default/2024/6/424762055/XS/HG/WD/105656/edta-disodium-salt-125x125.jpg",
-            "https://5.imimg.com/data5/LY/GU/KJ/SELLER-6407096/edta-2na-chemical-125x125.jpg",
             "https://5.imimg.com/data5/LY/GU/KJ/SELLER-6407096/edta-2na-chemical-1000x1000.jpg"
           ],
+          "thumbnail": "https://5.imimg.com/data5/LY/GU/KJ/SELLER-6407096/edta-2na-chemical-250x250.jpg",
           "specifications": {
             "Packaging Size": "25 kg",
             "Purity": "98 %",
@@ -421,28 +225,34 @@
             "Content": "99.9 %",
             "Molecular Weight": "336.21 g/mol",
             "Shelf Life": "6 Months",
-            "Availability": "In Stock",
-            "Price": "Excluding all taxes",
-            "Ships from": "Vijayawada",
-            "Shipping": "As per delivery location"
-          }
+            "GST Registration Date": "Jul 2017",
+            "Legal Status of Firm": "Partnership",
+            "Nature of Business": "Trader - Wholesaler/Distributor",
+            "Number of Employees": "Upto 10 People",
+            "Annual Turnover": "5 - 25 Cr",
+            "IndiaMART Member Since": "Dec 2012",
+            "GST": "37**********1Z6"
+          },
+          "category": "Laboratory Chemicals",
+          "category_slug": "laboratory-chemicals"
         },
         {
           "proddispid": "24736657462",
           "prodname": "Sodium Meta bisulphite",
-          "thumbnail": "https://5.imimg.com/data5/SELLER/Default/2025/5/509234842/OW/MX/WG/6407096/sodium-meta-bisulphite-250x250.jpg",
-          "category": "Laboratory Chemicals",
-          "category_slug": "laboratory-chemicals",
           "product_url": "https://www.indiamart.com/proddetail/24736657462.html",
-          "description": "",
+          "description": "Established in the year  2012  we\" Chem Care Technologies.\" is a Manufacturer of the wide spectrum Non Ferric Alum, View More, Cooling Tower Chemicals etc. We are manufacturing these products using premium grade raw material that is procured from the authentic vendors of the market. We offer these products at reasonable rates and deliver these within the promised time-frame.",
           "price": "₹ 49",
+          "unit": "",
+          "min_order": "\"Kg\",\"PC_ITEM_NAME\":\"Sodium Meta bisulph",
           "images": [
             "https://5.imimg.com/data5/ANDROID/Default/2022/1/OU/QS/XX/6407096/product-jpeg-500x500.jpg",
             "https://5.imimg.com/data5/ANDROID/Default/2022/1/OU/QS/XX/6407096/product-jpeg-1000x1000.jpg",
             "https://5.imimg.com/data5/SELLER/Default/2025/5/509234842/OW/MX/WG/6407096/sodium-meta-bisulphite-1000x1000.jpg",
             "https://5.imimg.com/data5/SELLER/Default/2025/5/509234692/HV/ZQ/TV/6407096/sodium-meta-bisulphite-1000x1000.jpg",
-            "https://5.imimg.com/data5/SELLER/Logo/2025/5/509401904/ZB/OI/PC/6407096/logo02-90x90.jpg"
+            "https://5.imimg.com/data5/SELLER/Default/2025/5/509234842/OW/MX/WG/6407096/sodium-meta-bisulphite-500x500.jpg",
+            "https://5.imimg.com/data5/SELLER/Default/2025/5/509234692/HV/ZQ/TV/6407096/sodium-meta-bisulphite-500x500.jpg"
           ],
+          "thumbnail": "https://5.imimg.com/data5/SELLER/Default/2025/5/509234842/OW/MX/WG/6407096/sodium-meta-bisulphite-250x250.jpg",
           "specifications": {
             "Grade": "Industrial",
             "Form": "Powder",
@@ -452,59 +262,70 @@
             "Iron content": "0.02 %",
             "PH Value": "4.8 5% solution",
             "Country of Origin": "Made in India",
-            "Availability": "In Stock",
-            "View in Hindi": "सोडियम मेटाबाइसल्फाइट, 50 Kg बैग, पैकेजिंग टाइप: Hdep बैग",
-            "Price": "Excluding all taxes",
-            "Ships from": "Vijayawada",
-            "Shipping": "As per delivery location"
-          }
+            "GST Registration Date": "Jul 2017",
+            "Legal Status of Firm": "Partnership",
+            "Nature of Business": "Trader - Wholesaler/Distributor",
+            "Number of Employees": "Upto 10 People",
+            "Annual Turnover": "5 - 25 Cr",
+            "IndiaMART Member Since": "Dec 2012",
+            "GST": "37**********1Z6"
+          },
+          "category": "Laboratory Chemicals",
+          "category_slug": "laboratory-chemicals"
         },
         {
           "proddispid": "2849568819597",
           "prodname": "Sodium Bicarbonate Technical Grade",
-          "thumbnail": "https://5.imimg.com/data5/SELLER/Default/2025/5/509234189/WF/AW/FA/6407096/sodium-bicarbonate-technical-grade-250x250.jpg",
-          "category": "Laboratory Chemicals",
-          "category_slug": "laboratory-chemicals",
           "product_url": "https://www.indiamart.com/proddetail/2849568819597.html",
-          "description": "",
+          "description": "Established in the year  2012  we\" Chem Care Technologies.\" is a Manufacturer of the wide spectrum Non Ferric Alum, View More, Cooling Tower Chemicals etc. We are manufacturing these products using premium grade raw material that is procured from the authentic vendors of the market. We offer these products at reasonable rates and deliver these within the promised time-frame.",
           "price": "₹ 36",
+          "unit": "",
+          "min_order": "\"Kg\",\"PC_ITEM_NAME\":\"Sodium Bicarbonate",
           "images": [
             "https://5.imimg.com/data5/ANDROID/Default/2023/1/TI/AG/OK/6407096/product-jpeg-1000x1000.jpg",
             "https://5.imimg.com/data5/ANDROID/Default/2023/1/TI/AG/OK/6407096/product-jpeg-500x500.jpg",
             "https://5.imimg.com/data5/SELLER/Default/2025/5/509234189/WF/AW/FA/6407096/sodium-bicarbonate-technical-grade-1000x1000.jpg",
             "https://5.imimg.com/data5/SELLER/Default/2025/5/509234308/VE/SF/YN/6407096/sodium-bicarbonate-technical-grade-1000x1000.jpg",
-            "https://5.imimg.com/data5/SELLER/Logo/2025/5/509401904/ZB/OI/PC/6407096/logo02-90x90.jpg"
+            "https://5.imimg.com/data5/SELLER/Default/2025/5/509234189/WF/AW/FA/6407096/sodium-bicarbonate-technical-grade-500x500.jpg",
+            "https://5.imimg.com/data5/SELLER/Default/2025/5/509234308/VE/SF/YN/6407096/sodium-bicarbonate-technical-grade-500x500.jpg"
           ],
+          "thumbnail": "https://5.imimg.com/data5/SELLER/Default/2025/5/509234189/WF/AW/FA/6407096/sodium-bicarbonate-technical-grade-250x250.jpg",
           "specifications": {
             "Grade Standard": "Industrial Grade",
-            "Purity %": "&gt;99%",
+            "Purity %": ">99%",
             "Packaging Details": "50 Kg Bag",
             "Grade": "Technical grade",
             "Usage/Application": "Laboratory",
             "Physical State": "Powder",
             "Country of Origin": "Made in India",
-            "Availability": "In Stock",
-            "Price": "Excluding all taxes",
-            "Ships from": "Vijayawada",
-            "Shipping": "As per delivery location"
-          }
+            "GST Registration Date": "Jul 2017",
+            "Legal Status of Firm": "Partnership",
+            "Nature of Business": "Trader - Wholesaler/Distributor",
+            "Number of Employees": "Upto 10 People",
+            "Annual Turnover": "5 - 25 Cr",
+            "IndiaMART Member Since": "Dec 2012",
+            "GST": "37**********1Z6"
+          },
+          "category": "Laboratory Chemicals",
+          "category_slug": "laboratory-chemicals"
         },
         {
           "proddispid": "2851077378433",
           "prodname": "Acid Slurry Labsa",
-          "thumbnail": "https://5.imimg.com/data5/SELLER/Default/2025/5/509210804/RW/WK/DR/6407096/acid-slurry-labsa-250x250.jpg",
-          "category": "Laboratory Chemicals",
-          "category_slug": "laboratory-chemicals",
           "product_url": "https://www.indiamart.com/proddetail/2851077378433.html",
-          "description": "",
+          "description": "Established in the year  2012  we\" Chem Care Technologies.\" is a Manufacturer of the wide spectrum Non Ferric Alum, View More, Cooling Tower Chemicals etc. We are manufacturing these products using premium grade raw material that is procured from the authentic vendors of the market. We offer these products at reasonable rates and deliver these within the promised time-frame.",
           "price": "₹ 138",
+          "unit": "",
+          "min_order": "\"Kg\",\"PC_ITEM_NAME\":\"Acid Slurry Labsa\",",
           "images": [
             "https://5.imimg.com/data5/ANDROID/Default/2023/5/305617809/OA/LA/PK/6407096/product-jpeg-500x500.jpg",
             "https://5.imimg.com/data5/ANDROID/Default/2023/5/305617809/OA/LA/PK/6407096/product-jpeg-1000x1000.jpg",
             "https://5.imimg.com/data5/SELLER/Default/2025/5/509210804/RW/WK/DR/6407096/acid-slurry-labsa-1000x1000.jpg",
             "https://5.imimg.com/data5/SELLER/Default/2025/5/509210777/IY/NF/BN/6407096/acid-slurry-labsa-1000x1000.jpg",
-            "https://5.imimg.com/data5/SELLER/Logo/2025/5/509401904/ZB/OI/PC/6407096/logo02-90x90.jpg"
+            "https://5.imimg.com/data5/SELLER/Default/2025/5/509210804/RW/WK/DR/6407096/acid-slurry-labsa-500x500.jpg",
+            "https://5.imimg.com/data5/SELLER/Default/2025/5/509210777/IY/NF/BN/6407096/acid-slurry-labsa-500x500.jpg"
           ],
+          "thumbnail": "https://5.imimg.com/data5/SELLER/Default/2025/5/509210804/RW/WK/DR/6407096/acid-slurry-labsa-250x250.jpg",
           "specifications": {
             "Purity": "0.95",
             "Packaging Size": "50 kg",
@@ -512,152 +333,16 @@
             "Packaging Type": "50 kg",
             "Color": "Black",
             "Brand": "Chem care",
-            "Availability": "In Stock",
-            "View in Hindi": "एसिड स्लरी लाबसा, पैकेजिंग आकार: 50 किलोग्राम",
-            "Price": "Excluding all taxes",
-            "Ships from": "Vijayawada",
-            "Shipping": "As per delivery location"
-          }
-        }
-      ]
-    },
-    {
-      "name": "Hypochlorite Chemicals",
-      "slug": "hypochlorite-chemical",
-      "products": [
-        {
-          "proddispid": "22379711248",
-          "prodname": "Sodium Hypochlorite Liquid",
-          "thumbnail": "https://5.imimg.com/data5/AA/CW/UN/SELLER-6407096/sodium-hypochlorite-chemical-250x250.jpg",
-          "category": "Hypochlorite Chemicals",
-          "category_slug": "hypochlorite-chemical",
-          "product_url": "https://www.indiamart.com/proddetail/22379711248.html",
-          "description": "",
-          "price": "₹ 12",
-          "images": [
-            "https://5.imimg.com/data5/SELLER/Default/2023/6/318543450/CL/MY/LW/6407096/sodium-hypochlorite-liquid-500x500.jpg",
-            "https://5.imimg.com/data5/SELLER/Default/2023/6/318543450/CL/MY/LW/6407096/sodium-hypochlorite-liquid-1000x1000.jpg",
-            "https://5.imimg.com/data5/AA/CW/UN/SELLER-6407096/sodium-hypochlorite-chemical-1000x1000.jpg",
-            "https://5.imimg.com/data5/SELLER/Default/2023/6/318543452/DV/AV/IJ/6407096/sodium-hypochlorite-liquid-1000x1000.jpg",
-            "https://5.imimg.com/data5/SELLER/Default/2025/5/509233148/YC/IG/TB/6407096/sodium-hypochlorite-liquid-1000x1000.jpg"
-          ],
-          "specifications": {
-            "Purity %": "12%",
-            "Physical State": "Liquid",
-            "Grade Standard": "Grade 1",
-            "Purity": "12%",
-            "Brand": "Chem Care",
-            "Grade": "Grade 1",
-            "Availability": "In Stock",
-            "Price": "Excluding all taxes",
-            "Ships from": "Vijayawada",
-            "Shipping": "As per delivery location"
-          }
-        },
-        {
-          "proddispid": "2859275453091",
-          "prodname": "Sodium Hypochlorite",
-          "thumbnail": "",
-          "category": "Hypochlorite Chemicals",
-          "category_slug": "hypochlorite-chemical",
-          "product_url": "",
-          "description": "",
-          "price": "",
-          "images": [],
-          "specifications": {}
-        },
-        {
-          "proddispid": "22379714030",
-          "prodname": "Calcium Hypochlorite Chemical",
-          "thumbnail": "https://5.imimg.com/data5/SELLER/Default/2025/5/509231958/QQ/ZL/FZ/6407096/calcium-hypochlorite-chemical-250x250.jpg",
-          "category": "Hypochlorite Chemicals",
-          "category_slug": "hypochlorite-chemical",
-          "product_url": "https://www.indiamart.com/proddetail/22379714030.html",
-          "description": "",
-          "price": "₹ 195",
-          "images": [
-            "https://5.imimg.com/data5/SELLER/Default/2025/5/509231697/CN/EC/FM/6407096/calcium-hypochlorite-chemical-500x500.jpg",
-            "https://5.imimg.com/data5/SELLER/Default/2025/5/509231697/CN/EC/FM/6407096/calcium-hypochlorite-chemical-1000x1000.jpg",
-            "https://5.imimg.com/data5/SELLER/Default/2025/5/509231958/QQ/ZL/FZ/6407096/calcium-hypochlorite-chemical-1000x1000.jpg",
-            "https://5.imimg.com/data5/SELLER/Default/2025/5/509232157/UP/MO/PR/6407096/calcium-hypochlorite-chemical-1000x1000.jpg",
-            "https://5.imimg.com/data5/SELLER/Logo/2025/5/509401904/ZB/OI/PC/6407096/logo02-90x90.jpg"
-          ],
-          "specifications": {
-            "Brand": "Chem Care",
-            "Form": "Powder",
-            "Moisture": "5-10%",
-            "Pack Type": "Drum",
-            "Purity": "99%",
-            "Country of Origin": "Made in India",
-            "Packaging Size": "25 kg",
-            "Pack Size": "50 kg",
-            "Availability": "In Stock",
-            "Price": "Excluding all taxes",
-            "Ships from": "Vijayawada",
-            "Shipping": "As per delivery location"
-          }
-        },
-        {
-          "proddispid": "2851935084588",
-          "prodname": "Vikram Bleaching Powder",
-          "thumbnail": "https://5.imimg.com/data5/SELLER/Default/2025/5/509214215/DE/VE/EL/6407096/vikram-bleaching-powder-250x250.jpg",
-          "category": "Hypochlorite Chemicals",
-          "category_slug": "hypochlorite-chemical",
-          "product_url": "https://www.indiamart.com/proddetail/2851935084588.html",
-          "description": "",
-          "price": "₹ 425",
-          "images": [
-            "https://5.imimg.com/data5/ANDROID/Default/2023/8/339100327/DH/DE/HQ/6407096/product-jpeg-500x500.jpg",
-            "https://5.imimg.com/data5/ANDROID/Default/2023/8/339100327/DH/DE/HQ/6407096/product-jpeg-1000x1000.jpg",
-            "https://5.imimg.com/data5/SELLER/Default/2025/5/509214215/DE/VE/EL/6407096/vikram-bleaching-powder-1000x1000.jpg",
-            "https://5.imimg.com/data5/SELLER/Logo/2025/5/509401904/ZB/OI/PC/6407096/logo02-90x90.jpg",
-            "https://5.imimg.com/data5/SELLER/Default/2025/5/509214215/DE/VE/EL/6407096/vikram-bleaching-powder-125x125.jpg"
-          ],
-          "specifications": {
-            "Grade": "Stable",
-            "Brand": "Vikram",
-            "Packaging Size": "25 kg",
-            "Packaging Type": "Bag",
-            "Grade Standard": "Industrial Grade",
-            "Purity": "35 %",
-            "Usage/Application": "Personal",
-            "HS Code": "28281010",
-            "Physical State": "Powder",
-            "Country of Origin": "Made in India",
-            "Availability": "In Stock",
-            "View in Hindi": "इंडस्ट्रियल ग्रेड विक्रम ब्लीचिंग पाउडर, 25 किलोग्राम",
-            "Price": "Excluding all taxes",
-            "Ships from": "Vijayawada",
-            "Shipping": "As per delivery location"
-          }
-        },
-        {
-          "proddispid": "2855568391088",
-          "prodname": "Stable Bleaching Powder",
-          "thumbnail": "https://5.imimg.com/data5/SELLER/Default/2025/5/509213752/MD/AE/KE/6407096/stable-bleaching-powder-250x250.jpg",
-          "category": "Hypochlorite Chemicals",
-          "category_slug": "hypochlorite-chemical",
-          "product_url": "https://www.indiamart.com/proddetail/2855568391088.html",
-          "description": "",
-          "price": "Rs. 5",
-          "images": [
-            "https://5.imimg.com/data5/SELLER/Default/2023/11/357893673/UH/GB/DU/6407096/vikram-bleaching-powder-500x500.jpg",
-            "https://5.imimg.com/data5/SELLER/Default/2023/11/357893673/UH/GB/DU/6407096/vikram-bleaching-powder-1000x1000.jpg",
-            "https://5.imimg.com/data5/SELLER/Default/2025/5/509213752/MD/AE/KE/6407096/stable-bleaching-powder-1000x1000.jpg",
-            "https://5.imimg.com/data5/SELLER/Logo/2025/5/509401904/ZB/OI/PC/6407096/logo02-90x90.jpg",
-            "https://5.imimg.com/data5/SELLER/Default/2025/5/509213752/MD/AE/KE/6407096/stable-bleaching-powder-125x125.jpg"
-          ],
-          "specifications": {
-            "Packaging Size": "25Kg",
-            "Grade Standard": "Industrial Grade",
-            "CAS Number": "7778543",
-            "Physical State": "Powder",
-            "Country of Origin": "Made in India",
-            "Availability": "In Stock",
-            "View in Hindi": "ब्लीचिंग पाउडर",
-            "Ships from": "Vijayawada",
-            "Shipping": "As per delivery location"
-          }
+            "GST Registration Date": "Jul 2017",
+            "Legal Status of Firm": "Partnership",
+            "Nature of Business": "Trader - Wholesaler/Distributor",
+            "Number of Employees": "Upto 10 People",
+            "Annual Turnover": "5 - 25 Cr",
+            "IndiaMART Member Since": "Dec 2012",
+            "GST": "37**********1Z6"
+          },
+          "category": "Laboratory Chemicals",
+          "category_slug": "laboratory-chemicals"
         }
       ]
     },
@@ -668,19 +353,20 @@
         {
           "proddispid": "22383179430",
           "prodname": "Cooling Tower Oxidizing Biocide Chemical",
-          "thumbnail": "https://5.imimg.com/data5/SELLER/Default/2025/5/509229273/HG/ZM/MQ/6407096/cooling-tower-oxidizing-biocide-chemical-250x250.jpg",
-          "category": "Cooling Tower Chemicals",
-          "category_slug": "cooling-tower-chemicals",
           "product_url": "https://www.indiamart.com/proddetail/22383179430.html",
-          "description": "",
+          "description": "We are among the reputed organizations, highly engaged in providing an optimum quality range of Cooling Tower Oxidizing Biocide Chemical.",
           "price": "₹ 267",
+          "unit": "",
+          "min_order": "\"Litre\",\"PC_ITEM_NAME\":\"Cooling Tower Ox",
           "images": [
             "https://5.imimg.com/data5/SELLER/Default/2025/5/509229015/OP/LI/ZJ/6407096/cooling-tower-oxidizing-biocide-chemical-500x500.jpg",
             "https://5.imimg.com/data5/SELLER/Default/2025/5/509229015/OP/LI/ZJ/6407096/cooling-tower-oxidizing-biocide-chemical-1000x1000.jpg",
             "https://5.imimg.com/data5/SELLER/Default/2025/5/509229273/HG/ZM/MQ/6407096/cooling-tower-oxidizing-biocide-chemical-1000x1000.jpg",
             "https://5.imimg.com/data5/SELLER/Default/2025/5/509229697/ME/VE/GS/6407096/cooling-tower-oxidizing-biocide-chemical-1000x1000.jpg",
-            "https://5.imimg.com/data5/SELLER/Logo/2025/5/509401904/ZB/OI/PC/6407096/logo02-90x90.jpg"
+            "https://5.imimg.com/data5/SELLER/Default/2025/5/509229273/HG/ZM/MQ/6407096/cooling-tower-oxidizing-biocide-chemical-500x500.jpg",
+            "https://5.imimg.com/data5/SELLER/Default/2025/5/509229697/ME/VE/GS/6407096/cooling-tower-oxidizing-biocide-chemical-500x500.jpg"
           ],
+          "thumbnail": "https://5.imimg.com/data5/SELLER/Default/2025/5/509229273/HG/ZM/MQ/6407096/cooling-tower-oxidizing-biocide-chemical-250x250.jpg",
           "specifications": {
             "Packaging Type": "Drum",
             "Grade Standard": "Bio-Tech Grade",
@@ -689,28 +375,34 @@
             "Physical State": "Liquid",
             "Ph Value": "5-7",
             "Shelf Life:": "2 Year",
-            "Availability": "In Stock",
-            "Price": "Excluding all taxes",
-            "Ships from": "Vijayawada",
-            "Shipping": "As per delivery location"
-          }
+            "GST Registration Date": "Jul 2017",
+            "Legal Status of Firm": "Partnership",
+            "Nature of Business": "Trader - Wholesaler/Distributor",
+            "Number of Employees": "Upto 10 People",
+            "Annual Turnover": "5 - 25 Cr",
+            "IndiaMART Member Since": "Dec 2012",
+            "GST": "37**********1Z6"
+          },
+          "category": "Cooling Tower Chemicals",
+          "category_slug": "cooling-tower-chemicals"
         },
         {
           "proddispid": "22383177973",
           "prodname": "Cooling Tower Non Oxidizing Biocide Chemical",
-          "thumbnail": "https://5.imimg.com/data5/SELLER/Default/2025/5/509230840/GL/CY/DR/6407096/cooling-tower-non-oxidizing-biocide-chemical-250x250.jpg",
-          "category": "Cooling Tower Chemicals",
-          "category_slug": "cooling-tower-chemicals",
           "product_url": "https://www.indiamart.com/proddetail/22383177973.html",
-          "description": "",
+          "description": "With an objective to fulfill the demands of our clients, we are engaged in providing a wide array of Cooling Tower Non Oxidizing Biocide Chemical.",
           "price": "₹ 96",
+          "unit": "",
+          "min_order": "\"Litre\",\"PC_ITEM_NAME\":\"Cooling Tower No",
           "images": [
             "https://5.imimg.com/data5/SELLER/Default/2025/5/509230622/XJ/NA/WV/6407096/cooling-tower-non-oxidizing-biocide-chemical-500x500.jpg",
             "https://5.imimg.com/data5/SELLER/Default/2025/5/509230622/XJ/NA/WV/6407096/cooling-tower-non-oxidizing-biocide-chemical-1000x1000.jpg",
             "https://5.imimg.com/data5/SELLER/Default/2025/5/509230840/GL/CY/DR/6407096/cooling-tower-non-oxidizing-biocide-chemical-1000x1000.jpg",
             "https://5.imimg.com/data5/SELLER/Default/2025/5/509231018/FF/KH/BZ/6407096/cooling-tower-non-oxidizing-biocide-chemical-1000x1000.jpg",
-            "https://5.imimg.com/data5/SELLER/Logo/2025/5/509401904/ZB/OI/PC/6407096/logo02-90x90.jpg"
+            "https://5.imimg.com/data5/SELLER/Default/2025/5/509230840/GL/CY/DR/6407096/cooling-tower-non-oxidizing-biocide-chemical-500x500.jpg",
+            "https://5.imimg.com/data5/SELLER/Default/2025/5/509231018/FF/KH/BZ/6407096/cooling-tower-non-oxidizing-biocide-chemical-500x500.jpg"
           ],
+          "thumbnail": "https://5.imimg.com/data5/SELLER/Default/2025/5/509230840/GL/CY/DR/6407096/cooling-tower-non-oxidizing-biocide-chemical-250x250.jpg",
           "specifications": {
             "Packaging Type": "Drum",
             "Grade Standard": "Bio-Tech Grade",
@@ -719,57 +411,71 @@
             "Purity": "100%",
             "Physical State": "Liquid",
             "Ph Value": "5-7",
-            "Availability": "In Stock",
-            "Price": "Excluding all taxes",
-            "Ships from": "Vijayawada",
-            "Shipping": "As per delivery location"
-          }
+            "GST Registration Date": "Jul 2017",
+            "Legal Status of Firm": "Partnership",
+            "Nature of Business": "Trader - Wholesaler/Distributor",
+            "Number of Employees": "Upto 10 People",
+            "Annual Turnover": "5 - 25 Cr",
+            "IndiaMART Member Since": "Dec 2012",
+            "GST": "37**********1Z6"
+          },
+          "category": "Cooling Tower Chemicals",
+          "category_slug": "cooling-tower-chemicals"
         },
         {
           "proddispid": "22383177191",
           "prodname": "Cooling Tower Metal Dispersant Chemical",
-          "thumbnail": "https://5.imimg.com/data5/RV/PV/QY/SELLER-6407096/cooling-tower-metal-dispersant-chemical-250x250.jpg",
-          "category": "Cooling Tower Chemicals",
-          "category_slug": "cooling-tower-chemicals",
           "product_url": "https://www.indiamart.com/proddetail/22383177191.html",
-          "description": "",
+          "description": "We are successfully engaged in providing a wide gamut of Cooling Tower Metal Dispersant Chemical.",
           "price": "₹ 155",
+          "unit": "",
+          "min_order": "\"Litre\",\"PC_ITEM_NAME\":\"Cooling Tower Me",
           "images": [
             "https://5.imimg.com/data5/SELLER/Default/2025/5/509230962/YN/FC/HC/6407096/cooling-tower-non-oxidizing-biocide-chemical-500x500.jpg",
             "https://5.imimg.com/data5/SELLER/Default/2025/5/509230962/YN/FC/HC/6407096/cooling-tower-non-oxidizing-biocide-chemical-1000x1000.jpg",
             "https://5.imimg.com/data5/RV/PV/QY/SELLER-6407096/cooling-tower-metal-dispersant-chemical-1000x1000.jpg",
             "https://5.imimg.com/data5/SELLER/Default/2025/5/509232688/OR/RR/MJ/6407096/cooling-tower-metal-dispersant-chemical-1000x1000.jpg",
-            "https://5.imimg.com/data5/SELLER/Default/2025/5/509232814/ZX/SP/PF/6407096/cooling-tower-metal-dispersant-chemical-1000x1000.jpg"
+            "https://5.imimg.com/data5/SELLER/Default/2025/5/509232814/ZX/SP/PF/6407096/cooling-tower-metal-dispersant-chemical-1000x1000.jpg",
+            "https://5.imimg.com/data5/RV/PV/QY/SELLER-6407096/cooling-tower-metal-dispersant-chemical-500x500.jpg",
+            "https://5.imimg.com/data5/SELLER/Default/2025/5/509232688/OR/RR/MJ/6407096/cooling-tower-metal-dispersant-chemical-500x500.jpg",
+            "https://5.imimg.com/data5/SELLER/Default/2025/5/509232814/ZX/SP/PF/6407096/cooling-tower-metal-dispersant-chemical-500x500.jpg"
           ],
+          "thumbnail": "https://5.imimg.com/data5/RV/PV/QY/SELLER-6407096/cooling-tower-metal-dispersant-chemical-250x250.jpg",
           "specifications": {
             "Packaging Type": "Drum",
             "Grade Standard": "Bio-Tech Grade",
             "Brand": "Chem Care",
             "Purity": "98%",
             "Physical State": "Liquid",
-            "Industry": "Food &amp; Beverage",
-            "Availability": "In Stock",
-            "Price": "Excluding all taxes",
-            "Ships from": "Vijayawada",
-            "Shipping": "As per delivery location"
-          }
+            "Industry": "Food & Beverage",
+            "GST Registration Date": "Jul 2017",
+            "Legal Status of Firm": "Partnership",
+            "Nature of Business": "Trader - Wholesaler/Distributor",
+            "Number of Employees": "Upto 10 People",
+            "Annual Turnover": "5 - 25 Cr",
+            "IndiaMART Member Since": "Dec 2012",
+            "GST": "37**********1Z6"
+          },
+          "category": "Cooling Tower Chemicals",
+          "category_slug": "cooling-tower-chemicals"
         },
         {
           "proddispid": "22383175712",
           "prodname": "Cooling Tower Bio Dispersant Chemical",
-          "thumbnail": "https://5.imimg.com/data5/SELLER/Default/2025/5/509227612/RX/DC/LQ/6407096/cooling-tower-bio-dispersant-chemical-250x250.jpg",
-          "category": "Cooling Tower Chemicals",
-          "category_slug": "cooling-tower-chemicals",
           "product_url": "https://www.indiamart.com/proddetail/22383175712.html",
-          "description": "",
+          "description": "Being a leading firm in this industry, we are offering a high quality range of Cooling Tower Bio Dispersant Chemical.",
           "price": "₹ 135",
+          "unit": "",
+          "min_order": "\"Litre\",\"PC_ITEM_NAME\":\"Cooling Tower Bi",
           "images": [
             "https://5.imimg.com/data5/SELLER/Default/2025/5/509227474/EJ/JG/KJ/6407096/cooling-tower-bio-dispersant-chemical-500x500.jpg",
             "https://5.imimg.com/data5/SELLER/Default/2025/5/509227474/EJ/JG/KJ/6407096/cooling-tower-bio-dispersant-chemical-1000x1000.jpg",
             "https://5.imimg.com/data5/SELLER/Default/2025/5/509227612/RX/DC/LQ/6407096/cooling-tower-bio-dispersant-chemical-1000x1000.jpg",
             "https://5.imimg.com/data5/SELLER/Default/2025/5/509227995/YR/WR/TI/6407096/cooling-tower-bio-dispersant-chemical-1000x1000.png",
-            "https://5.imimg.com/data5/SELLER/Logo/2025/5/509401904/ZB/OI/PC/6407096/logo02-90x90.jpg"
+            "https://5.imimg.com/data5/SELLER/Default/2025/5/509227612/RX/DC/LQ/6407096/cooling-tower-bio-dispersant-chemical-500x500.jpg",
+            "https://5.imimg.com/data5/SELLER/Default/2025/5/509227995/YR/WR/TI/6407096/cooling-tower-bio-dispersant-chemical-500x500.png"
           ],
+          "thumbnail": "https://5.imimg.com/data5/SELLER/Default/2025/5/509227612/RX/DC/LQ/6407096/cooling-tower-bio-dispersant-chemical-250x250.jpg",
           "specifications": {
             "Packaging Type": "Drum",
             "Grade Standard": "Technical Grade",
@@ -778,28 +484,30 @@
             "Purity": "99%",
             "Physical State": "Liquid",
             "Type Of Chemicals": "Scale Inhibitor",
-            "Availability": "In Stock",
-            "Price": "Excluding all taxes",
-            "Ships from": "Vijayawada",
-            "Shipping": "As per delivery location"
-          }
+            "GST Registration Date": "Jul 2017",
+            "Legal Status of Firm": "Partnership",
+            "Nature of Business": "Trader - Wholesaler/Distributor",
+            "Number of Employees": "Upto 10 People",
+            "Annual Turnover": "5 - 25 Cr",
+            "IndiaMART Member Since": "Dec 2012",
+            "GST": "37**********1Z6"
+          },
+          "category": "Cooling Tower Chemicals",
+          "category_slug": "cooling-tower-chemicals"
         },
         {
           "proddispid": "22358225133",
           "prodname": "Cooling Tower Antiscalant And Corrosion Inhibitor Chemical",
-          "thumbnail": "https://3.imimg.com/data3/TX/GN/MY-2/corrosion-inhibitors-250x250.jpg",
-          "category": "Cooling Tower Chemicals",
-          "category_slug": "cooling-tower-chemicals",
           "product_url": "https://www.indiamart.com/proddetail/22358225133.html",
-          "description": "",
+          "description": "Backed with huge industry experience and market understanding, we are involved in providing a wide variety of Cooling Tower Antiscalant And Corrosion Inhibitor Chemical for our valued patrons.",
           "price": "₹ 85",
+          "unit": "",
+          "min_order": "\"Litre\",\"PC_ITEM_NAME\":\"Cooling Tower An",
           "images": [
             "https://5.imimg.com/data5/AT/NM/CD/SELLER-6407096/cooling-tower-antiscalant-and-corrosion-inhibitor-chemical-500x500.jpg",
-            "https://5.imimg.com/data5/SELLER/Logo/2025/5/509401904/ZB/OI/PC/6407096/logo02-90x90.jpg",
-            "https://3.imimg.com/data3/TX/GN/MY-2/corrosion-inhibitors-125x125.jpg",
-            "https://5.imimg.com/data5/AT/NM/CD/SELLER-6407096/cooling-tower-antiscalant-and-corrosion-inhibitor-chemical-125x125.jpg",
             "https://5.imimg.com/data5/AT/NM/CD/SELLER-6407096/cooling-tower-antiscalant-and-corrosion-inhibitor-chemical-1000x1000.jpg"
           ],
+          "thumbnail": "https://5.imimg.com/data5/AT/NM/CD/SELLER-6407096/cooling-tower-antiscalant-and-corrosion-inhibitor-chemical-250x250.jpg",
           "specifications": {
             "Form": "Liquid",
             "Packaging Type": "Drum",
@@ -813,11 +521,242 @@
             "Purity": "95%",
             "Physical State": "Liquid",
             "Shelf Life": "2 Year",
-            "Availability": "In Stock",
-            "Price": "Excluding all taxes",
-            "Ships from": "Vijayawada",
-            "Shipping": "As per delivery location"
-          }
+            "GST Registration Date": "Jul 2017",
+            "Legal Status of Firm": "Partnership",
+            "Nature of Business": "Trader - Wholesaler/Distributor",
+            "Number of Employees": "Upto 10 People",
+            "Annual Turnover": "5 - 25 Cr",
+            "IndiaMART Member Since": "Dec 2012",
+            "GST": "37**********1Z6"
+          },
+          "category": "Cooling Tower Chemicals",
+          "category_slug": "cooling-tower-chemicals"
+        }
+      ]
+    },
+    {
+      "name": "laboratory chemical",
+      "slug": "laboratory-chemical",
+      "products": [
+        {
+          "proddispid": "27448526762",
+          "prodname": "Magnesium Chloride Flakes",
+          "product_url": "https://www.indiamart.com/proddetail/27448526762.html",
+          "description": "Established in the year  2012  we\" Chem Care Technologies.\" is a Manufacturer of the wide spectrum Non Ferric Alum, View More, Cooling Tower Chemicals etc. We are manufacturing these products using premium grade raw material that is procured from the authentic vendors of the market. We offer these products at reasonable rates and deliver these within the promised time-frame.",
+          "price": "₹ 15",
+          "unit": "",
+          "min_order": "\"Kg\",\"PC_ITEM_NAME\":\"Magnesium Chloride",
+          "images": [
+            "https://5.imimg.com/data5/ANDROID/Default/2022/11/OP/ZX/TQ/6407096/product-jpeg-500x500.jpg",
+            "https://5.imimg.com/data5/ANDROID/Default/2022/11/OP/ZX/TQ/6407096/product-jpeg-1000x1000.jpg"
+          ],
+          "thumbnail": "https://5.imimg.com/data5/ANDROID/Default/2022/11/OP/ZX/TQ/6407096/product-jpeg-250x250.jpg",
+          "specifications": {
+            "Physical State/Form": "Crystal, Powder",
+            "Purity/Concentration": ">99%",
+            "Packaging Size": "25 Kg",
+            "Packaging Type": "Bag",
+            "Purity": "99%",
+            "Grade": "Industrial",
+            "Usage/Application": "industrial use",
+            "GST Registration Date": "Jul 2017",
+            "Legal Status of Firm": "Partnership",
+            "Nature of Business": "Trader - Wholesaler/Distributor",
+            "Number of Employees": "Upto 10 People",
+            "Annual Turnover": "5 - 25 Cr",
+            "IndiaMART Member Since": "Dec 2012",
+            "GST": "37**********1Z6"
+          },
+          "category": "laboratory chemical",
+          "category_slug": "laboratory-chemical"
+        },
+        {
+          "proddispid": "22478149448",
+          "prodname": "Phosphoric Acid Food Grade",
+          "product_url": "https://www.indiamart.com/proddetail/22478149448.html",
+          "description": "FooPhosphoric Acid Food Grade is a form of phosphoric acid (H₃PO₄) that meets strict purity standards for use in food and beverage production. It is a clear, colorless, and odorless liquid commonly used for its acidifying properties, providing a tangy or sour taste, especially in carbonated beverages like cola.\\nd grade",
+          "price": "₹ 115",
+          "unit": "",
+          "min_order": "\"Kg\",\"PC_ITEM_NAME\":\"Phosphoric Acid Foo",
+          "images": [
+            "https://5.imimg.com/data5/VZ/JD/UI/ANDROID-6407096/product-jpeg-500x500.jpg",
+            "https://5.imimg.com/data5/VZ/JD/UI/ANDROID-6407096/product-jpeg-1000x1000.jpg"
+          ],
+          "thumbnail": "https://5.imimg.com/data5/VZ/JD/UI/ANDROID-6407096/product-jpeg-250x250.jpg",
+          "specifications": {
+            "Packaging Size": "35-50kg",
+            "Usage/Application": "Agricultural Industry",
+            "Packaging Type": "plastic container",
+            "Packaging Details": "5Ltr Can",
+            "Form": "Liquid",
+            "Brand": "on customer requirement",
+            "Color": "transparent",
+            "Country of Origin": "Made in India",
+            "GST Registration Date": "Jul 2017",
+            "Legal Status of Firm": "Partnership",
+            "Nature of Business": "Trader - Wholesaler/Distributor",
+            "Number of Employees": "Upto 10 People",
+            "Annual Turnover": "5 - 25 Cr",
+            "IndiaMART Member Since": "Dec 2012",
+            "GST": "37**********1Z6"
+          },
+          "category": "laboratory chemical",
+          "category_slug": "laboratory-chemical"
+        }
+      ]
+    },
+    {
+      "name": "Hypochlorite Chemical",
+      "slug": "hypochlorite-chemical",
+      "products": [
+        {
+          "proddispid": "22379711248",
+          "prodname": "Sodium Hypochlorite Liquid",
+          "product_url": "https://www.indiamart.com/proddetail/22379711248.html",
+          "description": "With a firm commitment to quality, our organization is engaged in offering a wide ambit of Sodium Hypochlorite .",
+          "price": "₹ 12",
+          "unit": "",
+          "min_order": "\"Litre\",\"PC_ITEM_NAME\":\"Sodium Hypochlor",
+          "images": [
+            "https://5.imimg.com/data5/SELLER/Default/2023/6/318543450/CL/MY/LW/6407096/sodium-hypochlorite-liquid-500x500.jpg",
+            "https://5.imimg.com/data5/SELLER/Default/2023/6/318543450/CL/MY/LW/6407096/sodium-hypochlorite-liquid-1000x1000.jpg",
+            "https://5.imimg.com/data5/AA/CW/UN/SELLER-6407096/sodium-hypochlorite-chemical-1000x1000.jpg",
+            "https://5.imimg.com/data5/SELLER/Default/2023/6/318543452/DV/AV/IJ/6407096/sodium-hypochlorite-liquid-1000x1000.jpg",
+            "https://5.imimg.com/data5/SELLER/Default/2025/5/509233148/YC/IG/TB/6407096/sodium-hypochlorite-liquid-1000x1000.jpg",
+            "https://5.imimg.com/data5/AA/CW/UN/SELLER-6407096/sodium-hypochlorite-chemical-500x500.jpg",
+            "https://5.imimg.com/data5/SELLER/Default/2023/6/318543452/DV/AV/IJ/6407096/sodium-hypochlorite-liquid-500x500.jpg",
+            "https://5.imimg.com/data5/SELLER/Default/2025/5/509233148/YC/IG/TB/6407096/sodium-hypochlorite-liquid-500x500.jpg"
+          ],
+          "thumbnail": "https://5.imimg.com/data5/AA/CW/UN/SELLER-6407096/sodium-hypochlorite-chemical-250x250.jpg",
+          "specifications": {
+            "Purity %": "12%",
+            "Physical State": "Liquid",
+            "Grade Standard": "Grade 1",
+            "Purity": "12%",
+            "Brand": "Chem Care",
+            "Grade": "Grade 1",
+            "GST Registration Date": "Jul 2017",
+            "Legal Status of Firm": "Partnership",
+            "Nature of Business": "Trader - Wholesaler/Distributor",
+            "Number of Employees": "Upto 10 People",
+            "Annual Turnover": "5 - 25 Cr",
+            "IndiaMART Member Since": "Dec 2012",
+            "GST": "37**********1Z6"
+          },
+          "category": "Hypochlorite Chemical",
+          "category_slug": "hypochlorite-chemical"
+        },
+        {
+          "proddispid": "22379714030",
+          "prodname": "Calcium Hypochlorite Chemical",
+          "product_url": "https://www.indiamart.com/proddetail/22379714030.html",
+          "description": "With our vast experience & knowledge in this field, we are engaged in providing a quality-assured range of Calcium Hypochlorite Chemical.",
+          "price": "₹ 195",
+          "unit": "",
+          "min_order": "\"Kg\",\"PC_ITEM_NAME\":\"Calcium Hypochlorit",
+          "images": [
+            "https://5.imimg.com/data5/SELLER/Default/2025/5/509231697/CN/EC/FM/6407096/calcium-hypochlorite-chemical-500x500.jpg",
+            "https://5.imimg.com/data5/SELLER/Default/2025/5/509231697/CN/EC/FM/6407096/calcium-hypochlorite-chemical-1000x1000.jpg",
+            "https://5.imimg.com/data5/SELLER/Default/2025/5/509231958/QQ/ZL/FZ/6407096/calcium-hypochlorite-chemical-1000x1000.jpg",
+            "https://5.imimg.com/data5/SELLER/Default/2025/5/509232157/UP/MO/PR/6407096/calcium-hypochlorite-chemical-1000x1000.jpg",
+            "https://5.imimg.com/data5/SELLER/Default/2025/5/509231958/QQ/ZL/FZ/6407096/calcium-hypochlorite-chemical-500x500.jpg",
+            "https://5.imimg.com/data5/SELLER/Default/2025/5/509232157/UP/MO/PR/6407096/calcium-hypochlorite-chemical-500x500.jpg"
+          ],
+          "thumbnail": "https://5.imimg.com/data5/SELLER/Default/2025/5/509231958/QQ/ZL/FZ/6407096/calcium-hypochlorite-chemical-250x250.jpg",
+          "specifications": {
+            "Brand": "Chem Care",
+            "Form": "Powder",
+            "Moisture": "5-10%",
+            "Pack Type": "Drum",
+            "Purity": "99%",
+            "Country of Origin": "Made in India",
+            "Packaging Size": "25 kg",
+            "Pack Size": "50 kg",
+            "GST Registration Date": "Jul 2017",
+            "Legal Status of Firm": "Partnership",
+            "Nature of Business": "Trader - Wholesaler/Distributor",
+            "Number of Employees": "Upto 10 People",
+            "Annual Turnover": "5 - 25 Cr",
+            "IndiaMART Member Since": "Dec 2012",
+            "GST": "37**********1Z6"
+          },
+          "category": "Hypochlorite Chemical",
+          "category_slug": "hypochlorite-chemical"
+        }
+      ]
+    },
+    {
+      "name": "Bleaching Powder",
+      "slug": "bleaching-powder",
+      "products": [
+        {
+          "proddispid": "2851935084588",
+          "prodname": "Vikram Bleaching Powder",
+          "product_url": "https://www.indiamart.com/proddetail/2851935084588.html",
+          "description": "Vikram Bleaching Powder is a widely used industrial-grade chemical known for its high available chlorine content and stability. It's manufactured by Grasim Industries and is commonly used in water treatment, textile bleaching, and surface disinfection.",
+          "price": "₹ 425",
+          "unit": "",
+          "min_order": "\"Bag\",\"PC_ITEM_NAME\":\"Vikram Bleaching P",
+          "images": [
+            "https://5.imimg.com/data5/ANDROID/Default/2023/8/339100327/DH/DE/HQ/6407096/product-jpeg-500x500.jpg",
+            "https://5.imimg.com/data5/ANDROID/Default/2023/8/339100327/DH/DE/HQ/6407096/product-jpeg-1000x1000.jpg",
+            "https://5.imimg.com/data5/SELLER/Default/2025/5/509214215/DE/VE/EL/6407096/vikram-bleaching-powder-1000x1000.jpg",
+            "https://5.imimg.com/data5/SELLER/Default/2025/5/509214215/DE/VE/EL/6407096/vikram-bleaching-powder-500x500.jpg"
+          ],
+          "thumbnail": "https://5.imimg.com/data5/SELLER/Default/2025/5/509214215/DE/VE/EL/6407096/vikram-bleaching-powder-250x250.jpg",
+          "specifications": {
+            "Grade": "Stable",
+            "Brand": "Vikram",
+            "Packaging Size": "25 kg",
+            "Packaging Type": "Bag",
+            "Grade Standard": "Industrial Grade",
+            "Purity": "35 %",
+            "Usage/Application": "Personal",
+            "HS Code": "28281010",
+            "Physical State": "Powder",
+            "Country of Origin": "Made in India",
+            "GST Registration Date": "Jul 2017",
+            "Legal Status of Firm": "Partnership",
+            "Nature of Business": "Trader - Wholesaler/Distributor",
+            "Number of Employees": "Upto 10 People",
+            "Annual Turnover": "5 - 25 Cr",
+            "IndiaMART Member Since": "Dec 2012",
+            "GST": "37**********1Z6"
+          },
+          "category": "Bleaching Powder",
+          "category_slug": "bleaching-powder"
+        },
+        {
+          "proddispid": "2855568391088",
+          "prodname": "Stable Bleaching Powder",
+          "product_url": "https://www.indiamart.com/proddetail/2855568391088.html",
+          "description": "",
+          "price": "Rs. 5",
+          "unit": "",
+          "min_order": "\"\",\"PC_ITEM_NAME\":\"Stable Bleaching Powd",
+          "images": [
+            "https://5.imimg.com/data5/SELLER/Default/2023/11/357893673/UH/GB/DU/6407096/vikram-bleaching-powder-500x500.jpg",
+            "https://5.imimg.com/data5/SELLER/Default/2023/11/357893673/UH/GB/DU/6407096/vikram-bleaching-powder-1000x1000.jpg",
+            "https://5.imimg.com/data5/SELLER/Default/2025/5/509213752/MD/AE/KE/6407096/stable-bleaching-powder-1000x1000.jpg",
+            "https://5.imimg.com/data5/SELLER/Default/2025/5/509213752/MD/AE/KE/6407096/stable-bleaching-powder-500x500.jpg"
+          ],
+          "thumbnail": "https://5.imimg.com/data5/SELLER/Default/2025/5/509213752/MD/AE/KE/6407096/stable-bleaching-powder-250x250.jpg",
+          "specifications": {
+            "Packaging Size": "25Kg",
+            "Grade Standard": "Industrial Grade",
+            "CAS Number": "7778543",
+            "Physical State": "Powder",
+            "Country of Origin": "Made in India",
+            "GST Registration Date": "Jul 2017",
+            "Legal Status of Firm": "Partnership",
+            "Nature of Business": "Trader - Wholesaler/Distributor",
+            "Number of Employees": "Upto 10 People",
+            "Annual Turnover": "5 - 25 Cr",
+            "IndiaMART Member Since": "Dec 2012",
+            "GST": "37**********1Z6"
+          },
+          "category": "Bleaching Powder",
+          "category_slug": "bleaching-powder"
         }
       ]
     },
@@ -828,19 +767,16 @@
         {
           "proddispid": "25855439591",
           "prodname": "Liquid Soap Oil",
-          "thumbnail": "https://5.imimg.com/data5/VY/FT/HY/GLADMIN-65591/liquid-soap-oil-250x250.jpg",
-          "category": "Liquid Products",
-          "category_slug": "liquid-products",
           "product_url": "https://www.indiamart.com/proddetail/25855439591.html",
-          "description": "",
+          "description": "Soap Liquid  Established in the year  2012  we\\",
           "price": "₹ 36",
+          "unit": "",
+          "min_order": "\"Kg\",\"PC_ITEM_NAME\":\"Liquid Soap Oil\",\"P",
           "images": [
             "https://5.imimg.com/data5/ANDROID/Default/2022/6/UT/BC/XC/6407096/product-jpeg-500x500.jpg",
-            "https://5.imimg.com/data5/SELLER/Logo/2025/5/509401904/ZB/OI/PC/6407096/logo02-90x90.jpg",
-            "https://5.imimg.com/data5/VY/FT/HY/GLADMIN-65591/liquid-soap-oil-125x125.jpg",
-            "https://5.imimg.com/data5/ANDROID/Default/2022/6/UT/BC/XC/6407096/product-jpeg-125x125.jpg",
             "https://5.imimg.com/data5/ANDROID/Default/2022/6/UT/BC/XC/6407096/product-jpeg-1000x1000.jpg"
           ],
+          "thumbnail": "https://5.imimg.com/data5/ANDROID/Default/2022/6/UT/BC/XC/6407096/product-jpeg-250x250.jpg",
           "specifications": {
             "Packaging Size": "5 L",
             "Active Ingredients": "20%",
@@ -849,942 +785,1443 @@
             "Type Of Ingredient": "Chemical",
             "Brand": "Chem Care",
             "Country of Origin": "Made in India",
-            "Availability": "In Stock",
-            "Price": "Excluding all taxes",
-            "Ships from": "Vijayawada",
-            "Shipping": "As per delivery location"
-          }
+            "GST Registration Date": "Jul 2017",
+            "Legal Status of Firm": "Partnership",
+            "Nature of Business": "Trader - Wholesaler/Distributor",
+            "Number of Employees": "Upto 10 People",
+            "Annual Turnover": "5 - 25 Cr",
+            "IndiaMART Member Since": "Dec 2012",
+            "GST": "37**********1Z6"
+          },
+          "category": "Liquid Products",
+          "category_slug": "liquid-products"
         },
         {
           "proddispid": "2854613308391",
           "prodname": "Glacial Acetic Acid",
-          "thumbnail": "https://5.imimg.com/data5/SELLER/Default/2025/5/509217215/ML/TD/PO/6407096/glacial-acetic-acid-250x250.jpg",
-          "category": "Liquid Products",
-          "category_slug": "liquid-products",
           "product_url": "https://www.indiamart.com/proddetail/2854613308391.html",
-          "description": "",
+          "description": "Glacial Acetic Acid (GAA) is a highly concentrated form of acetic acid, typically &ge;99.5% purity, and is widely used in industries such as pharmaceuticals, textiles, food processing, and laboratory research. In India, GAA is available from various suppliers, offering different packaging options and pricing.",
           "price": "₹ 85",
+          "unit": "",
+          "min_order": "\"Kg\",\"PC_ITEM_NAME\":\"Glacial Acetic Acid",
           "images": [
             "https://5.imimg.com/data5/ANDROID/Default/2024/8/441307996/NE/BH/HH/6407096/product-jpeg-500x500.jpg",
             "https://5.imimg.com/data5/ANDROID/Default/2024/8/441307996/NE/BH/HH/6407096/product-jpeg-1000x1000.jpg",
             "https://5.imimg.com/data5/SELLER/Default/2025/5/509217215/ML/TD/PO/6407096/glacial-acetic-acid-1000x1000.jpg",
-            "https://5.imimg.com/data5/SELLER/Logo/2025/5/509401904/ZB/OI/PC/6407096/logo02-90x90.jpg",
-            "https://5.imimg.com/data5/SELLER/Default/2025/5/509217215/ML/TD/PO/6407096/glacial-acetic-acid-125x125.jpg"
+            "https://5.imimg.com/data5/SELLER/Default/2025/5/509217215/ML/TD/PO/6407096/glacial-acetic-acid-500x500.jpg"
           ],
+          "thumbnail": "https://5.imimg.com/data5/SELLER/Default/2025/5/509217215/ML/TD/PO/6407096/glacial-acetic-acid-250x250.jpg",
           "specifications": {
             "Packaging Size": "5 kg",
             "Color": "White",
             "Packaging Type": "Bottles",
             "Form": "Liquid",
             "Country of Origin": "Made in India",
-            "Availability": "In Stock",
-            "Price": "Excluding all taxes",
-            "Ships from": "Vijayawada",
-            "Shipping": "As per delivery location"
-          }
+            "GST Registration Date": "Jul 2017",
+            "Legal Status of Firm": "Partnership",
+            "Nature of Business": "Trader - Wholesaler/Distributor",
+            "Number of Employees": "Upto 10 People",
+            "Annual Turnover": "5 - 25 Cr",
+            "IndiaMART Member Since": "Dec 2012",
+            "GST": "37**********1Z6"
+          },
+          "category": "Liquid Products",
+          "category_slug": "liquid-products"
+        }
+      ]
+    },
+    {
+      "name": "Soda Ash Light",
+      "slug": "soda-ash-light",
+      "products": [
+        {
+          "proddispid": "26531547012",
+          "prodname": "Soda Ash Light",
+          "product_url": "https://www.indiamart.com/proddetail/26531547012.html",
+          "description": "Established in the year  2012  we\" Chem Care Technologies.\" is a Manufacturer of the wide spectrum Non Ferric Alum, View More, Cooling Tower Chemicals etc. We are manufacturing these products using premium grade raw material that is procured from the authentic vendors of the market. We offer these products at reasonable rates and deliver these within the promised time-frame.",
+          "price": "₹ 33",
+          "unit": "",
+          "min_order": "\"Kg\",\"PC_ITEM_NAME\":\"Soda Ash Light\",\"PC",
+          "images": [
+            "https://5.imimg.com/data5/ANDROID/Default/2022/9/BA/GT/JS/6407096/product-jpeg-500x500.jpg",
+            "https://5.imimg.com/data5/ANDROID/Default/2022/9/BA/GT/JS/6407096/product-jpeg-1000x1000.jpg"
+          ],
+          "thumbnail": "https://5.imimg.com/data5/ANDROID/Default/2022/9/BA/GT/JS/6407096/product-jpeg-250x250.jpg",
+          "specifications": {
+            "Packaging Size": "50KG",
+            "Form": "Powder",
+            "Packaging Type": "Bag",
+            "Brand": "Nirma",
+            "Grade": "Technical",
+            "Country of Origin": "Made in India",
+            "GST Registration Date": "Jul 2017",
+            "Legal Status of Firm": "Partnership",
+            "Nature of Business": "Trader - Wholesaler/Distributor",
+            "Number of Employees": "Upto 10 People",
+            "Annual Turnover": "5 - 25 Cr",
+            "IndiaMART Member Since": "Dec 2012",
+            "GST": "37**********1Z6"
+          },
+          "category": "Soda Ash Light",
+          "category_slug": "soda-ash-light"
+        }
+      ]
+    },
+    {
+      "name": "RO Antiscalant",
+      "slug": "ro-antiscalant",
+      "products": [
+        {
+          "proddispid": "22358225048",
+          "prodname": "5 Kg R.O Antiscalant",
+          "product_url": "https://www.indiamart.com/proddetail/22358225048.html",
+          "description": "Riding on unfathomable volumes of industrial expertise, we are engaged in offering a broad assortment of 5 Kg R.O Antiscalant.",
+          "price": "₹ 1000",
+          "unit": "",
+          "min_order": "\"Can\",\"PC_ITEM_NAME\":\"5 Kg R.O Antiscala",
+          "images": [
+            "https://5.imimg.com/data5/SELLER/Default/2025/5/509221350/UA/KE/EO/6407096/5-kg-r-o-antiscalant-500x500.jpg",
+            "https://5.imimg.com/data5/SELLER/Default/2025/5/509221350/UA/KE/EO/6407096/5-kg-r-o-antiscalant-1000x1000.jpg",
+            "https://5.imimg.com/data5/SELLER/Default/2025/5/509221483/PX/FH/KF/6407096/5-kg-r-o-antiscalant-1000x1000.jpg",
+            "https://5.imimg.com/data5/SELLER/Default/2025/5/509221483/PX/FH/KF/6407096/5-kg-r-o-antiscalant-500x500.jpg"
+          ],
+          "thumbnail": "https://5.imimg.com/data5/SELLER/Default/2025/5/509221483/PX/FH/KF/6407096/5-kg-r-o-antiscalant-250x250.jpg",
+          "specifications": {
+            "Packaging Type": "Can",
+            "Grade Standard": "Reagent Grade",
+            "Packaging Size": "5 kg",
+            "Brand": "Chem Care",
+            "Form": "Liquid",
+            "Ph Of Product": "2.8 to 3.0",
+            "Water Solubility": "100%",
+            "Country of Origin": "Made in India",
+            "Type": "Membrane Antiscalant",
+            "GST Registration Date": "Jul 2017",
+            "Legal Status of Firm": "Partnership",
+            "Nature of Business": "Trader - Wholesaler/Distributor",
+            "Number of Employees": "Upto 10 People",
+            "Annual Turnover": "5 - 25 Cr",
+            "IndiaMART Member Since": "Dec 2012",
+            "GST": "37**********1Z6"
+          },
+          "category": "RO Antiscalant",
+          "category_slug": "ro-antiscalant"
+        },
+        {
+          "proddispid": "22358224997",
+          "prodname": "30 Kg R.O Antiscalant",
+          "product_url": "https://www.indiamart.com/proddetail/22358224997.html",
+          "description": "Backed by rich industry experiences; we are highly engaged in offering a premium quality range of 30 Kg R.O Antiscalant.",
+          "price": "₹ 240",
+          "unit": "",
+          "min_order": "\"Litre\",\"PC_ITEM_NAME\":\"30 Kg R.O Antisc",
+          "images": [
+            "https://5.imimg.com/data5/FO/BQ/KX/SELLER-6407096/30-kg-r-o-antiscalant-500x500.jpg",
+            "https://5.imimg.com/data5/FO/BQ/KX/SELLER-6407096/30-kg-r-o-antiscalant-1000x1000.jpg"
+          ],
+          "thumbnail": "https://5.imimg.com/data5/FO/BQ/KX/SELLER-6407096/30-kg-r-o-antiscalant-250x250.jpg",
+          "specifications": {
+            "Packaging Size": "30 kg",
+            "Packaging Type": "Drum",
+            "Brand": "Chem Care",
+            "Grade Standard": "Technical Grade",
+            "Form": "Liquid",
+            "Ph Of Product": "2.8 to 3.0",
+            "GST Registration Date": "Jul 2017",
+            "Legal Status of Firm": "Partnership",
+            "Nature of Business": "Trader - Wholesaler/Distributor",
+            "Number of Employees": "Upto 10 People",
+            "Annual Turnover": "5 - 25 Cr",
+            "IndiaMART Member Since": "Dec 2012",
+            "GST": "37**********1Z6"
+          },
+          "category": "RO Antiscalant",
+          "category_slug": "ro-antiscalant"
+        }
+      ]
+    },
+    {
+      "name": "Citric Acid",
+      "slug": "citric-acid",
+      "products": [
+        {
+          "proddispid": "22370636862",
+          "prodname": "Monohydrate Citric Acid",
+          "product_url": "https://www.indiamart.com/proddetail/22370636862.html",
+          "description": "Being a leader in the industry, we are engaged in offering a qualitative range of Monohydrate Citric Acid.",
+          "price": "₹ 71",
+          "unit": "",
+          "min_order": "\"Kg\",\"PC_ITEM_NAME\":\"Monohydrate Citric",
+          "images": [
+            "https://5.imimg.com/data5/SELLER/Default/2025/5/509218379/US/ML/YN/6407096/monohydrate-citric-acid-500x500.jpg",
+            "https://5.imimg.com/data5/SELLER/Default/2025/5/509218379/US/ML/YN/6407096/monohydrate-citric-acid-1000x1000.jpg",
+            "https://5.imimg.com/data5/SELLER/Default/2025/5/509218587/LJ/CI/NO/6407096/monohydrate-citric-acid-1000x1000.jpg",
+            "https://5.imimg.com/data5/SELLER/Default/2025/5/509219161/ZC/YX/BJ/6407096/monohydrate-citric-acid-1000x1000.jpg",
+            "https://5.imimg.com/data5/SELLER/Default/2025/5/509218587/LJ/CI/NO/6407096/monohydrate-citric-acid-500x500.jpg",
+            "https://5.imimg.com/data5/SELLER/Default/2025/5/509219161/ZC/YX/BJ/6407096/monohydrate-citric-acid-500x500.jpg"
+          ],
+          "thumbnail": "https://5.imimg.com/data5/SELLER/Default/2025/5/509218587/LJ/CI/NO/6407096/monohydrate-citric-acid-250x250.jpg",
+          "specifications": {
+            "Form": "Powder",
+            "Packaging Size": "50 kg",
+            "Packaging Type": "Bag",
+            "Boiling Point": "310 Deg C",
+            "Melting Point": "153 Deg C",
+            "Soluble In": "Water, Alcohal",
+            "Country of Origin": "Made in India",
+            "GST Registration Date": "Jul 2017",
+            "Legal Status of Firm": "Partnership",
+            "Nature of Business": "Trader - Wholesaler/Distributor",
+            "Number of Employees": "Upto 10 People",
+            "Annual Turnover": "5 - 25 Cr",
+            "IndiaMART Member Since": "Dec 2012",
+            "GST": "37**********1Z6"
+          },
+          "category": "Citric Acid",
+          "category_slug": "citric-acid"
+        }
+      ]
+    },
+    {
+      "name": "Caustic Soda Supplier In Ncr",
+      "slug": "caustic-soda-supplier-in-ncr",
+      "products": [
+        {
+          "proddispid": "2855568390912",
+          "prodname": "Caustic Soda Flakes",
+          "product_url": "https://www.indiamart.com/proddetail/2855568390912.html",
+          "description": "Caustic Soda Powder (Sodium Hydroxide, NaOH) is a highly versatile industrial chemical used in applications ranging from soap manufacturing and chemical synthesis to water treatment and petroleum refining. In India, it is available in various grades and packaging options to suit different needs.",
+          "price": "₹ 50",
+          "unit": "",
+          "min_order": "\"Kg\",\"PC_ITEM_NAME\":\"Caustic Soda Flakes",
+          "images": [
+            "https://5.imimg.com/data5/ANDROID/Default/2025/1/483382148/BL/EB/OX/6407096/product-jpeg-500x500.jpeg",
+            "https://5.imimg.com/data5/ANDROID/Default/2025/1/483382148/BL/EB/OX/6407096/product-jpeg-1000x1000.jpeg",
+            "https://5.imimg.com/data5/SELLER/Default/2025/5/509214803/DQ/XA/BL/6407096/caustic-soda-powder-1000x1000.jpg",
+            "https://5.imimg.com/data5/SELLER/Default/2025/5/509214940/ML/HA/QZ/6407096/caustic-soda-powder-1000x1000.jpg",
+            "https://5.imimg.com/data5/SELLER/Default/2025/5/509214803/DQ/XA/BL/6407096/caustic-soda-powder-500x500.jpg",
+            "https://5.imimg.com/data5/SELLER/Default/2025/5/509214940/ML/HA/QZ/6407096/caustic-soda-powder-500x500.jpg"
+          ],
+          "thumbnail": "https://5.imimg.com/data5/SELLER/Default/2025/5/509214803/DQ/XA/BL/6407096/caustic-soda-powder-250x250.jpg",
+          "specifications": {
+            "Packaging Size": "25 Kg",
+            "Purity %": "98%",
+            "Usage/Application": "Industrial",
+            "Physical State": "Flakes",
+            "Grade Standard": "Industrial Grade",
+            "Color": "white",
+            "Packaging Type": "Bag",
+            "Country of Origin": "Made in India",
+            "GST Registration Date": "Jul 2017",
+            "Legal Status of Firm": "Partnership",
+            "Nature of Business": "Trader - Wholesaler/Distributor",
+            "Number of Employees": "Upto 10 People",
+            "Annual Turnover": "5 - 25 Cr",
+            "IndiaMART Member Since": "Dec 2012",
+            "GST": "37**********1Z6"
+          },
+          "category": "Caustic Soda Supplier In Ncr",
+          "category_slug": "caustic-soda-supplier-in-ncr"
+        },
+        {
+          "proddispid": "25855274433",
+          "prodname": "Caustic Soda Lye",
+          "product_url": "https://www.indiamart.com/proddetail/25855274433.html",
+          "description": "Established in the year  2012  we\" Chem Care Technologies.\" is a Manufacturer of the wide spectrum Non Ferric Alum, View More, Cooling Tower Chemicals etc. We are manufacturing these products using premium grade raw material that is procured from the authentic vendors of the market. We offer these products at reasonable rates and deliver these within the promised time-frame.",
+          "price": "₹ 29",
+          "unit": "",
+          "min_order": "\"Kg\",\"PC_ITEM_NAME\":\"Caustic Soda Lye\",\"",
+          "images": [
+            "https://5.imimg.com/data5/ANDROID/Default/2022/6/FO/YV/QX/6407096/1654084231118-jpg-500x500.jpg",
+            "https://5.imimg.com/data5/ANDROID/Default/2022/6/FO/YV/QX/6407096/1654084231118-jpg-1000x1000.jpg"
+          ],
+          "thumbnail": "https://5.imimg.com/data5/ANDROID/Default/2022/6/FO/YV/QX/6407096/1654084231118-jpg-250x250.jpg",
+          "specifications": {
+            "Purity %": "48",
+            "Packaging Size": "60kg",
+            "Usage/Application": "Industrial",
+            "Brand": "Chem Care",
+            "Grade Standard": "Industrial Grade",
+            "Packaging Type": "Drum",
+            "Ph Value": "14",
+            "Appearance/Color": "White",
+            "Color": "White",
+            "Purity (%)": "48",
+            "Physical State": "Liquid",
+            "NaOH Concentration": "48.2",
+            "Packaging Details": "60 kg",
+            "Question": "60 kg",
+            "Country of Origin": "Made in India",
+            "GST Registration Date": "Jul 2017",
+            "Legal Status of Firm": "Partnership",
+            "Nature of Business": "Trader - Wholesaler/Distributor",
+            "Number of Employees": "Upto 10 People",
+            "Annual Turnover": "5 - 25 Cr",
+            "IndiaMART Member Since": "Dec 2012",
+            "GST": "37**********1Z6"
+          },
+          "category": "Caustic Soda Supplier In Ncr",
+          "category_slug": "caustic-soda-supplier-in-ncr"
+        }
+      ]
+    },
+    {
+      "name": "Lr Grade",
+      "slug": "lr-grade",
+      "products": [
+        {
+          "proddispid": "27255502555",
+          "prodname": "Formaldehyde Formalin 5 Liter",
+          "product_url": "https://www.indiamart.com/proddetail/27255502555.html",
+          "description": "Established in the year  2012  we\" Chem Care Technologies.\" is a Manufacturer of the wide spectrum Non Ferric Alum, View More, Cooling Tower Chemicals etc. We are manufacturing these products using premium grade raw material that is procured from the authentic vendors of the market. We offer these products at reasonable rates and deliver these within the promised time-frame.",
+          "price": "₹ 29",
+          "unit": "",
+          "min_order": "\"Kg\",\"PC_ITEM_NAME\":\"Formaldehyde Formal",
+          "images": [
+            "https://5.imimg.com/data5/ANDROID/Default/2022/10/JU/ZL/NI/6407096/product-jpeg-500x500.jpg",
+            "https://5.imimg.com/data5/ANDROID/Default/2022/10/JU/ZL/NI/6407096/product-jpeg-1000x1000.jpg"
+          ],
+          "thumbnail": "https://5.imimg.com/data5/ANDROID/Default/2022/10/JU/ZL/NI/6407096/product-jpeg-250x250.jpg",
+          "specifications": {
+            "Packaging Details": "50 L Drum",
+            "Packaging Type": "Drum",
+            "Grade Standard": "Industrial Grade",
+            "Packaging Size": "250 kg",
+            "Physical State": "Liquid",
+            "Country of Origin": "Made in India",
+            "Usage/Application": "Laboratory",
+            "GST Registration Date": "Jul 2017",
+            "Legal Status of Firm": "Partnership",
+            "Nature of Business": "Trader - Wholesaler/Distributor",
+            "Number of Employees": "Upto 10 People",
+            "Annual Turnover": "5 - 25 Cr",
+            "IndiaMART Member Since": "Dec 2012",
+            "GST": "37**********1Z6"
+          },
+          "category": "Lr Grade",
+          "category_slug": "lr-grade"
+        }
+      ]
+    },
+    {
+      "name": "Liquid Hydrogen Peroxide",
+      "slug": "liquid-hydrogen-peroxide",
+      "products": [
+        {
+          "proddispid": "27489397455",
+          "prodname": "Hydrogen Peroxide 50",
+          "product_url": "https://www.indiamart.com/proddetail/27489397455.html",
+          "description": "Established in the year  2012  we\" Chem Care Technologies.\" is a Manufacturer of the wide spectrum Non Ferric Alum, View More, Cooling Tower Chemicals etc. We are manufacturing these products using premium grade raw material that is procured from the authentic vendors of the market. We offer these products at reasonable rates and deliver these within the promised time-frame.",
+          "price": "₹ 34",
+          "unit": "",
+          "min_order": "\"Kg\",\"PC_ITEM_NAME\":\"Hydrogen Peroxide 5",
+          "images": [
+            "https://5.imimg.com/data5/ANDROID/Default/2022/11/IV/UB/JD/6407096/product-jpeg-500x500.jpg",
+            "https://5.imimg.com/data5/ANDROID/Default/2022/11/IV/UB/JD/6407096/product-jpeg-1000x1000.jpg"
+          ],
+          "thumbnail": "https://5.imimg.com/data5/ANDROID/Default/2022/11/IV/UB/JD/6407096/product-jpeg-250x250.jpg",
+          "specifications": {
+            "Purity": "50%",
+            "Packaging": "30 kg HDPE Drum",
+            "Purity %": "50",
+            "Grade": "Technical",
+            "Packaging Details": "30 KG",
+            "Grade Standard": "Industrial Grade",
+            "GST Registration Date": "Jul 2017",
+            "Legal Status of Firm": "Partnership",
+            "Nature of Business": "Trader - Wholesaler/Distributor",
+            "Number of Employees": "Upto 10 People",
+            "Annual Turnover": "5 - 25 Cr",
+            "IndiaMART Member Since": "Dec 2012",
+            "GST": "37**********1Z6"
+          },
+          "category": "Liquid Hydrogen Peroxide",
+          "category_slug": "liquid-hydrogen-peroxide"
+        }
+      ]
+    },
+    {
+      "name": "Non Ferric Alum",
+      "slug": "non-ferric-alum",
+      "products": [
+        {
+          "proddispid": "22358332212",
+          "prodname": "Non Ferric Alum",
+          "product_url": "https://www.indiamart.com/proddetail/22358332212.html",
+          "description": "We are ranked amongst the renowned organizations that are engaged in providing the best quality range of Non Ferric Alum.",
+          "price": "₹ 26",
+          "unit": "",
+          "min_order": "\"Kg\",\"PC_ITEM_NAME\":\"Non Ferric Alum\",\"P",
+          "images": [
+            "https://5.imimg.com/data5/SELLER/Default/2025/5/509212915/OG/SY/OT/6407096/non-ferric-alum-500x500.jpg",
+            "https://5.imimg.com/data5/SELLER/Default/2025/5/509212915/OG/SY/OT/6407096/non-ferric-alum-1000x1000.jpg",
+            "https://5.imimg.com/data5/SELLER/Default/2025/5/509213022/EN/QJ/FR/6407096/non-ferric-alum-1000x1000.jpg",
+            "https://5.imimg.com/data5/SELLER/Default/2025/5/509213149/KO/CL/FV/6407096/non-ferric-alum-1000x1000.jpg",
+            "https://5.imimg.com/data5/SELLER/Default/2025/5/509213022/EN/QJ/FR/6407096/non-ferric-alum-500x500.jpg",
+            "https://5.imimg.com/data5/SELLER/Default/2025/5/509213149/KO/CL/FV/6407096/non-ferric-alum-500x500.jpg"
+          ],
+          "thumbnail": "https://5.imimg.com/data5/SELLER/Default/2025/5/509213022/EN/QJ/FR/6407096/non-ferric-alum-250x250.jpg",
+          "specifications": {
+            "Physical Form": "Powder",
+            "Brand": "TGV",
+            "Purity": "99 %",
+            "Packaging Type": "Bag",
+            "Packaging Size": "50 kg",
+            "pH Value": "5-7 %",
+            "Aluminum Sulphate": "17 %",
+            "Country of Origin": "Made in India",
+            "GST Registration Date": "Jul 2017",
+            "Legal Status of Firm": "Partnership",
+            "Nature of Business": "Trader - Wholesaler/Distributor",
+            "Number of Employees": "Upto 10 People",
+            "Annual Turnover": "5 - 25 Cr",
+            "IndiaMART Member Since": "Dec 2012",
+            "GST": "37**********1Z6"
+          },
+          "category": "Non Ferric Alum",
+          "category_slug": "non-ferric-alum"
+        }
+      ]
+    },
+    {
+      "name": "Sulfuric Acid Ar For Batteries",
+      "slug": "sulfuric-acid-ar-for-batteries",
+      "products": [
+        {
+          "proddispid": "22384207133",
+          "prodname": "Dilute Sulphuric Acid",
+          "product_url": "https://www.indiamart.com/proddetail/22384207133.html",
+          "description": "Being a foremost organization in the industry, we are actively engaged in offering the best quality range of Sulphuric Acid.",
+          "price": "₹ 9.5",
+          "unit": "",
+          "min_order": "\"Litre\",\"PC_ITEM_NAME\":\"Dilute Sulphuric",
+          "images": [
+            "https://5.imimg.com/data5/FB/LJ/FB/SELLER-6407096/sulphuric-acid-500x500.jpg",
+            "https://5.imimg.com/data5/FB/LJ/FB/SELLER-6407096/sulphuric-acid-1000x1000.jpg",
+            "https://5.imimg.com/data5/SELLER/Default/2023/6/318529107/IY/KM/CG/6407096/dilute-sulphuric-acid-1000x1000.jpg",
+            "https://5.imimg.com/data5/SELLER/Default/2023/6/318529108/YY/IT/IX/6407096/dilute-sulphuric-acid-1000x1000.jpg",
+            "https://5.imimg.com/data5/SELLER/Default/2023/6/318529107/IY/KM/CG/6407096/dilute-sulphuric-acid-500x500.jpg",
+            "https://5.imimg.com/data5/SELLER/Default/2023/6/318529108/YY/IT/IX/6407096/dilute-sulphuric-acid-500x500.jpg"
+          ],
+          "thumbnail": "https://5.imimg.com/data5/SELLER/Default/2023/6/318529107/IY/KM/CG/6407096/dilute-sulphuric-acid-250x250.jpg",
+          "specifications": {
+            "Usage/Application": "Laboratory",
+            "Packaging Details": "5L Can",
+            "Packaging Size": "50 KGS",
+            "Form": "Liquid",
+            "Brand": "ASL",
+            "Chemical Formula": "H2SO4",
+            "Grade": "Industrial",
+            "Purity/Concentration": "99%",
+            "Purity": "98 %",
+            "GST Registration Date": "Jul 2017",
+            "Legal Status of Firm": "Partnership",
+            "Nature of Business": "Trader - Wholesaler/Distributor",
+            "Number of Employees": "Upto 10 People",
+            "Annual Turnover": "5 - 25 Cr",
+            "IndiaMART Member Since": "Dec 2012",
+            "GST": "37**********1Z6"
+          },
+          "category": "Sulfuric Acid Ar For Batteries",
+          "category_slug": "sulfuric-acid-ar-for-batteries"
+        }
+      ]
+    },
+    {
+      "name": "Multi Purpose Soap Oil",
+      "slug": "multi-purpose-soap-oil",
+      "products": [
+        {
+          "proddispid": "25855566573",
+          "prodname": "Liquid Soap Oil",
+          "product_url": "https://www.indiamart.com/proddetail/25855566573.html",
+          "description": "Established in the year  2012  we\" Chem Care Technologies.\" is a Manufacturer of the wide spectrum Non Ferric Alum, View More, Cooling Tower Chemicals etc. We are manufacturing these products using premium grade raw material that is procured from the authentic vendors of the market. We offer these products at reasonable rates and deliver these within the promised time-frame.",
+          "price": "₹ 20",
+          "unit": "",
+          "min_order": "\"Kg\",\"PC_ITEM_NAME\":\"Liquid Soap Oil\",\"P",
+          "images": [
+            "https://5.imimg.com/data5/ANDROID/Default/2022/6/CI/NF/FN/6407096/product-jpeg-500x500.jpg",
+            "https://5.imimg.com/data5/ANDROID/Default/2022/6/CI/NF/FN/6407096/product-jpeg-1000x1000.jpg"
+          ],
+          "thumbnail": "https://5.imimg.com/data5/ANDROID/Default/2022/6/CI/NF/FN/6407096/product-jpeg-250x250.jpg",
+          "specifications": {
+            "Packaging Size": "50 L",
+            "grade": "industrial",
+            "packeginf type": "drum",
+            "packeging size": "250 kg",
+            "packeging detail": "50 L drum",
+            "Country of Origin": "Made in India",
+            "GST Registration Date": "Jul 2017",
+            "Legal Status of Firm": "Partnership",
+            "Nature of Business": "Trader - Wholesaler/Distributor",
+            "Number of Employees": "Upto 10 People",
+            "Annual Turnover": "5 - 25 Cr",
+            "IndiaMART Member Since": "Dec 2012",
+            "GST": "37**********1Z6"
+          },
+          "category": "Multi Purpose Soap Oil",
+          "category_slug": "multi-purpose-soap-oil"
+        }
+      ]
+    },
+    {
+      "name": "Tri Sodium Phosphates",
+      "slug": "tri-sodium-phosphates",
+      "products": [
+        {
+          "proddispid": "26216065988",
+          "prodname": "Tri Sodium Phosphate Anhydrous",
+          "product_url": "https://www.indiamart.com/proddetail/26216065988.html",
+          "description": "Established in the year  2012  we\" Chem Care Technologies.\" is a Manufacturer of the wide spectrum Non Ferric Alum, View More, Cooling Tower Chemicals etc. We are manufacturing these products using premium grade raw material that is procured from the authentic vendors of the market. We offer these products at reasonable rates and deliver these within the promised time-frame.",
+          "price": "₹ 50",
+          "unit": "",
+          "min_order": "\"Kg\",\"PC_ITEM_NAME\":\"Tri Sodium Phosphat",
+          "images": [
+            "https://5.imimg.com/data5/ANDROID/Default/2022/7/IF/EM/OQ/6407096/product-jpeg-500x500.jpg",
+            "https://5.imimg.com/data5/ANDROID/Default/2022/7/IF/EM/OQ/6407096/product-jpeg-1000x1000.jpg"
+          ],
+          "thumbnail": "https://5.imimg.com/data5/ANDROID/Default/2022/7/IF/EM/OQ/6407096/product-jpeg-250x250.jpg",
+          "specifications": {
+            "Purity/Concentration": "98%",
+            "Grade": "Industrial",
+            "Pack Size": "50",
+            "Physical State": "Powder",
+            "Storage": "Keep dry",
+            "GST Registration Date": "Jul 2017",
+            "Legal Status of Firm": "Partnership",
+            "Nature of Business": "Trader - Wholesaler/Distributor",
+            "Number of Employees": "Upto 10 People",
+            "Annual Turnover": "5 - 25 Cr",
+            "IndiaMART Member Since": "Dec 2012",
+            "GST": "37**********1Z6"
+          },
+          "category": "Tri Sodium Phosphates",
+          "category_slug": "tri-sodium-phosphates"
+        }
+      ]
+    },
+    {
+      "name": "Sodium Hexameta Phospate",
+      "slug": "sodium-hexameta-phospate",
+      "products": [
+        {
+          "proddispid": "26216095788",
+          "prodname": "Sodium Hexametaphosphate Powder",
+          "product_url": "https://www.indiamart.com/proddetail/26216095788.html",
+          "description": "Sodium hexa metaphosphate 68 %  Established in the year  2012  we\" Chem Care Technologies.\" is a Manufacturer of the wide spectrum Non Ferric Alum, View More, Cooling Tower Chemicals etc. We are manufacturing these products using premium grade raw material that is procured from the authentic vendors of the market. We offer these products at reasonable rates and deliver these within the promised time-frame.",
+          "price": "₹ 170",
+          "unit": "",
+          "min_order": "\"Kg\",\"PC_ITEM_NAME\":\"Sodium Hexametaphos",
+          "images": [
+            "https://5.imimg.com/data5/ANDROID/Default/2022/7/BE/ML/TD/6407096/1658814137530-jpg-500x500.jpg",
+            "https://5.imimg.com/data5/ANDROID/Default/2022/7/BE/ML/TD/6407096/1658814137530-jpg-1000x1000.jpg"
+          ],
+          "thumbnail": "https://5.imimg.com/data5/ANDROID/Default/2022/7/BE/ML/TD/6407096/1658814137530-jpg-250x250.jpg",
+          "specifications": {
+            "Water Insoluble matter": "0.04",
+            "Packing Size": "25 KG",
+            "Molecular Formula": "(NaPO3)6",
+            "CAS No": "10124-56-8",
+            "Net Weight": "25 KG",
+            "Purity": "Pass",
+            "Appearance": "Pass",
+            "Solubility": "Pass",
+            "Country of Origin": "Made in India",
+            "Grade Standard": "Chemical Grade",
+            "Grade": "Technical grade",
+            "GST Registration Date": "Jul 2017",
+            "Legal Status of Firm": "Partnership",
+            "Nature of Business": "Trader - Wholesaler/Distributor",
+            "Number of Employees": "Upto 10 People",
+            "Annual Turnover": "5 - 25 Cr",
+            "IndiaMART Member Since": "Dec 2012",
+            "GST": "37**********1Z6"
+          },
+          "category": "Sodium Hexameta Phospate",
+          "category_slug": "sodium-hexameta-phospate"
+        }
+      ]
+    },
+    {
+      "name": "Nitric Acid For Fertilizers",
+      "slug": "nitric-acid-for-fertilizers",
+      "products": [
+        {
+          "proddispid": "26226327833",
+          "prodname": "Nitric Acid 60",
+          "product_url": "https://www.indiamart.com/proddetail/26226327833.html",
+          "description": "Nitric acid 72%,68%,60%   Established in the year  2012  we\" Chem Care Technologies.\" is a Manufacturer of the wide spectrum Non Ferric Alum, View More, Cooling Tower Chemicals etc. We are manufacturing these products using premium grade raw material that is procured from the authentic vendors of the market. We offer these products at reasonable rates and deliver these within the promised time-frame.",
+          "price": "₹ 45",
+          "unit": "",
+          "min_order": "\"Kg\",\"PC_ITEM_NAME\":\"Nitric Acid 60\",\"PC",
+          "images": [
+            "https://5.imimg.com/data5/ANDROID/Default/2022/7/ZI/KA/VK/6407096/product-jpeg-500x500.jpg",
+            "https://5.imimg.com/data5/ANDROID/Default/2022/7/ZI/KA/VK/6407096/product-jpeg-1000x1000.jpg"
+          ],
+          "thumbnail": "https://5.imimg.com/data5/ANDROID/Default/2022/7/ZI/KA/VK/6407096/product-jpeg-250x250.jpg",
+          "specifications": {
+            "Purity/Concentration": "60%",
+            "Usage/Application": "Laboratory",
+            "Form": "Liquid",
+            "Grade": "Technical Grade",
+            "Packaging Details": "50Kg Drum",
+            "CAS Number": "7697-37-2",
+            "GST Registration Date": "Jul 2017",
+            "Legal Status of Firm": "Partnership",
+            "Nature of Business": "Trader - Wholesaler/Distributor",
+            "Number of Employees": "Upto 10 People",
+            "Annual Turnover": "5 - 25 Cr",
+            "IndiaMART Member Since": "Dec 2012",
+            "GST": "37**********1Z6"
+          },
+          "category": "Nitric Acid For Fertilizers",
+          "category_slug": "nitric-acid-for-fertilizers"
+        }
+      ]
+    },
+    {
+      "name": "Water Filtration Pebble",
+      "slug": "water-filtration-pebble",
+      "products": [
+        {
+          "proddispid": "25169117430",
+          "prodname": "Filter Media Sand & Gravels & Pebbles",
+          "product_url": "https://www.indiamart.com/proddetail/25169117430.html",
+          "description": "Fine sand,Core sand,Qoartz sand,Silex,Gravels, Pebbles",
+          "price": "₹ 8",
+          "unit": "",
+          "min_order": "\"Kg\",\"PC_ITEM_NAME\":\"Filter Media Sand \\",
+          "images": [
+            "https://5.imimg.com/data5/ANDROID/Default/2023/10/354177026/EJ/TT/UX/6407096/product-jpeg-500x500.jpg",
+            "https://5.imimg.com/data5/ANDROID/Default/2023/10/354177026/EJ/TT/UX/6407096/product-jpeg-1000x1000.jpg",
+            "https://5.imimg.com/data5/ANDROID/Default/2022/3/NW/VN/OH/6407096/1646809841640-jpg-1000x1000.jpg",
+            "https://5.imimg.com/data5/ANDROID/Default/2022/3/QC/CO/NB/6407096/1646810073881-jpg-1000x1000.jpg",
+            "https://5.imimg.com/data5/ANDROID/Default/2022/3/NA/QZ/ZN/6407096/1646810101896-jpg-1000x1000.jpg",
+            "https://5.imimg.com/data5/ANDROID/Default/2022/3/LR/DC/KX/6407096/1646810134707-jpg-1000x1000.jpg",
+            "https://5.imimg.com/data5/ANDROID/Default/2022/3/HA/TR/BU/6407096/1646810160540-jpg-1000x1000.jpg",
+            "https://5.imimg.com/data5/ANDROID/Default/2022/3/NW/VN/OH/6407096/1646809841640-jpg-500x500.jpg"
+          ],
+          "thumbnail": "https://5.imimg.com/data5/ANDROID/Default/2022/3/NW/VN/OH/6407096/1646809841640-jpg-250x250.jpg",
+          "specifications": {
+            "Pebble Size": "25-40 mm",
+            "Packaging detail": "40 Kg Bag",
+            "Colour": "Brown",
+            "Usage/Application": "for water filtration",
+            "Material": "Natural Stone",
+            "Brand": "Chem Care Technologies",
+            "GST Registration Date": "Jul 2017",
+            "Legal Status of Firm": "Partnership",
+            "Nature of Business": "Trader - Wholesaler/Distributor",
+            "Number of Employees": "Upto 10 People",
+            "Annual Turnover": "5 - 25 Cr",
+            "IndiaMART Member Since": "Dec 2012",
+            "GST": "37**********1Z6"
+          },
+          "category": "Water Filtration Pebble",
+          "category_slug": "water-filtration-pebble"
+        }
+      ]
+    },
+    {
+      "name": "Effluent Treatment Plant Activated Carbons",
+      "slug": "effluent-treatment-plant-activated-carbons",
+      "products": [
+        {
+          "proddispid": "25169290112",
+          "prodname": "Anthracite Or Activated Carbon",
+          "product_url": "https://www.indiamart.com/proddetail/25169290112.html",
+          "description": "anthracite Established in the year  2012  we\" Chem Care Technologies.\" is a Manufacturer of the wide spectrum Non Ferric Alum, View More, Cooling Tower Chemicals etc. We are manufacturing these products using premium grade raw material that is procured from the authentic vendors of the market. We offer these products at reasonable rates and deliver these within the promised time-frame.",
+          "price": "₹ 38",
+          "unit": "",
+          "min_order": "\"Kg\",\"PC_ITEM_NAME\":\"Anthracite Or Activ",
+          "images": [
+            "https://5.imimg.com/data5/ANDROID/Default/2022/3/PA/SH/DI/6407096/product-jpeg-500x500.jpg",
+            "https://5.imimg.com/data5/ANDROID/Default/2022/3/PA/SH/DI/6407096/product-jpeg-1000x1000.jpg",
+            "https://5.imimg.com/data5/ANDROID/Default/2022/3/NP/MR/YM/6407096/prod-20220309-1250221049050993191481896-jpg-1000x1000.jpg",
+            "https://5.imimg.com/data5/SELLER/Default/2025/5/509233618/RC/LE/GK/6407096/anthracite-or-activated-carbon-1000x1000.jpg",
+            "https://5.imimg.com/data5/ANDROID/Default/2022/3/NP/MR/YM/6407096/prod-20220309-1250221049050993191481896-jpg-500x500.jpg",
+            "https://5.imimg.com/data5/SELLER/Default/2025/5/509233618/RC/LE/GK/6407096/anthracite-or-activated-carbon-500x500.jpg"
+          ],
+          "thumbnail": "https://5.imimg.com/data5/ANDROID/Default/2022/3/NP/MR/YM/6407096/prod-20220309-1250221049050993191481896-jpg-250x250.jpg",
+          "specifications": {
+            "Form": "Granular (GAC)",
+            "Packaging Detail": "25 Kg HDPE Bag",
+            "Type": "pulverised moulding carbon",
+            "Usage/Application": "Water filtration",
+            "Colour": "black",
+            "GST Registration Date": "Jul 2017",
+            "Legal Status of Firm": "Partnership",
+            "Nature of Business": "Trader - Wholesaler/Distributor",
+            "Number of Employees": "Upto 10 People",
+            "Annual Turnover": "5 - 25 Cr",
+            "IndiaMART Member Since": "Dec 2012",
+            "GST": "37**********1Z6"
+          },
+          "category": "Effluent Treatment Plant Activated Carbons",
+          "category_slug": "effluent-treatment-plant-activated-carbons"
+        }
+      ]
+    },
+    {
+      "name": "Sulfonic Acid",
+      "slug": "sulfonic-acid",
+      "products": [
+        {
+          "proddispid": "25297589155",
+          "prodname": "Sulfamic Acid Powder",
+          "product_url": "https://www.indiamart.com/proddetail/25297589155.html",
+          "description": "Industrial useEstablished in the year  2012  we\" Chem Care Technologies.\" is a Manufacturer of the wide spectrum Non Ferric Alum, View More, Cooling Tower Chemicals etc. We are manufacturing these products using premium grade raw material that is procured from the authentic vendors of the market. We offer these products at reasonable rates and deliver these within the promised time-frame.",
+          "price": "₹ 56",
+          "unit": "",
+          "min_order": "\"Kg\",\"PC_ITEM_NAME\":\"Sulfamic Acid Powde",
+          "images": [
+            "https://5.imimg.com/data5/ANDROID/Default/2022/3/MK/OO/XZ/6407096/product-jpeg-500x500.jpg",
+            "https://5.imimg.com/data5/ANDROID/Default/2022/3/MK/OO/XZ/6407096/product-jpeg-1000x1000.jpg"
+          ],
+          "thumbnail": "https://5.imimg.com/data5/ANDROID/Default/2022/3/MK/OO/XZ/6407096/product-jpeg-250x250.jpg",
+          "specifications": {
+            "Purity": "99%",
+            "Grade": "Technical Grade",
+            "Usage/Application": "Industrial",
+            "Form": "Powder",
+            "Packaging Details": "50 kg",
+            "Packaging Type": "bag",
+            "GST Registration Date": "Jul 2017",
+            "Legal Status of Firm": "Partnership",
+            "Nature of Business": "Trader - Wholesaler/Distributor",
+            "Number of Employees": "Upto 10 People",
+            "Annual Turnover": "5 - 25 Cr",
+            "IndiaMART Member Since": "Dec 2012",
+            "GST": "37**********1Z6"
+          },
+          "category": "Sulfonic Acid",
+          "category_slug": "sulfonic-acid"
+        }
+      ]
+    },
+    {
+      "name": "Sodium Sulphate Anhydrous",
+      "slug": "sodium-sulphate-anhydrous",
+      "products": [
+        {
+          "proddispid": "23400435773",
+          "prodname": "Sodium Sulphate Powder",
+          "product_url": "https://www.indiamart.com/proddetail/23400435773.html",
+          "description": "We are dealing into best quality.",
+          "price": "₹ 15",
+          "unit": "",
+          "min_order": "\"Kg\",\"PC_ITEM_NAME\":\"Sodium Sulphate Pow",
+          "images": [
+            "https://5.imimg.com/data5/SELLER/Default/2022/5/RR/OF/DH/6407096/sodium-sulphate-500x500.jpg",
+            "https://5.imimg.com/data5/SELLER/Default/2022/5/RR/OF/DH/6407096/sodium-sulphate-1000x1000.jpg",
+            "https://5.imimg.com/data5/SELLER/Default/2025/5/509221716/SA/SU/PI/6407096/sodium-sulphate-powder-1000x1000.jpg",
+            "https://5.imimg.com/data5/SELLER/Default/2025/5/509221716/SA/SU/PI/6407096/sodium-sulphate-powder-500x500.jpg"
+          ],
+          "thumbnail": "https://5.imimg.com/data5/SELLER/Default/2025/5/509221716/SA/SU/PI/6407096/sodium-sulphate-powder-250x250.jpg",
+          "specifications": {
+            "Brand": "aditya birla",
+            "Form": "Powder",
+            "Color": "White",
+            "Packaging Size": "50kg",
+            "Packaging Type": "50kg",
+            "Usage/Application": "textile, paper pulp and detergent industry",
+            "GST Registration Date": "Jul 2017",
+            "Legal Status of Firm": "Partnership",
+            "Nature of Business": "Trader - Wholesaler/Distributor",
+            "Number of Employees": "Upto 10 People",
+            "Annual Turnover": "5 - 25 Cr",
+            "IndiaMART Member Since": "Dec 2012",
+            "GST": "37**********1Z6"
+          },
+          "category": "Sodium Sulphate Anhydrous",
+          "category_slug": "sodium-sulphate-anhydrous"
+        }
+      ]
+    },
+    {
+      "name": "Water Treatment Plant",
+      "slug": "water-treatment-plant",
+      "products": [
+        {
+          "proddispid": "24685803855",
+          "prodname": "Cartridge Filters 5 Micron Wound And Spun 10&quot;,20&quot;,30&quot;,40&quot;, Jumbo Filters",
+          "product_url": "https://www.indiamart.com/proddetail/24685803855.html",
+          "description": "10,2Certainly! Here's a curated selection of 5-micron wound and spun polypropylene (PP) cartridge filters in sizes ranging from 10\" to jumbo 40\", suitable for various applications like sediment filtration in water treatment, industrial processes, and reverse osmosis (RO) systems.0,30,40 inch spun filters wound filters and jumbo filters available",
+          "price": "₹ 110",
+          "unit": "",
+          "min_order": "\"Piece\",\"PC_ITEM_NAME\":\"Cartridge Filter",
+          "images": [
+            "https://5.imimg.com/data5/ANDROID/Default/2022/1/LS/ID/QE/6407096/product-jpeg-1000x1000.jpg",
+            "https://5.imimg.com/data5/ANDROID/Default/2022/1/LS/ID/QE/6407096/product-jpeg-500x500.jpg",
+            "https://5.imimg.com/data5/SELLER/Default/2025/5/509216059/QB/TC/AQ/6407096/cartridge-filters-5-micron-wound-and-spun-10-20-30-40-jumbo-filters-1000x1000.jpg",
+            "https://5.imimg.com/data5/SELLER/Default/2025/5/509216059/QB/TC/AQ/6407096/cartridge-filters-5-micron-wound-and-spun-10-20-30-40-jumbo-filters-500x500.jpg"
+          ],
+          "thumbnail": "https://5.imimg.com/data5/SELLER/Default/2025/5/509216059/QB/TC/AQ/6407096/cartridge-filters-5-micron-wound-and-spun-10-20-30-40-jumbo-filters-250x250.jpg",
+          "specifications": {
+            "Size": "10 Inch",
+            "Filter Type": "Multigrade Sand Filter",
+            "Usage/Application": "Industrial",
+            "Type Of Machines": "Sand Filtration",
+            "Filter Medium Material": "Activated Carbon",
+            "Brand": "Chem care",
+            "Country of Origin": "Made in India",
+            "GST Registration Date": "Jul 2017",
+            "Legal Status of Firm": "Partnership",
+            "Nature of Business": "Trader - Wholesaler/Distributor",
+            "Number of Employees": "Upto 10 People",
+            "Annual Turnover": "5 - 25 Cr",
+            "IndiaMART Member Since": "Dec 2012",
+            "GST": "37**********1Z6"
+          },
+          "category": "Water Treatment Plant",
+          "category_slug": "water-treatment-plant"
+        }
+      ]
+    },
+    {
+      "name": "Poly Aluminium Chloride Powder",
+      "slug": "poly-aluminium-chloride-powder",
+      "products": [
+        {
+          "proddispid": "26216184648",
+          "prodname": "Poly Aluminum Chloride Pac",
+          "product_url": "https://www.indiamart.com/proddetail/26216184648.html",
+          "description": "Established in the year  2012  we\" Chem Care Technologies.\" is a Manufacturer of the wide spectrum Non Ferric Alum, View More, Cooling Tower Chemicals etc. We are manufacturing these products using premium grade raw material that is procured from the authentic vendors of the market. We offer these products at reasonable rates and deliver these within the promised time-frame.",
+          "price": "₹ 42",
+          "unit": "",
+          "min_order": "\"Kg\",\"PC_ITEM_NAME\":\"Poly Aluminum Chlor",
+          "images": [
+            "https://5.imimg.com/data5/ANDROID/Default/2022/7/LA/CF/ED/6407096/product-jpeg-500x500.jpg",
+            "https://5.imimg.com/data5/ANDROID/Default/2022/7/LA/CF/ED/6407096/product-jpeg-1000x1000.jpg",
+            "https://5.imimg.com/data5/SELLER/Default/2025/5/509219518/DX/DL/BV/6407096/poly-aluminum-chloride-pac-1000x1000.jpg",
+            "https://5.imimg.com/data5/SELLER/Default/2025/5/509219518/DX/DL/BV/6407096/poly-aluminum-chloride-pac-500x500.jpg"
+          ],
+          "thumbnail": "https://5.imimg.com/data5/SELLER/Default/2025/5/509219518/DX/DL/BV/6407096/poly-aluminum-chloride-pac-250x250.jpg",
+          "specifications": {
+            "Physical State": "Powder",
+            "Purity %": ">99%",
+            "Packaging Details": "25 KG",
+            "Grade Standard": "Industrial Grade",
+            "Usage/Application": "Industrial Grade",
+            "Color": "White",
+            "Country of Origin": "Made in India",
+            "GST Registration Date": "Jul 2017",
+            "Legal Status of Firm": "Partnership",
+            "Nature of Business": "Trader - Wholesaler/Distributor",
+            "Number of Employees": "Upto 10 People",
+            "Annual Turnover": "5 - 25 Cr",
+            "IndiaMART Member Since": "Dec 2012",
+            "GST": "37**********1Z6"
+          },
+          "category": "Poly Aluminium Chloride Powder",
+          "category_slug": "poly-aluminium-chloride-powder"
+        }
+      ]
+    },
+    {
+      "name": "Ethanoicacid",
+      "slug": "ethanoicacid",
+      "products": [
+        {
+          "proddispid": "2854613293130",
+          "prodname": "Acetic Acid Glacial",
+          "product_url": "https://www.indiamart.com/proddetail/2854613293130.html",
+          "description": "Glacial Acetic Acid (pure acetic acid, typically &ge;99.5%) is a versatile chemical widely used in industries such as pharmaceuticals, textiles, food processing, and laboratory research. In India, it is available in various grades and packaging options to suit different applications.",
+          "price": "₹ 85",
+          "unit": "",
+          "min_order": "\"Kg\",\"PC_ITEM_NAME\":\"Acetic Acid Glacial",
+          "images": [
+            "https://5.imimg.com/data5/ANDROID/Default/2024/8/441306804/XK/UD/PI/6407096/product-jpeg-500x500.jpg",
+            "https://5.imimg.com/data5/ANDROID/Default/2024/8/441306804/XK/UD/PI/6407096/product-jpeg-1000x1000.jpg",
+            "https://5.imimg.com/data5/ANDROID/Default/2024/8/441308189/OP/PU/QC/6407096/product-jpeg-1000x1000.jpg",
+            "https://5.imimg.com/data5/SELLER/Default/2025/5/509215594/AY/HW/WZ/6407096/acetic-acid-glacial-1000x1000.jpg",
+            "https://5.imimg.com/data5/ANDROID/Default/2024/8/441308189/OP/PU/QC/6407096/product-jpeg-500x500.jpg",
+            "https://5.imimg.com/data5/SELLER/Default/2025/5/509215594/AY/HW/WZ/6407096/acetic-acid-glacial-500x500.jpg"
+          ],
+          "thumbnail": "https://5.imimg.com/data5/ANDROID/Default/2024/8/441308189/OP/PU/QC/6407096/product-jpeg-250x250.jpg",
+          "specifications": {
+            "Grade": "Industrial Grade",
+            "Packaging Details": "50 L Drum",
+            "Usage/Application": "Industrial Manufacturing",
+            "Purity": "99.85%",
+            "Physical State": "Liquid",
+            "Question": "35 kg tin",
+            "GST Registration Date": "Jul 2017",
+            "Legal Status of Firm": "Partnership",
+            "Nature of Business": "Trader - Wholesaler/Distributor",
+            "Number of Employees": "Upto 10 People",
+            "Annual Turnover": "5 - 25 Cr",
+            "IndiaMART Member Since": "Dec 2012",
+            "GST": "37**********1Z6"
+          },
+          "category": "Ethanoicacid",
+          "category_slug": "ethanoicacid"
+        }
+      ]
+    },
+    {
+      "name": "Hydrochloric Acid",
+      "slug": "hydrochloric-acid",
+      "products": [
+        {
+          "proddispid": "22370634373",
+          "prodname": "33% Hydrochloric Acid",
+          "product_url": "https://www.indiamart.com/proddetail/22370634373.html",
+          "description": "With sincerity and hard work of our professionals, we have carved a niche for ourselves in this domain by offering premium quality gamut of 33% Hydrochloric Acid.",
+          "price": "₹ 4",
+          "unit": "",
+          "min_order": "\"Kg\",\"PC_ITEM_NAME\":\"33% Hydrochloric Ac",
+          "images": [
+            "https://5.imimg.com/data5/SELLER/Default/2025/5/509225817/DQ/JI/BO/6407096/33-hydrochloric-acid-500x500.jpg",
+            "https://5.imimg.com/data5/SELLER/Default/2025/5/509225817/DQ/JI/BO/6407096/33-hydrochloric-acid-1000x1000.jpg",
+            "https://5.imimg.com/data5/SELLER/Default/2025/5/509226219/FW/YW/VX/6407096/33-hydrochloric-acid-1000x1000.jpg",
+            "https://5.imimg.com/data5/SELLER/Default/2025/5/509226346/OM/WG/WM/6407096/33-hydrochloric-acid-1000x1000.jpg",
+            "https://5.imimg.com/data5/SELLER/Default/2025/5/509226462/GQ/HR/OE/6407096/33-hydrochloric-acid-1000x1000.jpg",
+            "https://5.imimg.com/data5/SELLER/Default/2025/5/509226219/FW/YW/VX/6407096/33-hydrochloric-acid-500x500.jpg",
+            "https://5.imimg.com/data5/SELLER/Default/2025/5/509226346/OM/WG/WM/6407096/33-hydrochloric-acid-500x500.jpg",
+            "https://5.imimg.com/data5/SELLER/Default/2025/5/509226462/GQ/HR/OE/6407096/33-hydrochloric-acid-500x500.jpg"
+          ],
+          "thumbnail": "https://5.imimg.com/data5/SELLER/Default/2025/5/509226219/FW/YW/VX/6407096/33-hydrochloric-acid-250x250.jpg",
+          "specifications": {
+            "Purity": "100%",
+            "Packaging Size": "1 L",
+            "Grade Standard": "Technical Grade",
+            "Packaging Type": "HDPE Tins",
+            "Molecular Formula": "HCL",
+            "Specific Gravity": "1.160 g/mL",
+            "Form": "Liquid",
+            "Country of Origin": "Made in India",
+            "GST Registration Date": "Jul 2017",
+            "Legal Status of Firm": "Partnership",
+            "Nature of Business": "Trader - Wholesaler/Distributor",
+            "Number of Employees": "Upto 10 People",
+            "Annual Turnover": "5 - 25 Cr",
+            "IndiaMART Member Since": "Dec 2012",
+            "GST": "37**********1Z6"
+          },
+          "category": "Hydrochloric Acid",
+          "category_slug": "hydrochloric-acid"
+        }
+      ]
+    },
+    {
+      "name": "Sodium Bicarbonate And Products",
+      "slug": "sodium-bicarbonate-and-products",
+      "products": [
+        {
+          "proddispid": "25168723930",
+          "prodname": "Sodium Bi Corbonet",
+          "product_url": "https://www.indiamart.com/proddetail/25168723930.html",
+          "description": "Established in the year  2012  we\" Chem Care Technologies.\" is a Manufacturer of the wide spectrum Non Ferric Alum, View More, Cooling Tower Chemicals etc. We are manufacturing these products using premium grade raw material that is procured from the authentic vendors of the market. We offer these products at reasonable rates and deliver these within the promised time-frame.",
+          "price": "₹ 36",
+          "unit": "",
+          "min_order": "\"Kg\",\"PC_ITEM_NAME\":\"Sodium Bi Corbonet\"",
+          "images": [
+            "https://5.imimg.com/data5/ANDROID/Default/2022/3/YG/AM/VX/6407096/1646807037701-jpg-1000x1000.jpg",
+            "https://5.imimg.com/data5/ANDROID/Default/2022/3/YG/AM/VX/6407096/1646807037701-jpg-500x500.jpg",
+            "https://5.imimg.com/data5/ANDROID/Default/2022/3/VB/DB/YI/6407096/product-jpeg-1000x1000.jpg",
+            "https://5.imimg.com/data5/SELLER/Default/2025/5/509233794/WK/DO/SR/6407096/sodium-bi-corbonet-1000x1000.jpg",
+            "https://5.imimg.com/data5/ANDROID/Default/2022/3/VB/DB/YI/6407096/product-jpeg-500x500.jpg",
+            "https://5.imimg.com/data5/SELLER/Default/2025/5/509233794/WK/DO/SR/6407096/sodium-bi-corbonet-500x500.jpg"
+          ],
+          "thumbnail": "https://5.imimg.com/data5/ANDROID/Default/2022/3/VB/DB/YI/6407096/product-jpeg-250x250.jpg",
+          "specifications": {
+            "Grade Standard": "Industrial Grade",
+            "Packaging Details": "50 Kg Bag",
+            "Grade": "Food grade",
+            "CAS No": "144558",
+            "Usage/Application": "Laboratory",
+            "Physical State": "Powder",
+            "Question": "50 kg",
+            "Country of Origin": "Made in India",
+            "GST Registration Date": "Jul 2017",
+            "Legal Status of Firm": "Partnership",
+            "Nature of Business": "Trader - Wholesaler/Distributor",
+            "Number of Employees": "Upto 10 People",
+            "Annual Turnover": "5 - 25 Cr",
+            "IndiaMART Member Since": "Dec 2012",
+            "GST": "37**********1Z6"
+          },
+          "category": "Sodium Bicarbonate And Products",
+          "category_slug": "sodium-bicarbonate-and-products"
+        }
+      ]
+    },
+    {
+      "name": "Ferric Chloride For Oil Industry",
+      "slug": "ferric-chloride-for-oil-industry",
+      "products": [
+        {
+          "proddispid": "25168816812",
+          "prodname": "Ferric Chloride Powder",
+          "product_url": "https://www.indiamart.com/proddetail/25168816812.html",
+          "description": "Established in the year  2012  we\" Chem Care Technologies.\" is a Manufacturer of the wide spectrum Non Ferric Alum, View More, Cooling Tower Chemicals etc. We are manufacturing these products using premium grade raw material that is procured from the authentic vendors of the market. We offer these products at reasonable rates and deliver these within the promised time-frame.",
+          "price": "₹ 42",
+          "unit": "",
+          "min_order": "\"Kg\",\"PC_ITEM_NAME\":\"Ferric Chloride Pow",
+          "images": [
+            "https://5.imimg.com/data5/ANDROID/Default/2022/3/GG/VC/AL/6407096/prod-20220309-115831252083638387250153-jpg-500x500.jpg",
+            "https://5.imimg.com/data5/ANDROID/Default/2022/3/GG/VC/AL/6407096/prod-20220309-115831252083638387250153-jpg-1000x1000.jpg"
+          ],
+          "thumbnail": "https://5.imimg.com/data5/ANDROID/Default/2022/3/GG/VC/AL/6407096/prod-20220309-115831252083638387250153-jpg-250x250.jpg",
+          "specifications": {
+            "Usage/Application": "Industrial",
+            "Physical State": "Powder",
+            "Packaging Type": "25 kg",
+            "Packaging Size": "25 kg",
+            "Brand": "Anhydrous",
+            "GST Registration Date": "Jul 2017",
+            "Legal Status of Firm": "Partnership",
+            "Nature of Business": "Trader - Wholesaler/Distributor",
+            "Number of Employees": "Upto 10 People",
+            "Annual Turnover": "5 - 25 Cr",
+            "IndiaMART Member Since": "Dec 2012",
+            "GST": "37**********1Z6"
+          },
+          "category": "Ferric Chloride For Oil Industry",
+          "category_slug": "ferric-chloride-for-oil-industry"
+        }
+      ]
+    },
+    {
+      "name": "Ion Exchange Resin",
+      "slug": "ion-exchange-resin",
+      "products": [
+        {
+          "proddispid": "22370645333",
+          "prodname": "Indion 225 Na",
+          "product_url": "https://www.indiamart.com/proddetail/22370645333.html",
+          "description": "In order to cater the variegated demands of our precious clients, we are offering a wide range of Water Treatment Resin.",
+          "price": "₹ 135",
+          "unit": "",
+          "min_order": "\"Litre\",\"PC_ITEM_NAME\":\"Indion 225 Na\",\"",
+          "images": [
+            "https://5.imimg.com/data5/YM/HL/KI/SELLER-6407096/water-treatment-resin-500x500.jpg",
+            "https://5.imimg.com/data5/YM/HL/KI/SELLER-6407096/water-treatment-resin-1000x1000.jpg"
+          ],
+          "thumbnail": "https://5.imimg.com/data5/YM/HL/KI/SELLER-6407096/water-treatment-resin-250x250.jpg",
+          "specifications": {
+            "Color": "Golden",
+            "Packaging detail": "50 Litre Poly Bag",
+            "Packaging Size": "50 Ltr",
+            "Form": "crystal",
+            "Usage/Application": "used to soften water",
+            "Purity": "99%",
+            "Bulk Density": "0.78-0.88 g/ml",
+            "pH Value": "6.5 to 8.5",
+            "Shelf Life": "2 Year",
+            "Packaging Type": "Bag",
+            "GST Registration Date": "Jul 2017",
+            "Legal Status of Firm": "Partnership",
+            "Nature of Business": "Trader - Wholesaler/Distributor",
+            "Number of Employees": "Upto 10 People",
+            "Annual Turnover": "5 - 25 Cr",
+            "IndiaMART Member Since": "Dec 2012",
+            "GST": "37**********1Z6"
+          },
+          "category": "Ion Exchange Resin",
+          "category_slug": "ion-exchange-resin"
+        }
+      ]
+    },
+    {
+      "name": "Water Treatment Plants",
+      "slug": "water-treatment-plants",
+      "products": [
+        {
+          "proddispid": "22385335791",
+          "prodname": "Industrial Waste Water Treatment Plant",
+          "product_url": "https://www.indiamart.com/proddetail/22385335791.html",
+          "description": "Being one of the renowned organizations in the industry, we are highly engaged in providing a premium quality range of Industrial Waste Water Treatment Plant.",
+          "price": "₹ 240000",
+          "unit": "",
+          "min_order": "\"\",\"PC_ITEM_NAME\":\"Industrial Waste Wate",
+          "images": [
+            "https://5.imimg.com/data5/KM/RP/EJ/SELLER-6407096/industrial-waste-water-treatment-plant-1000x1000.jpg",
+            "https://5.imimg.com/data5/KM/RP/EJ/SELLER-6407096/industrial-waste-water-treatment-plant-500x500.jpg"
+          ],
+          "thumbnail": "https://5.imimg.com/data5/KM/RP/EJ/SELLER-6407096/industrial-waste-water-treatment-plant-250x250.jpg",
+          "specifications": {
+            "Water Source": "Industrial Effluent",
+            "Capacity": "5 Kld To 100Kld",
+            "Treatment Technique": "Membrane Bioreactor",
+            "Automation Grade": "Semi-Automatic",
+            "Working Voltage Range": "415 V",
+            "Phase": "Three Phase",
+            "GST Registration Date": "Jul 2017",
+            "Legal Status of Firm": "Partnership",
+            "Nature of Business": "Trader - Wholesaler/Distributor",
+            "Number of Employees": "Upto 10 People",
+            "Annual Turnover": "5 - 25 Cr",
+            "IndiaMART Member Since": "Dec 2012",
+            "GST": "37**********1Z6"
+          },
+          "category": "Water Treatment Plants",
+          "category_slug": "water-treatment-plants"
+        }
+      ]
+    },
+    {
+      "name": "Multiport Valves",
+      "slug": "multiport-valves",
+      "products": [
+        {
+          "proddispid": "22370647855",
+          "prodname": "PVC Multiport Valves",
+          "product_url": "https://www.indiamart.com/proddetail/22370647855.html",
+          "description": "Aimed at prosperous growth in this domain, we are instrumental in offering an excellent quality range of PVC Multiport Valves.",
+          "price": "₹ 3800",
+          "unit": "",
+          "min_order": "\"Piece\",\"PC_ITEM_NAME\":\"PVC Multiport Va",
+          "images": [
+            "https://5.imimg.com/data5/MX/ZW/ER/SELLER-6407096/multiport-valves-500x500.jpg",
+            "https://5.imimg.com/data5/MX/ZW/ER/SELLER-6407096/multiport-valves-1000x1000.jpg"
+          ],
+          "thumbnail": "https://5.imimg.com/data5/MX/ZW/ER/SELLER-6407096/multiport-valves-250x250.jpg",
+          "specifications": {
+            "Valve Size": "40 NB 60 NB",
+            "Brand": "UKL",
+            "Material": "PVC",
+            "Media": "Water",
+            "Pressure": "10-20 bar",
+            "Flow Rate": "2.5 m3",
+            "Working Temperature": "130 Degree C",
+            "GST Registration Date": "Jul 2017",
+            "Legal Status of Firm": "Partnership",
+            "Nature of Business": "Trader - Wholesaler/Distributor",
+            "Number of Employees": "Upto 10 People",
+            "Annual Turnover": "5 - 25 Cr",
+            "IndiaMART Member Since": "Dec 2012",
+            "GST": "37**********1Z6"
+          },
+          "category": "Multiport Valves",
+          "category_slug": "multiport-valves"
+        }
+      ]
+    },
+    {
+      "name": "Caustic Soda Flakes",
+      "slug": "caustic-soda-flakes",
+      "products": [
+        {
+          "proddispid": "22358327733",
+          "prodname": "Caustic Soda Flakes",
+          "product_url": "https://www.indiamart.com/proddetail/22358327733.html",
+          "description": "With our in-depth knowledge of this domain, we are actively engaged in providing an excellent quality range of Caustic Soda Flakes.\\n",
+          "price": "₹ 50",
+          "unit": "",
+          "min_order": "\"Kg\",\"PC_ITEM_NAME\":\"Caustic Soda Flakes",
+          "images": [
+            "https://5.imimg.com/data5/MW/ZS/JW/SELLER-6407096/caustic-soda-flakes-500x500.jpg",
+            "https://5.imimg.com/data5/MW/ZS/JW/SELLER-6407096/caustic-soda-flakes-1000x1000.jpg"
+          ],
+          "thumbnail": "https://5.imimg.com/data5/MW/ZS/JW/SELLER-6407096/caustic-soda-flakes-250x250.jpg",
+          "specifications": {
+            "Packaging Type": "Bag",
+            "Packaging Size": "50 kg",
+            "Purity": "99.9%",
+            "Formula": "NaOH",
+            "Density": "2.13 g/cm3",
+            "Molar Mass": "39.997 g/mol",
+            "Form": "Crystalline",
+            "GST Registration Date": "Jul 2017",
+            "Legal Status of Firm": "Partnership",
+            "Nature of Business": "Trader - Wholesaler/Distributor",
+            "Number of Employees": "Upto 10 People",
+            "Annual Turnover": "5 - 25 Cr",
+            "IndiaMART Member Since": "Dec 2012",
+            "GST": "37**********1Z6"
+          },
+          "category": "Caustic Soda Flakes",
+          "category_slug": "caustic-soda-flakes"
+        }
+      ]
+    },
+    {
+      "name": "Morpholine Msds",
+      "slug": "morpholine-msds",
+      "products": [
+        {
+          "proddispid": "25855525430",
+          "prodname": "Morpholine 99.5 %",
+          "product_url": "https://www.indiamart.com/proddetail/25855525430.html",
+          "description": "",
+          "price": "₹ 280",
+          "unit": "",
+          "min_order": "\"Kg\",\"PC_ITEM_NAME\":\"Morpholine 99.5 %\",",
+          "images": [
+            "https://5.imimg.com/data5/ANDROID/Default/2022/6/GF/HB/YY/6407096/product-jpeg-500x500.jpg",
+            "https://5.imimg.com/data5/ANDROID/Default/2022/6/GF/HB/YY/6407096/product-jpeg-1000x1000.jpg"
+          ],
+          "thumbnail": "https://5.imimg.com/data5/ANDROID/Default/2022/6/GF/HB/YY/6407096/product-jpeg-250x250.jpg",
+          "specifications": {
+            "Purity %": ">99%",
+            "Packaging Details": "50 kg drum",
+            "Grade Standard": "Industrial Grade",
+            "Usage/Application": "Industrial",
+            "Physical State": "Liquid",
+            "GST Registration Date": "Jul 2017",
+            "Legal Status of Firm": "Partnership",
+            "Nature of Business": "Trader - Wholesaler/Distributor",
+            "Number of Employees": "Upto 10 People",
+            "Annual Turnover": "5 - 25 Cr",
+            "IndiaMART Member Since": "Dec 2012",
+            "GST": "37**********1Z6"
+          },
+          "category": "Morpholine Msds",
+          "category_slug": "morpholine-msds"
+        }
+      ]
+    },
+    {
+      "name": "Caustic Potash Flake",
+      "slug": "caustic-potash-flake",
+      "products": [
+        {
+          "proddispid": "2853978188712",
+          "prodname": "Caustic Potash Flakes",
+          "product_url": "https://www.indiamart.com/proddetail/2853978188712.html",
+          "description": "Caustic Potash Flakes, also known as Potassium Hydroxide (KOH) flakes, are a white, hygroscopic (moisture-absorbing) solid used widely in industrial, agricultural, and chemical processes.",
+          "price": "₹ 99",
+          "unit": "",
+          "min_order": "\"Kg\",\"PC_ITEM_NAME\":\"Caustic Potash Flak",
+          "images": [
+            "https://5.imimg.com/data5/ANDROID/Default/2024/4/414220177/EO/OX/LF/6407096/product-jpeg-500x500.jpg",
+            "https://5.imimg.com/data5/ANDROID/Default/2024/4/414220177/EO/OX/LF/6407096/product-jpeg-1000x1000.jpg"
+          ],
+          "thumbnail": "https://5.imimg.com/data5/ANDROID/Default/2024/4/414220177/EO/OX/LF/6407096/product-jpeg-250x250.jpg",
+          "specifications": {
+            "Packaging Size": "50 kg",
+            "Grade Standard": "Industrial Grade",
+            "Packaging Type": "HDPE Bag",
+            "Packaging Details": "50 Kg Bag",
+            "Grade": "Industrial Grade",
+            "GST Registration Date": "Jul 2017",
+            "Legal Status of Firm": "Partnership",
+            "Nature of Business": "Trader - Wholesaler/Distributor",
+            "Number of Employees": "Upto 10 People",
+            "Annual Turnover": "5 - 25 Cr",
+            "IndiaMART Member Since": "Dec 2012",
+            "GST": "37**********1Z6"
+          },
+          "category": "Caustic Potash Flake",
+          "category_slug": "caustic-potash-flake"
+        }
+      ]
+    },
+    {
+      "name": "Silicone Based Defoamer For Laundry Detergents",
+      "slug": "silicone-based-defoamer-for-laundry-detergents",
+      "products": [
+        {
+          "proddispid": "26226289162",
+          "prodname": "Silicone Defoamer Liquid",
+          "product_url": "https://www.indiamart.com/proddetail/26226289162.html",
+          "description": "Chem Care Silicon Defoamer",
+          "price": "₹ 270",
+          "unit": "",
+          "min_order": "\"Kg\",\"PC_ITEM_NAME\":\"Silicone Defoamer L",
+          "images": [
+            "https://5.imimg.com/data5/ANDROID/Default/2022/7/DU/UK/CX/6407096/product-jpeg-500x500.jpg",
+            "https://5.imimg.com/data5/ANDROID/Default/2022/7/DU/UK/CX/6407096/product-jpeg-1000x1000.jpg"
+          ],
+          "thumbnail": "https://5.imimg.com/data5/ANDROID/Default/2022/7/DU/UK/CX/6407096/product-jpeg-250x250.jpg",
+          "specifications": {
+            "Brand": "CHEM CARE",
+            "Packaging Size": "50 KG",
+            "Usage/Application": "Industrial",
+            "Color": "Milky White",
+            "Packaging Type": "50 KG DRUM",
+            "Country of Origin": "Made in India",
+            "GST Registration Date": "Jul 2017",
+            "Legal Status of Firm": "Partnership",
+            "Nature of Business": "Trader - Wholesaler/Distributor",
+            "Number of Employees": "Upto 10 People",
+            "Annual Turnover": "5 - 25 Cr",
+            "IndiaMART Member Since": "Dec 2012",
+            "GST": "37**********1Z6"
+          },
+          "category": "Silicone Based Defoamer For Laundry Detergents",
+          "category_slug": "silicone-based-defoamer-for-laundry-detergents"
+        }
+      ]
+    },
+    {
+      "name": "Other Chemicals",
+      "slug": "other-chemicals",
+      "products": [
+        {
+          "proddispid": "22383195730",
+          "prodname": "Low Pressure Boiler Oxygen Scavenger Chemical",
+          "product_url": "https://www.indiamart.com/proddetail/22383195730.html",
+          "description": "Being a customer oriented organization, we are highly engaged in providing a wide range of Low Pressure Boiler Oxygen Scavenger Chemical.",
+          "price": "₹ 97",
+          "unit": "",
+          "min_order": "\"Litre\",\"PC_ITEM_NAME\":\"Low Pressure Boi",
+          "images": [
+            "https://5.imimg.com/data5/JB/WP/QA/SELLER-6407096/low-pressure-boiler-oxygen-scavenger-chemical-500x500.jpg",
+            "https://5.imimg.com/data5/JB/WP/QA/SELLER-6407096/low-pressure-boiler-oxygen-scavenger-chemical-1000x1000.jpg"
+          ],
+          "thumbnail": "https://5.imimg.com/data5/JB/WP/QA/SELLER-6407096/low-pressure-boiler-oxygen-scavenger-chemical-250x250.jpg",
+          "specifications": {
+            "Brand": "Chem care",
+            "Purity": "99%",
+            "Grade": "Technical Grade",
+            "Packaging Type": "Drum",
+            "Packaging Size": "50 Kg",
+            "Physical Form": "Liquid",
+            "Shelf Life": "24 month",
+            "Storage Condition": "Cold",
+            "GST Registration Date": "Jul 2017",
+            "Legal Status of Firm": "Partnership",
+            "Nature of Business": "Trader - Wholesaler/Distributor",
+            "Number of Employees": "Upto 10 People",
+            "Annual Turnover": "5 - 25 Cr",
+            "IndiaMART Member Since": "Dec 2012",
+            "GST": "37**********1Z6"
+          },
+          "category": "Other Chemicals",
+          "category_slug": "other-chemicals"
+        },
+        {
+          "proddispid": "22383190630",
+          "prodname": "High Pressure Boiler Oxygen Scavenger Chemical",
+          "product_url": "https://www.indiamart.com/proddetail/22383190630.html",
+          "description": "With the valuable assistance of skilled team of professionals, we are engaged in offering an extensive range of high quality High Pressure Boiler Oxygen Scavenger Chemical.",
+          "price": "₹ 290",
+          "unit": "",
+          "min_order": "\"Litre\",\"PC_ITEM_NAME\":\"High Pressure Bo",
+          "images": [
+            "https://5.imimg.com/data5/QH/UL/RG/SELLER-6407096/high-pressure-boiler-oxygen-scavenger-chemical-500x500.jpg",
+            "https://5.imimg.com/data5/QH/UL/RG/SELLER-6407096/high-pressure-boiler-oxygen-scavenger-chemical-1000x1000.jpg"
+          ],
+          "thumbnail": "https://5.imimg.com/data5/QH/UL/RG/SELLER-6407096/high-pressure-boiler-oxygen-scavenger-chemical-250x250.jpg",
+          "specifications": {
+            "Brand": "Chem Care",
+            "Purity": "95 %",
+            "Grade": "Industrial Grade",
+            "Packaging Type": "Drum",
+            "Packaging Size": "50 Kg",
+            "Physical Form": "Liquid",
+            "Shelf Life": "24 month",
+            "Storage Condition": "Cold",
+            "GST Registration Date": "Jul 2017",
+            "Legal Status of Firm": "Partnership",
+            "Nature of Business": "Trader - Wholesaler/Distributor",
+            "Number of Employees": "Upto 10 People",
+            "Annual Turnover": "5 - 25 Cr",
+            "IndiaMART Member Since": "Dec 2012",
+            "GST": "37**********1Z6"
+          },
+          "category": "Other Chemicals",
+          "category_slug": "other-chemicals"
+        },
+        {
+          "proddispid": "2859275453091",
+          "prodname": "Sodium Hypochlorite",
+          "product_url": "https://www.indiamart.com/proddetail/2859275453091.html",
+          "description": "",
+          "price": "",
+          "unit": "",
+          "min_order": "",
+          "images": [],
+          "thumbnail": "",
+          "specifications": {},
+          "category": "Other Chemicals",
+          "category_slug": "other-chemicals"
+        },
+        {
+          "proddispid": "2856853895573",
+          "prodname": "Potassium Permanganate",
+          "product_url": "https://www.indiamart.com/proddetail/2856853895573.html",
+          "description": "",
+          "price": "",
+          "unit": "",
+          "min_order": "",
+          "images": [],
+          "thumbnail": "",
+          "specifications": {},
+          "category": "Other Chemicals",
+          "category_slug": "other-chemicals"
+        },
+        {
+          "proddispid": "2855568391130",
+          "prodname": "Soda Ash Powder",
+          "product_url": "https://www.indiamart.com/proddetail/2855568391130.html",
+          "description": "",
+          "price": "",
+          "unit": "",
+          "min_order": "",
+          "images": [],
+          "thumbnail": "",
+          "specifications": {},
+          "category": "Other Chemicals",
+          "category_slug": "other-chemicals"
+        },
+        {
+          "proddispid": "2855568391388",
+          "prodname": "Citric Acid",
+          "product_url": "https://www.indiamart.com/proddetail/2855568391388.html",
+          "description": "",
+          "price": "",
+          "unit": "",
+          "min_order": "",
+          "images": [],
+          "thumbnail": "",
+          "specifications": {},
+          "category": "Other Chemicals",
+          "category_slug": "other-chemicals"
+        },
+        {
+          "proddispid": "2855568391448",
+          "prodname": "Sodium Lauryl Sulphate",
+          "product_url": "https://www.indiamart.com/proddetail/2855568391448.html",
+          "description": "",
+          "price": "",
+          "unit": "",
+          "min_order": "",
+          "images": [],
+          "thumbnail": "",
+          "specifications": {},
+          "category": "Other Chemicals",
+          "category_slug": "other-chemicals"
+        },
+        {
+          "proddispid": "2855568391512",
+          "prodname": "Lime Powder",
+          "product_url": "https://www.indiamart.com/proddetail/2855568391512.html",
+          "description": "",
+          "price": "",
+          "unit": "",
+          "min_order": "",
+          "images": [],
+          "thumbnail": "",
+          "specifications": {},
+          "category": "Other Chemicals",
+          "category_slug": "other-chemicals"
+        },
+        {
+          "proddispid": "2855568391755",
+          "prodname": "Sodium Lauryl Ether Sulphate",
+          "product_url": "https://www.indiamart.com/proddetail/2855568391755.html",
+          "description": "",
+          "price": "",
+          "unit": "",
+          "min_order": "",
+          "images": [],
+          "thumbnail": "",
+          "specifications": {},
+          "category": "Other Chemicals",
+          "category_slug": "other-chemicals"
         }
       ]
     }
   ],
-  "all_products": [
-    {
-      "proddispid": "22383179430",
-      "prodname": "Cooling Tower Oxidizing Biocide Chemical",
-      "category": "Cooling Tower Chemicals",
-      "category_slug": "cooling-tower-chemicals",
-      "product_url": "https://www.indiamart.com/proddetail/22383179430.html",
-      "description": "",
-      "price": "₹ 267",
-      "images": [
-        "https://5.imimg.com/data5/SELLER/Default/2025/5/509229015/OP/LI/ZJ/6407096/cooling-tower-oxidizing-biocide-chemical-500x500.jpg",
-        "https://5.imimg.com/data5/SELLER/Default/2025/5/509229015/OP/LI/ZJ/6407096/cooling-tower-oxidizing-biocide-chemical-1000x1000.jpg",
-        "https://5.imimg.com/data5/SELLER/Default/2025/5/509229273/HG/ZM/MQ/6407096/cooling-tower-oxidizing-biocide-chemical-1000x1000.jpg",
-        "https://5.imimg.com/data5/SELLER/Default/2025/5/509229697/ME/VE/GS/6407096/cooling-tower-oxidizing-biocide-chemical-1000x1000.jpg",
-        "https://5.imimg.com/data5/SELLER/Logo/2025/5/509401904/ZB/OI/PC/6407096/logo02-90x90.jpg"
-      ],
-      "thumbnail": "https://5.imimg.com/data5/SELLER/Default/2025/5/509229273/HG/ZM/MQ/6407096/cooling-tower-oxidizing-biocide-chemical-250x250.jpg",
-      "specifications": {
-        "Packaging Type": "Drum",
-        "Grade Standard": "Bio-Tech Grade",
-        "Packaging Size": "50Kg",
-        "Brand": "Chem Care",
-        "Physical State": "Liquid",
-        "Ph Value": "5-7",
-        "Shelf Life:": "2 Year",
-        "Availability": "In Stock",
-        "Price": "Excluding all taxes",
-        "Ships from": "Vijayawada",
-        "Shipping": "As per delivery location"
-      }
-    },
-    {
-      "proddispid": "22383177973",
-      "prodname": "Cooling Tower Non Oxidizing Biocide Chemical",
-      "category": "Cooling Tower Chemicals",
-      "category_slug": "cooling-tower-chemicals",
-      "product_url": "https://www.indiamart.com/proddetail/22383177973.html",
-      "description": "",
-      "price": "₹ 96",
-      "images": [
-        "https://5.imimg.com/data5/SELLER/Default/2025/5/509230622/XJ/NA/WV/6407096/cooling-tower-non-oxidizing-biocide-chemical-500x500.jpg",
-        "https://5.imimg.com/data5/SELLER/Default/2025/5/509230622/XJ/NA/WV/6407096/cooling-tower-non-oxidizing-biocide-chemical-1000x1000.jpg",
-        "https://5.imimg.com/data5/SELLER/Default/2025/5/509230840/GL/CY/DR/6407096/cooling-tower-non-oxidizing-biocide-chemical-1000x1000.jpg",
-        "https://5.imimg.com/data5/SELLER/Default/2025/5/509231018/FF/KH/BZ/6407096/cooling-tower-non-oxidizing-biocide-chemical-1000x1000.jpg",
-        "https://5.imimg.com/data5/SELLER/Logo/2025/5/509401904/ZB/OI/PC/6407096/logo02-90x90.jpg"
-      ],
-      "thumbnail": "https://5.imimg.com/data5/SELLER/Default/2025/5/509230840/GL/CY/DR/6407096/cooling-tower-non-oxidizing-biocide-chemical-250x250.jpg",
-      "specifications": {
-        "Packaging Type": "Drum",
-        "Grade Standard": "Bio-Tech Grade",
-        "Packaging Size": "50Kg",
-        "Brand": "Chem Care",
-        "Purity": "100%",
-        "Physical State": "Liquid",
-        "Ph Value": "5-7",
-        "Availability": "In Stock",
-        "Price": "Excluding all taxes",
-        "Ships from": "Vijayawada",
-        "Shipping": "As per delivery location"
-      }
-    },
-    {
-      "proddispid": "22383177191",
-      "prodname": "Cooling Tower Metal Dispersant Chemical",
-      "category": "Cooling Tower Chemicals",
-      "category_slug": "cooling-tower-chemicals",
-      "product_url": "https://www.indiamart.com/proddetail/22383177191.html",
-      "description": "",
-      "price": "₹ 155",
-      "images": [
-        "https://5.imimg.com/data5/SELLER/Default/2025/5/509230962/YN/FC/HC/6407096/cooling-tower-non-oxidizing-biocide-chemical-500x500.jpg",
-        "https://5.imimg.com/data5/SELLER/Default/2025/5/509230962/YN/FC/HC/6407096/cooling-tower-non-oxidizing-biocide-chemical-1000x1000.jpg",
-        "https://5.imimg.com/data5/RV/PV/QY/SELLER-6407096/cooling-tower-metal-dispersant-chemical-1000x1000.jpg",
-        "https://5.imimg.com/data5/SELLER/Default/2025/5/509232688/OR/RR/MJ/6407096/cooling-tower-metal-dispersant-chemical-1000x1000.jpg",
-        "https://5.imimg.com/data5/SELLER/Default/2025/5/509232814/ZX/SP/PF/6407096/cooling-tower-metal-dispersant-chemical-1000x1000.jpg"
-      ],
-      "thumbnail": "https://5.imimg.com/data5/RV/PV/QY/SELLER-6407096/cooling-tower-metal-dispersant-chemical-250x250.jpg",
-      "specifications": {
-        "Packaging Type": "Drum",
-        "Grade Standard": "Bio-Tech Grade",
-        "Brand": "Chem Care",
-        "Purity": "98%",
-        "Physical State": "Liquid",
-        "Industry": "Food &amp; Beverage",
-        "Availability": "In Stock",
-        "Price": "Excluding all taxes",
-        "Ships from": "Vijayawada",
-        "Shipping": "As per delivery location"
-      }
-    },
-    {
-      "proddispid": "22383175712",
-      "prodname": "Cooling Tower Bio Dispersant Chemical",
-      "category": "Cooling Tower Chemicals",
-      "category_slug": "cooling-tower-chemicals",
-      "product_url": "https://www.indiamart.com/proddetail/22383175712.html",
-      "description": "",
-      "price": "₹ 135",
-      "images": [
-        "https://5.imimg.com/data5/SELLER/Default/2025/5/509227474/EJ/JG/KJ/6407096/cooling-tower-bio-dispersant-chemical-500x500.jpg",
-        "https://5.imimg.com/data5/SELLER/Default/2025/5/509227474/EJ/JG/KJ/6407096/cooling-tower-bio-dispersant-chemical-1000x1000.jpg",
-        "https://5.imimg.com/data5/SELLER/Default/2025/5/509227612/RX/DC/LQ/6407096/cooling-tower-bio-dispersant-chemical-1000x1000.jpg",
-        "https://5.imimg.com/data5/SELLER/Default/2025/5/509227995/YR/WR/TI/6407096/cooling-tower-bio-dispersant-chemical-1000x1000.png",
-        "https://5.imimg.com/data5/SELLER/Logo/2025/5/509401904/ZB/OI/PC/6407096/logo02-90x90.jpg"
-      ],
-      "thumbnail": "https://5.imimg.com/data5/SELLER/Default/2025/5/509227612/RX/DC/LQ/6407096/cooling-tower-bio-dispersant-chemical-250x250.jpg",
-      "specifications": {
-        "Packaging Type": "Drum",
-        "Grade Standard": "Technical Grade",
-        "Packaging Size": "50 kg",
-        "Brand": "chem care",
-        "Purity": "99%",
-        "Physical State": "Liquid",
-        "Type Of Chemicals": "Scale Inhibitor",
-        "Availability": "In Stock",
-        "Price": "Excluding all taxes",
-        "Ships from": "Vijayawada",
-        "Shipping": "As per delivery location"
-      }
-    },
-    {
-      "proddispid": "22358225133",
-      "prodname": "Cooling Tower Antiscalant And Corrosion Inhibitor Chemical",
-      "category": "Cooling Tower Chemicals",
-      "category_slug": "cooling-tower-chemicals",
-      "product_url": "https://www.indiamart.com/proddetail/22358225133.html",
-      "description": "",
-      "price": "₹ 85",
-      "images": [
-        "https://5.imimg.com/data5/AT/NM/CD/SELLER-6407096/cooling-tower-antiscalant-and-corrosion-inhibitor-chemical-500x500.jpg",
-        "https://5.imimg.com/data5/SELLER/Logo/2025/5/509401904/ZB/OI/PC/6407096/logo02-90x90.jpg",
-        "https://3.imimg.com/data3/TX/GN/MY-2/corrosion-inhibitors-125x125.jpg",
-        "https://5.imimg.com/data5/AT/NM/CD/SELLER-6407096/cooling-tower-antiscalant-and-corrosion-inhibitor-chemical-125x125.jpg",
-        "https://5.imimg.com/data5/AT/NM/CD/SELLER-6407096/cooling-tower-antiscalant-and-corrosion-inhibitor-chemical-1000x1000.jpg"
-      ],
-      "thumbnail": "https://3.imimg.com/data3/TX/GN/MY-2/corrosion-inhibitors-250x250.jpg",
-      "specifications": {
-        "Form": "Liquid",
-        "Packaging Type": "Drum",
-        "Categories": "Cooling Water Treatment Chemicals",
-        "Grade Standard": "Technical Grade",
-        "Usage/Application": "Industrial Use",
-        "Industry": "Chemical Processing",
-        "Type Of Chemicals": "Scale Inhibitor",
-        "Packaging Size": "50 Kg",
-        "Brand": "Chem Care",
-        "Purity": "95%",
-        "Physical State": "Liquid",
-        "Shelf Life": "2 Year",
-        "Availability": "In Stock",
-        "Price": "Excluding all taxes",
-        "Ships from": "Vijayawada",
-        "Shipping": "As per delivery location"
-      }
-    },
-    {
-      "proddispid": "22358329791",
-      "prodname": "High Pressure Boiler Antiscalant Chemical",
-      "category": "Cooling Tower Chemicals",
-      "category_slug": "cooling-tower-chemicals",
-      "product_url": "https://www.indiamart.com/proddetail/22358329791.html",
-      "description": "",
-      "price": "₹ 86",
-      "images": [
-        "https://5.imimg.com/data5/SELLER/Default/2025/5/509211926/TI/HA/LB/6407096/high-pressure-boiler-antiscalant-chemical-500x500.jpg",
-        "https://5.imimg.com/data5/SELLER/Default/2025/5/509211926/TI/HA/LB/6407096/high-pressure-boiler-antiscalant-chemical-1000x1000.jpg",
-        "https://5.imimg.com/data5/SELLER/Default/2025/5/509212032/KE/UI/DN/6407096/high-pressure-boiler-antiscalant-chemical-1000x1000.jpg",
-        "https://5.imimg.com/data5/SELLER/Default/2025/5/509212125/NT/VA/MI/6407096/high-pressure-boiler-antiscalant-chemical-1000x1000.jpg",
-        "https://5.imimg.com/data5/SELLER/Logo/2025/5/509401904/ZB/OI/PC/6407096/logo02-90x90.jpg"
-      ],
-      "thumbnail": "https://5.imimg.com/data5/SELLER/Default/2025/5/509212032/KE/UI/DN/6407096/high-pressure-boiler-antiscalant-chemical-250x250.jpg",
-      "specifications": {
-        "Grade Standard": "Technical Grade",
-        "Physical State": "Liquid",
-        "Packaging Type": "Drum",
-        "Packaging Size": "50 kg",
-        "Brand": "Chem Care",
-        "Purity": "45-50%",
-        "Ph Of Product": "3.8~4.1",
-        "Country of Origin": "Made in India",
-        "Availability": "In Stock",
-        "Price": "Excluding all taxes",
-        "Ships from": "Vijayawada",
-        "Shipping": "As per delivery location"
-      }
-    },
-    {
-      "proddispid": "22383194355",
-      "prodname": "Low Pressure Boiler Antiscalant Chemical",
-      "category": "Cooling Tower Chemicals",
-      "category_slug": "cooling-tower-chemicals",
-      "product_url": "https://www.indiamart.com/proddetail/22383194355.html",
-      "description": "",
-      "price": "₹ 130",
-      "images": [
-        "https://5.imimg.com/data5/SELLER/Default/2025/5/509211097/TN/FT/GV/6407096/low-pressure-boiler-antiscalant-chemical-500x500.jpg",
-        "https://5.imimg.com/data5/SELLER/Default/2025/5/509211097/TN/FT/GV/6407096/low-pressure-boiler-antiscalant-chemical-1000x1000.jpg",
-        "https://5.imimg.com/data5/SELLER/Default/2025/5/509211185/YA/LD/PZ/6407096/low-pressure-boiler-antiscalant-chemical-1000x1000.jpg",
-        "https://5.imimg.com/data5/SELLER/Default/2025/5/509211288/CM/QA/ZS/6407096/low-pressure-boiler-antiscalant-chemical-1000x1000.jpg",
-        "https://5.imimg.com/data5/SELLER/Logo/2025/5/509401904/ZB/OI/PC/6407096/logo02-90x90.jpg"
-      ],
-      "thumbnail": "https://5.imimg.com/data5/SELLER/Default/2025/5/509211185/YA/LD/PZ/6407096/low-pressure-boiler-antiscalant-chemical-250x250.jpg",
-      "specifications": {
-        "Grade Standard": "Technical Grade",
-        "Packaging Size": "50 kg",
-        "Packaging Type": "Drum",
-        "Physical State": "Liquid",
-        "Purity": "50%",
-        "Brand": "Chem Care",
-        "Solid content": "45-50%",
-        "Country of Origin": "Made in India",
-        "Availability": "In Stock",
-        "Price": "Excluding all taxes",
-        "Ships from": "Vijayawada",
-        "Shipping": "As per delivery location"
-      }
-    },
-    {
-      "proddispid": "22383193048",
-      "prodname": "High Pressure Boiler Ph Booster Chemical",
-      "category": "Cooling Tower Chemicals",
-      "category_slug": "cooling-tower-chemicals",
-      "product_url": "https://www.indiamart.com/proddetail/22383193048.html",
-      "description": "",
-      "price": "₹ 185",
-      "images": [
-        "https://5.imimg.com/data5/SELLER/Default/2025/5/509212091/SL/OU/FK/6407096/high-pressure-boiler-antiscalant-chemical-500x500.jpg",
-        "https://5.imimg.com/data5/SELLER/Default/2025/5/509212091/SL/OU/FK/6407096/high-pressure-boiler-antiscalant-chemical-1000x1000.jpg",
-        "https://5.imimg.com/data5/KG/KU/ZF/SELLER-6407096/high-pressure-boiler-ph-booster-chemical-1000x1000.jpg",
-        "https://5.imimg.com/data5/SELLER/Default/2025/5/509235394/JA/KM/BY/6407096/high-pressure-boiler-ph-booster-chemical-1000x1000.jpg",
-        "https://5.imimg.com/data5/SELLER/Default/2025/5/509235540/PU/HN/DV/6407096/high-pressure-boiler-ph-booster-chemical-1000x1000.jpg"
-      ],
-      "thumbnail": "https://5.imimg.com/data5/KG/KU/ZF/SELLER-6407096/high-pressure-boiler-ph-booster-chemical-250x250.jpg",
-      "specifications": {
-        "Physical State": "Liquid",
-        "Usage/Application": "Industrial",
-        "Grade Standard": "Reagent Grade",
-        "Brand": "Chem Care",
-        "Purity": "99%",
-        "Pack Type": "Drum",
-        "Pack Size": "50 kg",
-        "PH Value": "9",
-        "Shelf Life": "6 Month",
-        "Country of Origin": "Made in India",
-        "Availability": "In Stock",
-        "Price": "Excluding all taxes",
-        "Ships from": "Vijayawada",
-        "Shipping": "As per delivery location"
-      }
-    },
-    {
-      "proddispid": "27255517733",
-      "prodname": "Benzalkonium Chloride Bkc",
-      "category": "Cooling Tower Chemicals",
-      "category_slug": "cooling-tower-chemicals",
-      "product_url": "https://www.indiamart.com/proddetail/27255517733.html",
-      "description": "",
-      "price": "₹ 145",
-      "images": [
-        "https://5.imimg.com/data5/ANDROID/Default/2022/10/TQ/GI/GM/6407096/product-jpeg-500x500.jpg",
-        "https://5.imimg.com/data5/ANDROID/Default/2022/10/TQ/GI/GM/6407096/product-jpeg-1000x1000.jpg",
-        "https://5.imimg.com/data5/SELLER/Default/2025/5/509223153/PD/WJ/VU/6407096/benzalkonium-chloride-bkc-1000x1000.jpg",
-        "https://5.imimg.com/data5/SELLER/Logo/2025/5/509401904/ZB/OI/PC/6407096/logo02-90x90.jpg",
-        "https://5.imimg.com/data5/SELLER/Default/2025/5/509223153/PD/WJ/VU/6407096/benzalkonium-chloride-bkc-125x125.jpg"
-      ],
-      "thumbnail": "https://5.imimg.com/data5/SELLER/Default/2025/5/509223153/PD/WJ/VU/6407096/benzalkonium-chloride-bkc-250x250.jpg",
-      "specifications": {
-        "Purity": "50%",
-        "Packaging Type": "Drum",
-        "Grade Standard": "Technical Grade",
-        "Usage/Application": "Surface Disinfectant",
-        "Packaging Size": "50 kg",
-        "Physical State": "Gel",
-        "Purity (%)": "50 %, 80%",
-        "Availability": "In Stock",
-        "Price": "Excluding all taxes",
-        "Ships from": "Vijayawada",
-        "Shipping": "As per delivery location"
-      }
-    },
-    {
-      "proddispid": "22383197062",
-      "prodname": "Low Pressure Boiler Ph Booster Chemical",
-      "category": "Cooling Tower Chemicals",
-      "category_slug": "cooling-tower-chemicals",
-      "product_url": "https://www.indiamart.com/proddetail/22383197062.html",
-      "description": "",
-      "price": "₹ 62",
-      "images": [
-        "https://5.imimg.com/data5/GJ/PU/BQ/SELLER-6407096/low-pressure-boiler-ph-booster-chemical-500x500.jpg",
-        "https://5.imimg.com/data5/SELLER/Logo/2025/5/509401904/ZB/OI/PC/6407096/logo02-90x90.jpg",
-        "https://5.imimg.com/data5/GLADMIN/Default/2022/6/NR/DE/WX/87490/ph-booster-chemical-125x125.jpg",
-        "https://5.imimg.com/data5/GJ/PU/BQ/SELLER-6407096/low-pressure-boiler-ph-booster-chemical-125x125.jpg",
-        "https://5.imimg.com/data5/GJ/PU/BQ/SELLER-6407096/low-pressure-boiler-ph-booster-chemical-1000x1000.jpg"
-      ],
-      "thumbnail": "https://5.imimg.com/data5/GLADMIN/Default/2022/6/NR/DE/WX/87490/ph-booster-chemical-250x250.jpg",
-      "specifications": {
-        "Packaging Size": "50 kg",
-        "Grade Standard": "Bio-Tech Grade",
-        "Packaging Type": "Drum",
-        "PH Value": "8-10",
-        "Brand": "Chem Care",
-        "Physical State": "Liquid",
-        "Shelf Life": "6 Month",
-        "Availability": "In Stock",
-        "Price": "Excluding all taxes",
-        "Ships from": "Vijayawada",
-        "Shipping": "As per delivery location"
-      }
-    },
-    {
-      "proddispid": "22370638188",
-      "prodname": "EDTA 2Na & 4 Na Chemical",
-      "category": "Cooling Tower Chemicals",
-      "category_slug": "cooling-tower-chemicals",
-      "product_url": "https://www.indiamart.com/proddetail/22370638188.html",
-      "description": "",
-      "price": "₹ 155",
-      "images": [
-        "https://5.imimg.com/data5/LY/GU/KJ/SELLER-6407096/edta-2na-chemical-500x500.jpg",
-        "https://5.imimg.com/data5/SELLER/Logo/2025/5/509401904/ZB/OI/PC/6407096/logo02-90x90.jpg",
-        "https://5.imimg.com/data5/GLADMIN/Default/2024/6/424762055/XS/HG/WD/105656/edta-disodium-salt-125x125.jpg",
-        "https://5.imimg.com/data5/LY/GU/KJ/SELLER-6407096/edta-2na-chemical-125x125.jpg",
-        "https://5.imimg.com/data5/LY/GU/KJ/SELLER-6407096/edta-2na-chemical-1000x1000.jpg"
-      ],
-      "thumbnail": "https://5.imimg.com/data5/GLADMIN/Default/2024/6/424762055/XS/HG/WD/105656/edta-disodium-salt-250x250.jpg",
-      "specifications": {
-        "Packaging Size": "25 kg",
-        "Purity": "98 %",
-        "Pack Type": "Bag",
-        "Content": "99.9 %",
-        "Molecular Weight": "336.21 g/mol",
-        "Shelf Life": "6 Months",
-        "Availability": "In Stock",
-        "Price": "Excluding all taxes",
-        "Ships from": "Vijayawada",
-        "Shipping": "As per delivery location"
-      }
-    },
-    {
-      "proddispid": "24736657462",
-      "prodname": "Sodium Meta bisulphite",
-      "category": "Cooling Tower Chemicals",
-      "category_slug": "cooling-tower-chemicals",
-      "product_url": "https://www.indiamart.com/proddetail/24736657462.html",
-      "description": "",
-      "price": "₹ 49",
-      "images": [
-        "https://5.imimg.com/data5/ANDROID/Default/2022/1/OU/QS/XX/6407096/product-jpeg-500x500.jpg",
-        "https://5.imimg.com/data5/ANDROID/Default/2022/1/OU/QS/XX/6407096/product-jpeg-1000x1000.jpg",
-        "https://5.imimg.com/data5/SELLER/Default/2025/5/509234842/OW/MX/WG/6407096/sodium-meta-bisulphite-1000x1000.jpg",
-        "https://5.imimg.com/data5/SELLER/Default/2025/5/509234692/HV/ZQ/TV/6407096/sodium-meta-bisulphite-1000x1000.jpg",
-        "https://5.imimg.com/data5/SELLER/Logo/2025/5/509401904/ZB/OI/PC/6407096/logo02-90x90.jpg"
-      ],
-      "thumbnail": "https://5.imimg.com/data5/SELLER/Default/2025/5/509234842/OW/MX/WG/6407096/sodium-meta-bisulphite-250x250.jpg",
-      "specifications": {
-        "Grade": "Industrial",
-        "Form": "Powder",
-        "Packaging Details": "50 Kg Bag",
-        "Packaging Type": "Hdep bag",
-        "Packaging Size": "50 kg",
-        "Iron content": "0.02 %",
-        "PH Value": "4.8 5% solution",
-        "Country of Origin": "Made in India",
-        "Availability": "In Stock",
-        "View in Hindi": "सोडियम मेटाबाइसल्फाइट, 50 Kg बैग, पैकेजिंग टाइप: Hdep बैग",
-        "Price": "Excluding all taxes",
-        "Ships from": "Vijayawada",
-        "Shipping": "As per delivery location"
-      }
-    },
-    {
-      "proddispid": "2849568819597",
-      "prodname": "Sodium Bicarbonate Technical Grade",
-      "category": "Cooling Tower Chemicals",
-      "category_slug": "cooling-tower-chemicals",
-      "product_url": "https://www.indiamart.com/proddetail/2849568819597.html",
-      "description": "",
-      "price": "₹ 36",
-      "images": [
-        "https://5.imimg.com/data5/ANDROID/Default/2023/1/TI/AG/OK/6407096/product-jpeg-1000x1000.jpg",
-        "https://5.imimg.com/data5/ANDROID/Default/2023/1/TI/AG/OK/6407096/product-jpeg-500x500.jpg",
-        "https://5.imimg.com/data5/SELLER/Default/2025/5/509234189/WF/AW/FA/6407096/sodium-bicarbonate-technical-grade-1000x1000.jpg",
-        "https://5.imimg.com/data5/SELLER/Default/2025/5/509234308/VE/SF/YN/6407096/sodium-bicarbonate-technical-grade-1000x1000.jpg",
-        "https://5.imimg.com/data5/SELLER/Logo/2025/5/509401904/ZB/OI/PC/6407096/logo02-90x90.jpg"
-      ],
-      "thumbnail": "https://5.imimg.com/data5/SELLER/Default/2025/5/509234189/WF/AW/FA/6407096/sodium-bicarbonate-technical-grade-250x250.jpg",
-      "specifications": {
-        "Grade Standard": "Industrial Grade",
-        "Purity %": "&gt;99%",
-        "Packaging Details": "50 Kg Bag",
-        "Grade": "Technical grade",
-        "Usage/Application": "Laboratory",
-        "Physical State": "Powder",
-        "Country of Origin": "Made in India",
-        "Availability": "In Stock",
-        "Price": "Excluding all taxes",
-        "Ships from": "Vijayawada",
-        "Shipping": "As per delivery location"
-      }
-    },
-    {
-      "proddispid": "2851077378433",
-      "prodname": "Acid Slurry Labsa",
-      "category": "Cooling Tower Chemicals",
-      "category_slug": "cooling-tower-chemicals",
-      "product_url": "https://www.indiamart.com/proddetail/2851077378433.html",
-      "description": "",
-      "price": "₹ 138",
-      "images": [
-        "https://5.imimg.com/data5/ANDROID/Default/2023/5/305617809/OA/LA/PK/6407096/product-jpeg-500x500.jpg",
-        "https://5.imimg.com/data5/ANDROID/Default/2023/5/305617809/OA/LA/PK/6407096/product-jpeg-1000x1000.jpg",
-        "https://5.imimg.com/data5/SELLER/Default/2025/5/509210804/RW/WK/DR/6407096/acid-slurry-labsa-1000x1000.jpg",
-        "https://5.imimg.com/data5/SELLER/Default/2025/5/509210777/IY/NF/BN/6407096/acid-slurry-labsa-1000x1000.jpg",
-        "https://5.imimg.com/data5/SELLER/Logo/2025/5/509401904/ZB/OI/PC/6407096/logo02-90x90.jpg"
-      ],
-      "thumbnail": "https://5.imimg.com/data5/SELLER/Default/2025/5/509210804/RW/WK/DR/6407096/acid-slurry-labsa-250x250.jpg",
-      "specifications": {
-        "Purity": "0.95",
-        "Packaging Size": "50 kg",
-        "Usage/Application": "detergent liquid",
-        "Packaging Type": "50 kg",
-        "Color": "Black",
-        "Brand": "Chem care",
-        "Availability": "In Stock",
-        "View in Hindi": "एसिड स्लरी लाबसा, पैकेजिंग आकार: 50 किलोग्राम",
-        "Price": "Excluding all taxes",
-        "Ships from": "Vijayawada",
-        "Shipping": "As per delivery location"
-      }
-    },
-    {
-      "proddispid": "27448526762",
-      "prodname": "Magnesium Chloride Flakes",
-      "category": "Cooling Tower Chemicals",
-      "category_slug": "cooling-tower-chemicals",
-      "product_url": "https://www.indiamart.com/proddetail/27448526762.html",
-      "description": "",
-      "price": "₹ 15",
-      "images": [
-        "https://5.imimg.com/data5/ANDROID/Default/2022/11/OP/ZX/TQ/6407096/product-jpeg-500x500.jpg",
-        "https://5.imimg.com/data5/SELLER/Logo/2025/5/509401904/ZB/OI/PC/6407096/logo02-90x90.jpg",
-        "https://3.imimg.com/data3/UE/HC/GLADMIN-9751/magnesium-chloride-125x125.jpg",
-        "https://5.imimg.com/data5/ANDROID/Default/2022/11/OP/ZX/TQ/6407096/product-jpeg-125x125.jpg",
-        "https://5.imimg.com/data5/ANDROID/Default/2022/11/OP/ZX/TQ/6407096/product-jpeg-1000x1000.jpg"
-      ],
-      "thumbnail": "https://3.imimg.com/data3/UE/HC/GLADMIN-9751/magnesium-chloride-250x250.jpg",
-      "specifications": {
-        "Physical State/Form": "Crystal, Powder",
-        "Purity/Concentration": "&gt;99%",
-        "Packaging Size": "25 Kg",
-        "Packaging Type": "Bag",
-        "Purity": "99%",
-        "Grade": "Industrial",
-        "Usage/Application": "industrial use",
-        "Availability": "In Stock",
-        "Price": "Excluding all taxes",
-        "Ships from": "Vijayawada",
-        "Shipping": "As per delivery location"
-      }
-    },
-    {
-      "proddispid": "22478149448",
-      "prodname": "Phosphoric Acid Food Grade",
-      "category": "Cooling Tower Chemicals",
-      "category_slug": "cooling-tower-chemicals",
-      "product_url": "https://www.indiamart.com/proddetail/22478149448.html",
-      "description": "",
-      "price": "₹ 115",
-      "images": [
-        "https://5.imimg.com/data5/VZ/JD/UI/ANDROID-6407096/product-jpeg-500x500.jpg",
-        "https://5.imimg.com/data5/SELLER/Logo/2025/5/509401904/ZB/OI/PC/6407096/logo02-90x90.jpg",
-        "https://3.imimg.com/data3/XK/IP/GLADMIN-5896/phosphoric-acid-125x125.jpg",
-        "https://5.imimg.com/data5/VZ/JD/UI/ANDROID-6407096/product-jpeg-125x125.jpg",
-        "https://5.imimg.com/data5/VZ/JD/UI/ANDROID-6407096/product-jpeg-1000x1000.jpg"
-      ],
-      "thumbnail": "https://3.imimg.com/data3/XK/IP/GLADMIN-5896/phosphoric-acid-250x250.jpg",
-      "specifications": {
-        "Packaging Size": "35-50kg",
-        "Usage/Application": "Agricultural Industry",
-        "Packaging Type": "plastic container",
-        "Packaging Details": "5Ltr Can",
-        "Form": "Liquid",
-        "Brand": "on customer requirement",
-        "Color": "transparent",
-        "Country of Origin": "Made in India",
-        "Availability": "In Stock",
-        "Price": "Excluding all taxes",
-        "Ships from": "Vijayawada",
-        "Shipping": "As per delivery location"
-      }
-    },
-    {
-      "proddispid": "22379711248",
-      "prodname": "Sodium Hypochlorite Liquid",
-      "category": "Cooling Tower Chemicals",
-      "category_slug": "cooling-tower-chemicals",
-      "product_url": "https://www.indiamart.com/proddetail/22379711248.html",
-      "description": "",
-      "price": "₹ 12",
-      "images": [
-        "https://5.imimg.com/data5/SELLER/Default/2023/6/318543450/CL/MY/LW/6407096/sodium-hypochlorite-liquid-500x500.jpg",
-        "https://5.imimg.com/data5/SELLER/Default/2023/6/318543450/CL/MY/LW/6407096/sodium-hypochlorite-liquid-1000x1000.jpg",
-        "https://5.imimg.com/data5/AA/CW/UN/SELLER-6407096/sodium-hypochlorite-chemical-1000x1000.jpg",
-        "https://5.imimg.com/data5/SELLER/Default/2023/6/318543452/DV/AV/IJ/6407096/sodium-hypochlorite-liquid-1000x1000.jpg",
-        "https://5.imimg.com/data5/SELLER/Default/2025/5/509233148/YC/IG/TB/6407096/sodium-hypochlorite-liquid-1000x1000.jpg"
-      ],
-      "thumbnail": "https://5.imimg.com/data5/AA/CW/UN/SELLER-6407096/sodium-hypochlorite-chemical-250x250.jpg",
-      "specifications": {
-        "Purity %": "12%",
-        "Physical State": "Liquid",
-        "Grade Standard": "Grade 1",
-        "Purity": "12%",
-        "Brand": "Chem Care",
-        "Grade": "Grade 1",
-        "Availability": "In Stock",
-        "Price": "Excluding all taxes",
-        "Ships from": "Vijayawada",
-        "Shipping": "As per delivery location"
-      }
-    },
-    {
-      "proddispid": "22379714030",
-      "prodname": "Calcium Hypochlorite Chemical",
-      "category": "Cooling Tower Chemicals",
-      "category_slug": "cooling-tower-chemicals",
-      "product_url": "https://www.indiamart.com/proddetail/22379714030.html",
-      "description": "",
-      "price": "₹ 195",
-      "images": [
-        "https://5.imimg.com/data5/SELLER/Default/2025/5/509231697/CN/EC/FM/6407096/calcium-hypochlorite-chemical-500x500.jpg",
-        "https://5.imimg.com/data5/SELLER/Default/2025/5/509231697/CN/EC/FM/6407096/calcium-hypochlorite-chemical-1000x1000.jpg",
-        "https://5.imimg.com/data5/SELLER/Default/2025/5/509231958/QQ/ZL/FZ/6407096/calcium-hypochlorite-chemical-1000x1000.jpg",
-        "https://5.imimg.com/data5/SELLER/Default/2025/5/509232157/UP/MO/PR/6407096/calcium-hypochlorite-chemical-1000x1000.jpg",
-        "https://5.imimg.com/data5/SELLER/Logo/2025/5/509401904/ZB/OI/PC/6407096/logo02-90x90.jpg"
-      ],
-      "thumbnail": "https://5.imimg.com/data5/SELLER/Default/2025/5/509231958/QQ/ZL/FZ/6407096/calcium-hypochlorite-chemical-250x250.jpg",
-      "specifications": {
-        "Brand": "Chem Care",
-        "Form": "Powder",
-        "Moisture": "5-10%",
-        "Pack Type": "Drum",
-        "Purity": "99%",
-        "Country of Origin": "Made in India",
-        "Packaging Size": "25 kg",
-        "Pack Size": "50 kg",
-        "Availability": "In Stock",
-        "Price": "Excluding all taxes",
-        "Ships from": "Vijayawada",
-        "Shipping": "As per delivery location"
-      }
-    },
-    {
-      "proddispid": "2851935084588",
-      "prodname": "Vikram Bleaching Powder",
-      "category": "Cooling Tower Chemicals",
-      "category_slug": "cooling-tower-chemicals",
-      "product_url": "https://www.indiamart.com/proddetail/2851935084588.html",
-      "description": "",
-      "price": "₹ 425",
-      "images": [
-        "https://5.imimg.com/data5/ANDROID/Default/2023/8/339100327/DH/DE/HQ/6407096/product-jpeg-500x500.jpg",
-        "https://5.imimg.com/data5/ANDROID/Default/2023/8/339100327/DH/DE/HQ/6407096/product-jpeg-1000x1000.jpg",
-        "https://5.imimg.com/data5/SELLER/Default/2025/5/509214215/DE/VE/EL/6407096/vikram-bleaching-powder-1000x1000.jpg",
-        "https://5.imimg.com/data5/SELLER/Logo/2025/5/509401904/ZB/OI/PC/6407096/logo02-90x90.jpg",
-        "https://5.imimg.com/data5/SELLER/Default/2025/5/509214215/DE/VE/EL/6407096/vikram-bleaching-powder-125x125.jpg"
-      ],
-      "thumbnail": "https://5.imimg.com/data5/SELLER/Default/2025/5/509214215/DE/VE/EL/6407096/vikram-bleaching-powder-250x250.jpg",
-      "specifications": {
-        "Grade": "Stable",
-        "Brand": "Vikram",
-        "Packaging Size": "25 kg",
-        "Packaging Type": "Bag",
-        "Grade Standard": "Industrial Grade",
-        "Purity": "35 %",
-        "Usage/Application": "Personal",
-        "HS Code": "28281010",
-        "Physical State": "Powder",
-        "Country of Origin": "Made in India",
-        "Availability": "In Stock",
-        "View in Hindi": "इंडस्ट्रियल ग्रेड विक्रम ब्लीचिंग पाउडर, 25 किलोग्राम",
-        "Price": "Excluding all taxes",
-        "Ships from": "Vijayawada",
-        "Shipping": "As per delivery location"
-      }
-    },
-    {
-      "proddispid": "2855568391088",
-      "prodname": "Stable Bleaching Powder",
-      "category": "Cooling Tower Chemicals",
-      "category_slug": "cooling-tower-chemicals",
-      "product_url": "https://www.indiamart.com/proddetail/2855568391088.html",
-      "description": "",
-      "price": "Rs. 5",
-      "images": [
-        "https://5.imimg.com/data5/SELLER/Default/2023/11/357893673/UH/GB/DU/6407096/vikram-bleaching-powder-500x500.jpg",
-        "https://5.imimg.com/data5/SELLER/Default/2023/11/357893673/UH/GB/DU/6407096/vikram-bleaching-powder-1000x1000.jpg",
-        "https://5.imimg.com/data5/SELLER/Default/2025/5/509213752/MD/AE/KE/6407096/stable-bleaching-powder-1000x1000.jpg",
-        "https://5.imimg.com/data5/SELLER/Logo/2025/5/509401904/ZB/OI/PC/6407096/logo02-90x90.jpg",
-        "https://5.imimg.com/data5/SELLER/Default/2025/5/509213752/MD/AE/KE/6407096/stable-bleaching-powder-125x125.jpg"
-      ],
-      "thumbnail": "https://5.imimg.com/data5/SELLER/Default/2025/5/509213752/MD/AE/KE/6407096/stable-bleaching-powder-250x250.jpg",
-      "specifications": {
-        "Packaging Size": "25Kg",
-        "Grade Standard": "Industrial Grade",
-        "CAS Number": "7778543",
-        "Physical State": "Powder",
-        "Country of Origin": "Made in India",
-        "Availability": "In Stock",
-        "View in Hindi": "ब्लीचिंग पाउडर",
-        "Ships from": "Vijayawada",
-        "Shipping": "As per delivery location"
-      }
-    },
-    {
-      "proddispid": "25855439591",
-      "prodname": "Liquid Soap Oil",
-      "category": "Cooling Tower Chemicals",
-      "category_slug": "cooling-tower-chemicals",
-      "product_url": "https://www.indiamart.com/proddetail/25855439591.html",
-      "description": "",
-      "price": "₹ 36",
-      "images": [
-        "https://5.imimg.com/data5/ANDROID/Default/2022/6/UT/BC/XC/6407096/product-jpeg-500x500.jpg",
-        "https://5.imimg.com/data5/SELLER/Logo/2025/5/509401904/ZB/OI/PC/6407096/logo02-90x90.jpg",
-        "https://5.imimg.com/data5/VY/FT/HY/GLADMIN-65591/liquid-soap-oil-125x125.jpg",
-        "https://5.imimg.com/data5/ANDROID/Default/2022/6/UT/BC/XC/6407096/product-jpeg-125x125.jpg",
-        "https://5.imimg.com/data5/ANDROID/Default/2022/6/UT/BC/XC/6407096/product-jpeg-1000x1000.jpg"
-      ],
-      "thumbnail": "https://5.imimg.com/data5/VY/FT/HY/GLADMIN-65591/liquid-soap-oil-250x250.jpg",
-      "specifications": {
-        "Packaging Size": "5 L",
-        "Active Ingredients": "20%",
-        "Color": "Phiysiacal appearance light brown",
-        "Ph Value": "6 to 8",
-        "Type Of Ingredient": "Chemical",
-        "Brand": "Chem Care",
-        "Country of Origin": "Made in India",
-        "Availability": "In Stock",
-        "Price": "Excluding all taxes",
-        "Ships from": "Vijayawada",
-        "Shipping": "As per delivery location"
-      }
-    },
-    {
-      "proddispid": "2854613308391",
-      "prodname": "Glacial Acetic Acid",
-      "category": "Cooling Tower Chemicals",
-      "category_slug": "cooling-tower-chemicals",
-      "product_url": "https://www.indiamart.com/proddetail/2854613308391.html",
-      "description": "",
-      "price": "₹ 85",
-      "images": [
-        "https://5.imimg.com/data5/ANDROID/Default/2024/8/441307996/NE/BH/HH/6407096/product-jpeg-500x500.jpg",
-        "https://5.imimg.com/data5/ANDROID/Default/2024/8/441307996/NE/BH/HH/6407096/product-jpeg-1000x1000.jpg",
-        "https://5.imimg.com/data5/SELLER/Default/2025/5/509217215/ML/TD/PO/6407096/glacial-acetic-acid-1000x1000.jpg",
-        "https://5.imimg.com/data5/SELLER/Logo/2025/5/509401904/ZB/OI/PC/6407096/logo02-90x90.jpg",
-        "https://5.imimg.com/data5/SELLER/Default/2025/5/509217215/ML/TD/PO/6407096/glacial-acetic-acid-125x125.jpg"
-      ],
-      "thumbnail": "https://5.imimg.com/data5/SELLER/Default/2025/5/509217215/ML/TD/PO/6407096/glacial-acetic-acid-250x250.jpg",
-      "specifications": {
-        "Packaging Size": "5 kg",
-        "Color": "White",
-        "Packaging Type": "Bottles",
-        "Form": "Liquid",
-        "Country of Origin": "Made in India",
-        "Availability": "In Stock",
-        "Price": "Excluding all taxes",
-        "Ships from": "Vijayawada",
-        "Shipping": "As per delivery location"
-      }
-    },
-    {
-      "proddispid": "26531547012",
-      "prodname": "Soda Ash Light",
-      "category": "Cooling Tower Chemicals",
-      "category_slug": "cooling-tower-chemicals",
-      "product_url": "https://www.indiamart.com/proddetail/26531547012.html",
-      "description": "",
-      "price": "₹ 33",
-      "images": [
-        "https://5.imimg.com/data5/ANDROID/Default/2022/9/BA/GT/JS/6407096/product-jpeg-500x500.jpg",
-        "https://5.imimg.com/data5/SELLER/Logo/2025/5/509401904/ZB/OI/PC/6407096/logo02-90x90.jpg",
-        "https://5.imimg.com/data5/GLADMIN/Default/2022/6/UZ/WK/DY/93066/soda-ash-light-125x125.jpg",
-        "https://5.imimg.com/data5/ANDROID/Default/2022/9/BA/GT/JS/6407096/product-jpeg-125x125.jpg",
-        "https://5.imimg.com/data5/ANDROID/Default/2022/9/BA/GT/JS/6407096/product-jpeg-1000x1000.jpg"
-      ],
-      "thumbnail": "https://5.imimg.com/data5/GLADMIN/Default/2022/6/UZ/WK/DY/93066/soda-ash-light-250x250.jpg",
-      "specifications": {
-        "Packaging Size": "50KG",
-        "Form": "Powder",
-        "Packaging Type": "Bag",
-        "Brand": "Nirma",
-        "Grade": "Technical",
-        "Country of Origin": "Made in India",
-        "Availability": "In Stock",
-        "Price": "Excluding all taxes",
-        "Ships from": "Vijayawada",
-        "Shipping": "As per delivery location"
-      }
-    },
-    {
-      "proddispid": "22358225048",
-      "prodname": "5 Kg R O Antiscalant",
-      "category": "Cooling Tower Chemicals",
-      "category_slug": "cooling-tower-chemicals",
-      "product_url": "https://www.indiamart.com/proddetail/22358225048.html",
-      "description": "",
-      "price": "₹ 1000",
-      "images": [
-        "https://5.imimg.com/data5/SELLER/Default/2025/5/509221350/UA/KE/EO/6407096/5-kg-r-o-antiscalant-500x500.jpg",
-        "https://5.imimg.com/data5/SELLER/Default/2025/5/509221350/UA/KE/EO/6407096/5-kg-r-o-antiscalant-1000x1000.jpg",
-        "https://5.imimg.com/data5/SELLER/Default/2025/5/509221483/PX/FH/KF/6407096/5-kg-r-o-antiscalant-1000x1000.jpg",
-        "https://5.imimg.com/data5/SELLER/Logo/2025/5/509401904/ZB/OI/PC/6407096/logo02-90x90.jpg",
-        "https://5.imimg.com/data5/SELLER/Default/2025/5/509221483/PX/FH/KF/6407096/5-kg-r-o-antiscalant-125x125.jpg"
-      ],
-      "thumbnail": "https://5.imimg.com/data5/SELLER/Default/2025/5/509221483/PX/FH/KF/6407096/5-kg-r-o-antiscalant-250x250.jpg",
-      "specifications": {
-        "Packaging Type": "Can",
-        "Grade Standard": "Reagent Grade",
-        "Packaging Size": "5 kg",
-        "Brand": "Chem Care",
-        "Form": "Liquid",
-        "Ph Of Product": "2.8 to 3.0",
-        "Water Solubility": "100%",
-        "Country of Origin": "Made in India",
-        "Type": "Membrane Antiscalant",
-        "Availability": "In Stock",
-        "Price": "Excluding all taxes",
-        "Ships from": "Vijayawada",
-        "Shipping": "As per delivery location"
-      }
-    },
-    {
-      "proddispid": "22358224997",
-      "prodname": "Ro Antiscalant",
-      "category": "Cooling Tower Chemicals",
-      "category_slug": "cooling-tower-chemicals",
-      "product_url": "https://www.indiamart.com/proddetail/22358224997.html",
-      "description": "",
-      "price": "₹ 240",
-      "images": [
-        "https://5.imimg.com/data5/FO/BQ/KX/SELLER-6407096/30-kg-r-o-antiscalant-500x500.jpg",
-        "https://5.imimg.com/data5/SELLER/Logo/2025/5/509401904/ZB/OI/PC/6407096/logo02-90x90.jpg",
-        "https://3.imimg.com/data3/QM/KK/GLADMIN-68775/ro-antiscalant-125x125.jpg",
-        "https://5.imimg.com/data5/FO/BQ/KX/SELLER-6407096/30-kg-r-o-antiscalant-125x125.jpg",
-        "https://5.imimg.com/data5/FO/BQ/KX/SELLER-6407096/30-kg-r-o-antiscalant-1000x1000.jpg"
-      ],
-      "thumbnail": "https://3.imimg.com/data3/QM/KK/GLADMIN-68775/ro-antiscalant-250x250.jpg",
-      "specifications": {
-        "Packaging Size": "30 kg",
-        "Packaging Type": "Drum",
-        "Brand": "Chem Care",
-        "Grade Standard": "Technical Grade",
-        "Form": "Liquid",
-        "Ph Of Product": "2.8 to 3.0",
-        "Availability": "In Stock",
-        "Price": "Excluding all taxes",
-        "Ships from": "Vijayawada",
-        "Shipping": "As per delivery location"
-      }
-    },
-    {
-      "proddispid": "22370636862",
-      "prodname": "Monohydrate Citric Acid",
-      "category": "Cooling Tower Chemicals",
-      "category_slug": "cooling-tower-chemicals",
-      "product_url": "https://www.indiamart.com/proddetail/22370636862.html",
-      "description": "",
-      "price": "₹ 71",
-      "images": [
-        "https://5.imimg.com/data5/SELLER/Default/2025/5/509218379/US/ML/YN/6407096/monohydrate-citric-acid-500x500.jpg",
-        "https://5.imimg.com/data5/SELLER/Default/2025/5/509218379/US/ML/YN/6407096/monohydrate-citric-acid-1000x1000.jpg",
-        "https://5.imimg.com/data5/SELLER/Default/2025/5/509218587/LJ/CI/NO/6407096/monohydrate-citric-acid-1000x1000.jpg",
-        "https://5.imimg.com/data5/SELLER/Default/2025/5/509219161/ZC/YX/BJ/6407096/monohydrate-citric-acid-1000x1000.jpg",
-        "https://5.imimg.com/data5/SELLER/Logo/2025/5/509401904/ZB/OI/PC/6407096/logo02-90x90.jpg"
-      ],
-      "thumbnail": "https://5.imimg.com/data5/SELLER/Default/2025/5/509218587/LJ/CI/NO/6407096/monohydrate-citric-acid-250x250.jpg",
-      "specifications": {
-        "Form": "Powder",
-        "Packaging Size": "50 kg",
-        "Packaging Type": "Bag",
-        "Boiling Point": "310 Deg C",
-        "Melting Point": "153 Deg C",
-        "Soluble In": "Water, Alcohal",
-        "Country of Origin": "Made in India",
-        "Availability": "In Stock",
-        "View in Hindi": "मोनोहाइड्रेट साइट्रिक एसिड, पैकेजिंग प्रकार: बैग, पैकेजिंग आकार: 50 किग्रा",
-        "Price": "Excluding all taxes",
-        "Ships from": "Vijayawada",
-        "Shipping": "As per delivery location"
-      }
-    },
-    {
-      "proddispid": "2855568390912",
-      "prodname": "Caustic Soda Flakes",
-      "category": "Cooling Tower Chemicals",
-      "category_slug": "cooling-tower-chemicals",
-      "product_url": "https://www.indiamart.com/proddetail/2855568390912.html",
-      "description": "",
-      "price": "₹ 50",
-      "images": [
-        "https://5.imimg.com/data5/ANDROID/Default/2025/1/483382148/BL/EB/OX/6407096/product-jpeg-500x500.jpeg",
-        "https://5.imimg.com/data5/ANDROID/Default/2025/1/483382148/BL/EB/OX/6407096/product-jpeg-1000x1000.jpeg",
-        "https://5.imimg.com/data5/SELLER/Default/2025/5/509214803/DQ/XA/BL/6407096/caustic-soda-powder-1000x1000.jpg",
-        "https://5.imimg.com/data5/SELLER/Default/2025/5/509214940/ML/HA/QZ/6407096/caustic-soda-powder-1000x1000.jpg",
-        "https://5.imimg.com/data5/SELLER/Logo/2025/5/509401904/ZB/OI/PC/6407096/logo02-90x90.jpg"
-      ],
-      "thumbnail": "https://5.imimg.com/data5/SELLER/Default/2025/5/509214803/DQ/XA/BL/6407096/caustic-soda-powder-250x250.jpg",
-      "specifications": {
-        "Packaging Size": "25 Kg",
-        "Purity %": "98%",
-        "Usage/Application": "Industrial",
-        "Physical State": "Flakes",
-        "Grade Standard": "Industrial Grade",
-        "Color": "white",
-        "Packaging Type": "Bag",
-        "Country of Origin": "Made in India",
-        "Availability": "In Stock",
-        "View in Hindi": "कास्टिक सोडा फ्लेक्स",
-        "Price": "Excluding all taxes",
-        "Ships from": "Vijayawada",
-        "Shipping": "As per delivery location"
-      }
-    },
-    {
-      "proddispid": "25855274433",
-      "prodname": "Caustic Soda",
-      "category": "Cooling Tower Chemicals",
-      "category_slug": "cooling-tower-chemicals",
-      "product_url": "https://www.indiamart.com/proddetail/25855274433.html",
-      "description": "",
-      "price": "₹ 29",
-      "images": [
-        "https://5.imimg.com/data5/ANDROID/Default/2022/6/FO/YV/QX/6407096/1654084231118-jpg-500x500.jpg",
-        "https://5.imimg.com/data5/SELLER/Logo/2025/5/509401904/ZB/OI/PC/6407096/logo02-90x90.jpg",
-        "https://5.imimg.com/data5/GLADMIN/Default/2021/2/RZ/FK/PY/76098/caustic-soda-125x125.jpg",
-        "https://5.imimg.com/data5/ANDROID/Default/2022/6/FO/YV/QX/6407096/1654084231118-jpg-125x125.jpg",
-        "https://5.imimg.com/data5/ANDROID/Default/2022/6/FO/YV/QX/6407096/1654084231118-jpg-1000x1000.jpg"
-      ],
-      "thumbnail": "https://5.imimg.com/data5/GLADMIN/Default/2021/2/RZ/FK/PY/76098/caustic-soda-250x250.jpg",
-      "specifications": {
-        "Purity %": "48",
-        "Packaging Size": "60kg",
-        "Usage/Application": "Industrial",
-        "Brand": "Chem Care",
-        "Grade Standard": "Industrial Grade",
-        "Packaging Type": "Drum",
-        "Ph Value": "14",
-        "Appearance/Color": "White",
-        "Color": "White",
-        "Purity (%)": "48",
-        "Physical State": "Liquid",
-        "NaOH Concentration": "48.2",
-        "Packaging Details": "60 kg",
-        "Question": "60 kg",
-        "Country of Origin": "Made in India",
-        "Availability": "In Stock",
-        "Price": "Excluding all taxes",
-        "Ships from": "Vijayawada",
-        "Shipping": "As per delivery location"
-      }
-    },
-    {
-      "proddispid": "27255502555",
-      "prodname": "Formaldehyde",
-      "category": "Cooling Tower Chemicals",
-      "category_slug": "cooling-tower-chemicals",
-      "product_url": "https://www.indiamart.com/proddetail/27255502555.html",
-      "description": "",
-      "price": "₹ 29",
-      "images": [
-        "https://5.imimg.com/data5/ANDROID/Default/2022/10/JU/ZL/NI/6407096/product-jpeg-500x500.jpg",
-        "https://5.imimg.com/data5/SELLER/Logo/2025/5/509401904/ZB/OI/PC/6407096/logo02-90x90.jpg",
-        "https://5.imimg.com/data5/GLADMIN/Default/2021/2/ER/ZU/GH/76098/formaldehyde-125x125.jpg",
-        "https://5.imimg.com/data5/ANDROID/Default/2022/10/JU/ZL/NI/6407096/product-jpeg-125x125.jpg",
-        "https://5.imimg.com/data5/ANDROID/Default/2022/10/JU/ZL/NI/6407096/product-jpeg-1000x1000.jpg"
-      ],
-      "thumbnail": "https://5.imimg.com/data5/GLADMIN/Default/2021/2/ER/ZU/GH/76098/formaldehyde-250x250.jpg",
-      "specifications": {
-        "Packaging Details": "50 L Drum",
-        "Packaging Type": "Drum",
-        "Grade Standard": "Industrial Grade",
-        "Packaging Size": "250 kg",
-        "Physical State": "Liquid",
-        "Country of Origin": "Made in India",
-        "Usage/Application": "Laboratory",
-        "Availability": "In Stock",
-        "View in Hindi": "फॉर्मालडिहाइड फॉर्मालिन 5 लीटर, लेबोरेटरी के लिए, औद्योगिक ग्रेड",
-        "Price": "Excluding all taxes",
-        "Ships from": "Vijayawada",
-        "Shipping": "As per delivery location"
-      }
-    }
-  ],
   "meta": {
-    "scraped_at": "2026-06-03T07:40:58Z",
-    "source_url": "https://www.indiamart.com/chemcaretechnologies/",
-    "total_categories": 7,
-    "total_products": 29
+    "scraped_at": "2026-06-03T07:58:30Z",
+    "source_url": "https://www.indiamart.com/chemcaretechnologies/products-and-services.html",
+    "total_categories": 37,
+    "total_products": 62,
+    "fixed_at": "2026-06-03T07:59:42Z"
   }
 }
