@@ -1,20 +1,20 @@
 import { useState } from 'react';
+import { ArrowRight } from 'lucide-react';
 
 const FALLBACK_IMG = 'data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iNDAwIiBoZWlnaHQ9IjMwMCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBmaWxsPSIjZjFmNWY5Ii8+PHRleHQgeD0iNTAlIiB5PSI1MCUiIGZvbnQtZmFtaWx5PSJzYW5zLXNlcmlmIiBmb250LXNpemU9IjE0IiBmaWxsPSIjOTRhM2I4IiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBkeT0iMC4zZW0iPk5vIEltYWdlPC90ZXh0Pjwvc3ZnPg==';
 
 const toTitle = s => (s || '').replace(/\b\w/g, c => c.toUpperCase());
 
-// Category color palette — cycling
-const CAT_COLORS = [
-  { bg: '#eff6ff', border: '#3b82f6', text: '#1d4ed8', active: '#3b82f6' },
-  { bg: '#f0fdf4', border: '#22c55e', text: '#15803d', active: '#22c55e' },
-  { bg: '#fff7ed', border: '#f97316', text: '#c2410c', active: '#f97316' },
-  { bg: '#fdf4ff', border: '#a855f7', text: '#7e22ce', active: '#a855f7' },
-  { bg: '#fef2f2', border: '#ef4444', text: '#b91c1c', active: '#ef4444' },
-  { bg: '#f0fdfa', border: '#14b8a6', text: '#0f766e', active: '#14b8a6' },
-  { bg: '#fffbeb', border: '#f59e0b', text: '#b45309', active: '#f59e0b' },
-  { bg: '#f8fafc', border: '#64748b', text: '#334155', active: '#64748b' },
-];
+// Get abbreviations like "CAPB" for "Cocamidopropyl Betaine"
+const getAbbreviation = (name) => {
+  if (!name) return 'P';
+  // Try to find uppercase letters
+  const upper = name.match(/[A-Z]/g);
+  if (upper && upper.length >= 2) return upper.slice(0, 4).join('');
+  // Else get first letters of first 3 words
+  const words = name.split(/[\s-]/).filter(Boolean);
+  return words.slice(0, 4).map(w => w[0].toUpperCase()).join('');
+};
 
 const ProductModal = ({ product, onClose }) => {
   const [activeImg, setActiveImg] = useState(0);
@@ -71,20 +71,42 @@ const ProductModal = ({ product, onClose }) => {
   );
 };
 
-const ProductCard = ({ product, colorIdx, onClick }) => {
-  const img = product.thumbnail || product.images?.[0] || FALLBACK_IMG;
-  const col = CAT_COLORS[colorIdx % CAT_COLORS.length];
+const ProductCard = ({ product, onClick }) => {
+  const abbr = getAbbreviation(product.prodname);
+  
+  // Extract a short description snippet
+  let shortDesc = product.description || '';
+  if (shortDesc.length > 120) shortDesc = shortDesc.substring(0, 117) + '...';
+  
+  // Create some pills based on available data, fallback to generic
+  const pills = [];
+  if (product.category) pills.push({ text: toTitle(product.category).split(' ')[0], bg: '#eff6ff', color: '#1d4ed8' });
+  if (product.price) pills.push({ text: 'In Stock', bg: '#fdf4ff', color: '#7e22ce' });
+  pills.push({ text: 'Premium', bg: '#f0fdf4', color: '#15803d' });
+
   return (
-    <div className="product-card glass" onClick={() => onClick(product)}>
-      <div className="product-img-wrap">
-        <img src={img} alt={product.prodname} className="product-img" loading="lazy"
-          onError={e => { e.target.src = FALLBACK_IMG; }} />
+    <div className="modern-product-card" onClick={() => onClick(product)}>
+      <div className="modern-product-top">
+        <div className="modern-product-circle">
+          {abbr}
+        </div>
       </div>
-      <div className="product-info">
-        <span className="product-cat-badge" style={{ color: col.text, background: col.bg }}>{toTitle(product.category)}</span>
-        <h3 className="product-title">{product.prodname}</h3>
-        {product.price && <p className="product-price">{product.price}</p>}
-        <button className="btn btn-primary product-btn">View Details</button>
+      <div className="modern-product-bottom">
+        <h3 className="modern-product-title">{product.prodname}</h3>
+        {product.price && <p className="modern-product-price">{product.price}</p>}
+        {shortDesc && <p className="modern-product-desc">{shortDesc}</p>}
+        
+        <div className="modern-product-tags">
+          {pills.map((pill, i) => (
+            <span key={i} className="modern-pill" style={{ background: pill.bg, color: pill.color }}>
+              {pill.text}
+            </span>
+          ))}
+        </div>
+
+        <div className="modern-product-link">
+          View Specifications <ArrowRight size={16} />
+        </div>
       </div>
     </div>
   );
@@ -97,64 +119,59 @@ const Products = ({ data }) => {
   const categories = data?.categories || [];
   const allProducts = categories.flatMap(c => c.products || []);
 
-  // Build slug→colorIdx map
-  const slugColorMap = {};
-  categories.forEach((c, i) => { slugColorMap[c.slug] = i; });
-
   const currentProducts = activeSlug === 'all'
     ? allProducts
     : (categories.find(c => c.slug === activeSlug)?.products || []);
 
-  // Get color for a product
-  const productColorIdx = (p) => slugColorMap[p.category_slug] ?? 0;
-
   return (
     <section id="products" className="section products-section">
       <div className="container">
-        <h2 className="section-title">Our Products</h2>
-        <p style={{ textAlign: 'center', color: 'var(--text-light)', marginBottom: '2.5rem', marginTop: '-2rem' }}>
-          {allProducts.length} products across {categories.length} categories
-        </p>
-
-        {/* Category Grid — 4-5 per row, swipeable on mobile */}
-        <div className="cat-grid-wrap">
-          {/* All tab */}
-          <button
-            className={`cat-grid-btn${activeSlug === 'all' ? ' active' : ''}`}
-            onClick={() => setActiveSlug('all')}>
-            <span className="cat-grid-icon">🧪</span>
-            <span className="cat-grid-name">All Products</span>
-            <span className="cat-grid-count">{allProducts.length}</span>
-          </button>
-          {categories.filter(c => (c.products||[]).length > 0).map((cat, i) => {
-            const col = CAT_COLORS[i % CAT_COLORS.length];
-            const isActive = activeSlug === cat.slug;
-            return (
-              <button key={cat.slug}
-                className={`cat-grid-btn${isActive ? ' active' : ''}`}
-                style={isActive ? { background: col.active, borderColor: col.active, color: 'white' }
-                               : { background: col.bg, borderColor: col.border, color: col.text }}
-                onClick={() => setActiveSlug(cat.slug)}>
-                <span className="cat-grid-name">{toTitle(cat.name)}</span>
-                <span className="cat-grid-count">{(cat.products||[]).length}</span>
+        
+        <div className="products-layout">
+          {/* Sidebar */}
+          <aside className="products-sidebar">
+            <h2 className="sidebar-title">Categories</h2>
+            <div className="sidebar-menu">
+              <button
+                className={`sidebar-link${activeSlug === 'all' ? ' active' : ''}`}
+                onClick={() => setActiveSlug('all')}>
+                <span>All Products</span>
+                <span className="sidebar-count">{allProducts.length}</span>
               </button>
-            );
-          })}
+              {categories.filter(c => (c.products||[]).length > 0).map((cat) => {
+                return (
+                  <button key={cat.slug}
+                    className={`sidebar-link${activeSlug === cat.slug ? ' active' : ''}`}
+                    onClick={() => setActiveSlug(cat.slug)}>
+                    <span>{toTitle(cat.name)}</span>
+                    <span className="sidebar-count">{(cat.products||[]).length}</span>
+                  </button>
+                );
+              })}
+            </div>
+          </aside>
+
+          {/* Main Grid */}
+          <div className="products-main">
+            <div className="products-header">
+              <h2>{activeSlug === 'all' ? 'All Products' : toTitle(categories.find(c => c.slug === activeSlug)?.name)}</h2>
+              <span className="products-count-badge">{currentProducts.length} items</span>
+            </div>
+
+            {currentProducts.length > 0 ? (
+              <div className="products-modern-grid">
+                {currentProducts.map((product, i) => (
+                  <ProductCard key={product.proddispid || i} product={product} onClick={setSelected} />
+                ))}
+              </div>
+            ) : (
+              <div style={{ textAlign: 'center', padding: '4rem', color: 'var(--text-light)' }}>
+                No products found.
+              </div>
+            )}
+          </div>
         </div>
 
-        {/* Products Grid */}
-        {currentProducts.length > 0 ? (
-          <div className="products-grid">
-            {currentProducts.map((product, i) => (
-              <ProductCard key={product.proddispid || i} product={product}
-                colorIdx={productColorIdx(product)} onClick={setSelected} />
-            ))}
-          </div>
-        ) : (
-          <div style={{ textAlign: 'center', padding: '4rem', color: 'var(--text-light)' }}>
-            No products found.
-          </div>
-        )}
       </div>
       <ProductModal product={selected} onClose={() => setSelected(null)} />
     </section>
