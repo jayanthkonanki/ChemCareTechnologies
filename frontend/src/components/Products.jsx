@@ -33,9 +33,6 @@ const ProductModal = ({ product, onClose }) => {
             <h2>{prodname}</h2>
             {price && <p className="modal-price">{price}{unit ? ` / ${unit}` : ''}</p>}
             {min_order && <p style={{ color: 'var(--text-light)', fontSize: '0.9rem' }}>Min Order: {min_order}</p>}
-            {description && (
-              <div className="modal-desc"><h4>Description</h4><p>{description}</p></div>
-            )}
             {Object.keys(specifications).length > 0 && (
               <div className="modal-specs">
                 <h4>Specifications</h4>
@@ -63,10 +60,6 @@ const ProductModal = ({ product, onClose }) => {
 const ProductCard = ({ product, onClick }) => {
   const img = product.thumbnail || product.images?.[0] || FALLBACK_IMG;
   
-  // Extract a short description snippet
-  let shortDesc = product.description || '';
-  if (shortDesc.length > 120) shortDesc = shortDesc.substring(0, 117) + '...';
-  
   // Create some pills based on available data, fallback to generic
   const pills = [];
   if (product.category) pills.push({ text: toTitle(product.category).split(' ')[0], bg: '#eff6ff', color: '#1d4ed8' });
@@ -83,7 +76,6 @@ const ProductCard = ({ product, onClick }) => {
       <div className="modern-product-bottom">
         <h3 className="modern-product-title">{product.prodname}</h3>
         {product.price && <p className="modern-product-price">{product.price}{product.unit ? ` / ${product.unit}` : ''}</p>}
-        {shortDesc && <p className="modern-product-desc">{shortDesc}</p>}
         
         <div className="modern-product-tags">
           {pills.map((pill, i) => (
