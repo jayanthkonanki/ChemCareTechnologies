@@ -5,17 +5,6 @@ const FALLBACK_IMG = 'data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iNDAwIiBoZWlnaHQ9
 
 const toTitle = s => (s || '').replace(/\b\w/g, c => c.toUpperCase());
 
-// Get abbreviations like "CAPB" for "Cocamidopropyl Betaine"
-const getAbbreviation = (name) => {
-  if (!name) return 'P';
-  // Try to find uppercase letters
-  const upper = name.match(/[A-Z]/g);
-  if (upper && upper.length >= 2) return upper.slice(0, 4).join('');
-  // Else get first letters of first 3 words
-  const words = name.split(/[\s-]/).filter(Boolean);
-  return words.slice(0, 4).map(w => w[0].toUpperCase()).join('');
-};
-
 const ProductModal = ({ product, onClose }) => {
   const [activeImg, setActiveImg] = useState(0);
   if (!product) return null;
@@ -72,7 +61,7 @@ const ProductModal = ({ product, onClose }) => {
 };
 
 const ProductCard = ({ product, onClick }) => {
-  const abbr = getAbbreviation(product.prodname);
+  const img = product.thumbnail || product.images?.[0] || FALLBACK_IMG;
   
   // Extract a short description snippet
   let shortDesc = product.description || '';
@@ -88,12 +77,12 @@ const ProductCard = ({ product, onClick }) => {
     <div className="modern-product-card" onClick={() => onClick(product)}>
       <div className="modern-product-top">
         <div className="modern-product-circle">
-          {abbr}
+          <img src={img} alt={product.prodname} onError={e => { e.target.src = FALLBACK_IMG; }} />
         </div>
       </div>
       <div className="modern-product-bottom">
         <h3 className="modern-product-title">{product.prodname}</h3>
-        {product.price && <p className="modern-product-price">{product.price}</p>}
+        {product.price && <p className="modern-product-price">{product.price}{product.unit ? ` / ${product.unit}` : ''}</p>}
         {shortDesc && <p className="modern-product-desc">{shortDesc}</p>}
         
         <div className="modern-product-tags">
@@ -123,6 +112,15 @@ const Products = ({ data }) => {
     ? allProducts
     : (categories.find(c => c.slug === activeSlug)?.products || []);
 
+  const handleCategoryClick = (slug) => {
+    setActiveSlug(slug);
+    const productsEl = document.getElementById('products');
+    if (productsEl) {
+      const topOffset = productsEl.getBoundingClientRect().top + window.scrollY - 80;
+      window.scrollTo({ top: topOffset, behavior: 'smooth' });
+    }
+  };
+
   return (
     <section id="products" className="section products-section">
       <div className="container">
@@ -134,7 +132,7 @@ const Products = ({ data }) => {
             <div className="sidebar-menu">
               <button
                 className={`sidebar-link${activeSlug === 'all' ? ' active' : ''}`}
-                onClick={() => setActiveSlug('all')}>
+                onClick={() => handleCategoryClick('all')}>
                 <span>All Products</span>
                 <span className="sidebar-count">{allProducts.length}</span>
               </button>
@@ -142,7 +140,7 @@ const Products = ({ data }) => {
                 return (
                   <button key={cat.slug}
                     className={`sidebar-link${activeSlug === cat.slug ? ' active' : ''}`}
-                    onClick={() => setActiveSlug(cat.slug)}>
+                    onClick={() => handleCategoryClick(cat.slug)}>
                     <span>{toTitle(cat.name)}</span>
                     <span className="sidebar-count">{(cat.products||[]).length}</span>
                   </button>
