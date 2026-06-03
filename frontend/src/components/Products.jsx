@@ -94,10 +94,17 @@ const ProductCard = ({ product, onClick }) => {
 };
 
 const Products = ({ data }) => {
+  const categories = data?.categories || [];
+  const firstCatSlug = categories.filter(c => (c.products||[]).length > 0)[0]?.slug || 'all';
+  
   const [activeSlug, setActiveSlug] = useState('all');
   const [selected, setSelected] = useState(null);
 
-  const categories = data?.categories || [];
+  // Default to first category when data loads
+  if (activeSlug === 'all' && firstCatSlug !== 'all') {
+    setActiveSlug(firstCatSlug);
+  }
+
   const allProducts = categories.flatMap(c => c.products || []);
 
   const currentProducts = activeSlug === 'all'
@@ -127,7 +134,6 @@ const Products = ({ data }) => {
             {/* Mobile Dropdown */}
             <div className="mobile-category-select">
               <select value={activeSlug} onChange={(e) => handleCategoryClick(e.target.value)}>
-                <option value="all">All Products ({allProducts.length})</option>
                 {categories.filter(c => (c.products||[]).length > 0).map(cat => (
                   <option key={cat.slug} value={cat.slug}>
                     {toTitle(cat.name)} ({(cat.products||[]).length})
@@ -138,12 +144,6 @@ const Products = ({ data }) => {
 
             {/* Desktop Sidebar */}
             <div className="sidebar-menu">
-              <button
-                className={`sidebar-link${activeSlug === 'all' ? ' active' : ''}`}
-                onClick={() => handleCategoryClick('all')}>
-                <span>All Products</span>
-                <span className="sidebar-count">{allProducts.length}</span>
-              </button>
               {categories.filter(c => (c.products||[]).length > 0).map((cat) => {
                 return (
                   <button key={cat.slug}
