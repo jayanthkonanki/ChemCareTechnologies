@@ -637,6 +637,34 @@ footer {
 @media (max-width: 900px) {
   .products-layout {
     grid-template-columns: 1fr;
+    gap: 1.5rem;
+  }
+  .sidebar-title {
+    display: none;
+  }
+  .sidebar-menu {
+    flex-direction: row;
+    overflow-x: auto;
+    scroll-snap-type: x mandatory;
+    padding-bottom: 0.5rem;
+    -webkit-overflow-scrolling: touch;
+    scrollbar-width: none;
+  }
+  .sidebar-menu::-webkit-scrollbar {
+    display: none;
+  }
+  .sidebar-link {
+    flex: 0 0 auto;
+    width: auto;
+    padding: 0.5rem 1.25rem;
+    border: 1px solid var(--border);
+    border-radius: 9999px;
+    white-space: nowrap;
+    scroll-snap-align: center;
+  }
+  .sidebar-link.active {
+    border-color: var(--secondary);
+    background: rgba(0,112,243,0.05);
   }
 }
 
