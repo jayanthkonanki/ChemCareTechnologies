@@ -11,7 +11,10 @@ NOISE_KEYS = [
     "company ceo",
     "registered address",
     "banker",
-    "total number of employees"
+    "total number of employees",
+    "gst",
+    "gst no.",
+    "gst no"
 ]
 
 with open("data_full.json", "r", encoding="utf-8") as f:
@@ -32,4 +35,4 @@ with open("data_full.json", "w", encoding="utf-8") as f:
 
 import shutil
 shutil.copy("data_full.json", "frontend/public/data_full.json")
-print("Cleaned up specifications noise.")
+print("Cleaned up ALL specifications noise.")
