@@ -1,34 +1,96 @@
-import { Shield, Clock, MapPin, Star, Phone, TrendingUp } from 'lucide-react';
+import { MapPin, Star, Building2, Users, TrendingUp, Calendar, Award, Phone } from 'lucide-react';
 
 const About = ({ data }) => {
   const company = data?.company || {};
 
-  const cards = [
-    { icon: <MapPin size={22} />, label: 'Location', value: company.location || 'Kanuru, Vijayawada' },
-    { icon: <Star size={22} />, label: 'Rating', value: `${company.rating || '4.2'} / 5.0 (${company.rating_count || '38'} reviews)` },
-    { icon: <Clock size={22} />, label: 'Experience', value: company.years || '13 yrs' },
-    { icon: <Shield size={22} />, label: 'Verification', value: company.trust_seal ? 'TrustSEAL + GST Verified' : 'GST Verified' },
-    { icon: <Phone size={22} />, label: 'Response Rate', value: company.response_rate || '85%' },
-    { icon: <TrendingUp size={22} />, label: 'Business Type', value: company.business_type || 'Trader / Wholesaler / Distributor' },
+  // Rating breakdown from profile page
+  const ratings = company.rating_breakdown || { 5: 23, 4: 6, 3: 2, 2: 3, 1: 4 };
+  const totalRatings = parseInt(company.rating_count || 38);
+  const overallRating = parseFloat(company.rating || 4.2);
+
+  const stars = [5, 4, 3, 2, 1];
+
+  const companyDetails = [
+    { icon: <Calendar size={20} />, label: 'IndiaMart Member Since', value: 'Dec 2012' },
+    { icon: <Building2 size={20} />, label: 'Legal Status', value: 'Partnership' },
+    { icon: <TrendingUp size={20} />, label: 'Annual Turnover', value: '₹5 – 25 Crore' },
+    { icon: <Users size={20} />, label: 'Number of Employees', value: 'Upto 10 People' },
+    { icon: <Award size={20} />, label: 'Nature of Business', value: 'Trader – Wholesaler / Distributor' },
+    { icon: <Calendar size={20} />, label: 'GST Registration Date', value: 'Jul 2017' },
+    { icon: <MapPin size={20} />, label: 'Location', value: company.location || 'Kanuru, Vijayawada, A.P.' },
+    { icon: <Phone size={20} />, label: 'Response Rate', value: company.response_rate || '85%' },
+  ];
+
+  const verifications = [
+    { icon: '✦', label: 'TrustSEAL Verified', color: '#f1c82e', bg: '#fffbeb' },
+    { icon: '✔', label: 'GST Verified', color: '#007a6e', bg: '#f0fdf9' },
+    { icon: '✔', label: 'Mobile Verified', color: '#007a6e', bg: '#f0fdf9' },
+    { icon: '✔', label: 'Email Verified', color: '#007a6e', bg: '#f0fdf9' },
+    { icon: '🏅', label: 'Rank - A Seller', color: '#0070f3', bg: '#eff6ff' },
   ];
 
   return (
-    <section id="about" className="section">
+    <section id="about" className="section about-section">
       <div className="container">
         <h2 className="section-title">About Us</h2>
         {company.description && (
-          <p style={{ textAlign: 'center', maxWidth: 700, margin: '0 auto 3rem', color: 'var(--text-light)', fontSize: '1.125rem', lineHeight: 1.7 }}>
-            {company.description}
-          </p>
+          <p className="about-desc">{company.description}</p>
         )}
-        <div className="about-grid">
-          {cards.map(({ icon, label, value }) => (
-            <div key={label} className="about-card glass">
-              <div className="about-icon">{icon}</div>
-              <h3 style={{ fontSize: '1rem', marginBottom: '0.25rem' }}>{label}</h3>
-              <p style={{ color: 'var(--text-light)', fontSize: '0.95rem' }}>{value}</p>
+
+        {/* Verified Badges Row */}
+        <div className="verified-row">
+          {verifications.map(v => (
+            <div key={v.label} className="verified-pill" style={{ background: v.bg, color: v.color }}>
+              <span>{v.icon}</span> {v.label}
             </div>
           ))}
+        </div>
+
+        <div className="about-layout">
+          {/* Company Details Grid */}
+          <div className="about-details-grid">
+            {companyDetails.map(({ icon, label, value }) => (
+              <div key={label} className="about-detail-row">
+                <span className="detail-icon">{icon}</span>
+                <div>
+                  <p className="detail-label">{label}</p>
+                  <p className="detail-value">{value}</p>
+                </div>
+              </div>
+            ))}
+          </div>
+
+          {/* Rating Panel */}
+          <div className="about-rating-panel glass">
+            <h3>Customer Ratings</h3>
+            <div className="big-rating">
+              <span className="big-rating-num">{overallRating}</span>
+              <div>
+                <div className="stars-row">{'★'.repeat(Math.round(overallRating))}{'☆'.repeat(5 - Math.round(overallRating))}</div>
+                <p className="rating-sub">{totalRatings} reviews on IndiaMart</p>
+              </div>
+            </div>
+            <div className="rating-bars">
+              {stars.map(s => {
+                const count = ratings[s] || 0;
+                const pct = totalRatings ? Math.round((count / totalRatings) * 100) : 0;
+                return (
+                  <div key={s} className="rating-bar-row">
+                    <span className="rating-star-label">{s}★</span>
+                    <div className="rating-bar-track">
+                      <div className="rating-bar-fill" style={{ width: `${pct}%`, background: s >= 4 ? '#22c55e' : s === 3 ? '#f59e0b' : '#ef4444' }} />
+                    </div>
+                    <span className="rating-count">{count}</span>
+                  </div>
+                );
+              })}
+            </div>
+            <a href="https://www.indiamart.com/chemcaretechnologies/testimonial.html"
+               target="_blank" rel="noopener noreferrer"
+               className="btn btn-primary" style={{ marginTop: '1.25rem', width: '100%', justifyContent: 'center' }}>
+              View All Reviews →
+            </a>
+          </div>
         </div>
       </div>
     </section>

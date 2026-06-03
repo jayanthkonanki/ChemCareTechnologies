@@ -11,7 +11,14 @@
     "business_type": "Trader - Wholesaler / Distributor",
     "description": "Chem Care Technologies is a leading Trader, Wholesaler and Distributor of industrial chemicals from Vijayawada, Andhra Pradesh, India. We supply Boiler Chemicals, Cooling Tower Chemicals, Laboratory Chemicals, Water Treatment Chemicals and more.",
     "logo": "https://5.imimg.com/data5/SELLER/Logo/2025/5/509401904/ZB/OI/PC/6407096/logo02.jpg",
-    "indiamart_url": "https://www.indiamart.com/chemcaretechnologies/"
+    "indiamart_url": "https://www.indiamart.com/chemcaretechnologies/",
+    "rating_breakdown": {
+      "5": 23,
+      "4": 6,
+      "3": 2,
+      "2": 3,
+      "1": 4
+    }
   },
   "categories": [
     {
@@ -23,7 +30,7 @@
           "prodname": "High Pressure Boiler Antiscalant Chemical",
           "product_url": "https://www.indiamart.com/proddetail/22358329791.html",
           "description": "We are a reputed entity, engaged in offering a qualitative array of High Pressure Boiler Antiscalant Chemical.",
-          "price": "₹ 86",
+          "price": "\u20b9 86",
           "unit": "",
           "min_order": "\"Kg\",\"PC_ITEM_NAME\":\"High Pressure Boile",
           "images": [
@@ -60,7 +67,7 @@
           "prodname": "Low Pressure Boiler Antiscalant Chemical",
           "product_url": "https://www.indiamart.com/proddetail/22383194355.html",
           "description": "We are successfully meeting the requirements of our clients by offering the best quality range of Low Pressure Boiler Antiscalant Chemical.",
-          "price": "₹ 130",
+          "price": "\u20b9 130",
           "unit": "",
           "min_order": "\"Kg\",\"PC_ITEM_NAME\":\"Low Pressure Boiler",
           "images": [
@@ -97,7 +104,7 @@
           "prodname": "High Pressure Boiler Ph Booster Chemical",
           "product_url": "https://www.indiamart.com/proddetail/22383193048.html",
           "description": "Keeping track with latest market trends, we are devotedly engaged in offering a wide assortment of High Pressure Boiler Ph Booster Chemical.",
-          "price": "₹ 185",
+          "price": "\u20b9 185",
           "unit": "",
           "min_order": "\"Litre\",\"PC_ITEM_NAME\":\"High Pressure Bo",
           "images": [
@@ -138,7 +145,7 @@
           "prodname": "Benzalkonium Chloride Bkc",
           "product_url": "https://www.indiamart.com/proddetail/27255517733.html",
           "description": "Established in the year  2012  we\" Chem Care Technologies.\" is a Manufacturer of the wide spectrum Non Ferric Alum, View More, Cooling Tower Chemicals etc. We are manufacturing these products using premium grade raw material that is procured from the authentic vendors of the market. We offer these products at reasonable rates and deliver these within the promised time-frame.",
-          "price": "₹ 145",
+          "price": "\u20b9 145",
           "unit": "",
           "min_order": "\"Kg\",\"PC_ITEM_NAME\":\"Benzalkonium Chlori",
           "images": [
@@ -172,7 +179,7 @@
           "prodname": "Low Pressure Boiler Ph Booster Chemical",
           "product_url": "https://www.indiamart.com/proddetail/22383197062.html",
           "description": "In order to meet various demands of our esteemed clients, we are engaged in providing an optimum quality array of Low Pressure Boiler Ph Booster Chemical.",
-          "price": "₹ 62",
+          "price": "\u20b9 62",
           "unit": "",
           "min_order": "\"Litre\",\"PC_ITEM_NAME\":\"Low Pressure Boi",
           "images": [
@@ -210,7 +217,7 @@
           "prodname": "EDTA 2Na & 4 Na Chemical",
           "product_url": "https://www.indiamart.com/proddetail/22370638188.html",
           "description": "Keeping in mind ever-evolving requirements of our respected clients, we are providing a premium quality range of EDTA 2Na Chemical.",
-          "price": "₹ 155",
+          "price": "\u20b9 155",
           "unit": "",
           "min_order": "\"Kg\",\"PC_ITEM_NAME\":\"EDTA 2Na \\u0026 4 N",
           "images": [
@@ -241,7 +248,7 @@
           "prodname": "Sodium Meta bisulphite",
           "product_url": "https://www.indiamart.com/proddetail/24736657462.html",
           "description": "Established in the year  2012  we\" Chem Care Technologies.\" is a Manufacturer of the wide spectrum Non Ferric Alum, View More, Cooling Tower Chemicals etc. We are manufacturing these products using premium grade raw material that is procured from the authentic vendors of the market. We offer these products at reasonable rates and deliver these within the promised time-frame.",
-          "price": "₹ 49",
+          "price": "\u20b9 49",
           "unit": "",
           "min_order": "\"Kg\",\"PC_ITEM_NAME\":\"Sodium Meta bisulph",
           "images": [
@@ -278,7 +285,7 @@
           "prodname": "Sodium Bicarbonate Technical Grade",
           "product_url": "https://www.indiamart.com/proddetail/2849568819597.html",
           "description": "Established in the year  2012  we\" Chem Care Technologies.\" is a Manufacturer of the wide spectrum Non Ferric Alum, View More, Cooling Tower Chemicals etc. We are manufacturing these products using premium grade raw material that is procured from the authentic vendors of the market. We offer these products at reasonable rates and deliver these within the promised time-frame.",
-          "price": "₹ 36",
+          "price": "\u20b9 36",
           "unit": "",
           "min_order": "\"Kg\",\"PC_ITEM_NAME\":\"Sodium Bicarbonate",
           "images": [
@@ -314,7 +321,7 @@
           "prodname": "Acid Slurry Labsa",
           "product_url": "https://www.indiamart.com/proddetail/2851077378433.html",
           "description": "Established in the year  2012  we\" Chem Care Technologies.\" is a Manufacturer of the wide spectrum Non Ferric Alum, View More, Cooling Tower Chemicals etc. We are manufacturing these products using premium grade raw material that is procured from the authentic vendors of the market. We offer these products at reasonable rates and deliver these within the promised time-frame.",
-          "price": "₹ 138",
+          "price": "\u20b9 138",
           "unit": "",
           "min_order": "\"Kg\",\"PC_ITEM_NAME\":\"Acid Slurry Labsa\",",
           "images": [
@@ -355,7 +362,7 @@
           "prodname": "Cooling Tower Oxidizing Biocide Chemical",
           "product_url": "https://www.indiamart.com/proddetail/22383179430.html",
           "description": "We are among the reputed organizations, highly engaged in providing an optimum quality range of Cooling Tower Oxidizing Biocide Chemical.",
-          "price": "₹ 267",
+          "price": "\u20b9 267",
           "unit": "",
           "min_order": "\"Litre\",\"PC_ITEM_NAME\":\"Cooling Tower Ox",
           "images": [
@@ -391,7 +398,7 @@
           "prodname": "Cooling Tower Non Oxidizing Biocide Chemical",
           "product_url": "https://www.indiamart.com/proddetail/22383177973.html",
           "description": "With an objective to fulfill the demands of our clients, we are engaged in providing a wide array of Cooling Tower Non Oxidizing Biocide Chemical.",
-          "price": "₹ 96",
+          "price": "\u20b9 96",
           "unit": "",
           "min_order": "\"Litre\",\"PC_ITEM_NAME\":\"Cooling Tower No",
           "images": [
@@ -427,7 +434,7 @@
           "prodname": "Cooling Tower Metal Dispersant Chemical",
           "product_url": "https://www.indiamart.com/proddetail/22383177191.html",
           "description": "We are successfully engaged in providing a wide gamut of Cooling Tower Metal Dispersant Chemical.",
-          "price": "₹ 155",
+          "price": "\u20b9 155",
           "unit": "",
           "min_order": "\"Litre\",\"PC_ITEM_NAME\":\"Cooling Tower Me",
           "images": [
@@ -464,7 +471,7 @@
           "prodname": "Cooling Tower Bio Dispersant Chemical",
           "product_url": "https://www.indiamart.com/proddetail/22383175712.html",
           "description": "Being a leading firm in this industry, we are offering a high quality range of Cooling Tower Bio Dispersant Chemical.",
-          "price": "₹ 135",
+          "price": "\u20b9 135",
           "unit": "",
           "min_order": "\"Litre\",\"PC_ITEM_NAME\":\"Cooling Tower Bi",
           "images": [
@@ -500,7 +507,7 @@
           "prodname": "Cooling Tower Antiscalant And Corrosion Inhibitor Chemical",
           "product_url": "https://www.indiamart.com/proddetail/22358225133.html",
           "description": "Backed with huge industry experience and market understanding, we are involved in providing a wide variety of Cooling Tower Antiscalant And Corrosion Inhibitor Chemical for our valued patrons.",
-          "price": "₹ 85",
+          "price": "\u20b9 85",
           "unit": "",
           "min_order": "\"Litre\",\"PC_ITEM_NAME\":\"Cooling Tower An",
           "images": [
@@ -543,7 +550,7 @@
           "prodname": "Magnesium Chloride Flakes",
           "product_url": "https://www.indiamart.com/proddetail/27448526762.html",
           "description": "Established in the year  2012  we\" Chem Care Technologies.\" is a Manufacturer of the wide spectrum Non Ferric Alum, View More, Cooling Tower Chemicals etc. We are manufacturing these products using premium grade raw material that is procured from the authentic vendors of the market. We offer these products at reasonable rates and deliver these within the promised time-frame.",
-          "price": "₹ 15",
+          "price": "\u20b9 15",
           "unit": "",
           "min_order": "\"Kg\",\"PC_ITEM_NAME\":\"Magnesium Chloride",
           "images": [
@@ -574,8 +581,8 @@
           "proddispid": "22478149448",
           "prodname": "Phosphoric Acid Food Grade",
           "product_url": "https://www.indiamart.com/proddetail/22478149448.html",
-          "description": "FooPhosphoric Acid Food Grade is a form of phosphoric acid (H₃PO₄) that meets strict purity standards for use in food and beverage production. It is a clear, colorless, and odorless liquid commonly used for its acidifying properties, providing a tangy or sour taste, especially in carbonated beverages like cola.\\nd grade",
-          "price": "₹ 115",
+          "description": "FooPhosphoric Acid Food Grade is a form of phosphoric acid (H\u2083PO\u2084) that meets strict purity standards for use in food and beverage production. It is a clear, colorless, and odorless liquid commonly used for its acidifying properties, providing a tangy or sour taste, especially in carbonated beverages like cola.\\nd grade",
+          "price": "\u20b9 115",
           "unit": "",
           "min_order": "\"Kg\",\"PC_ITEM_NAME\":\"Phosphoric Acid Foo",
           "images": [
@@ -614,7 +621,7 @@
           "prodname": "Sodium Hypochlorite Liquid",
           "product_url": "https://www.indiamart.com/proddetail/22379711248.html",
           "description": "With a firm commitment to quality, our organization is engaged in offering a wide ambit of Sodium Hypochlorite .",
-          "price": "₹ 12",
+          "price": "\u20b9 12",
           "unit": "",
           "min_order": "\"Litre\",\"PC_ITEM_NAME\":\"Sodium Hypochlor",
           "images": [
@@ -651,7 +658,7 @@
           "prodname": "Calcium Hypochlorite Chemical",
           "product_url": "https://www.indiamart.com/proddetail/22379714030.html",
           "description": "With our vast experience & knowledge in this field, we are engaged in providing a quality-assured range of Calcium Hypochlorite Chemical.",
-          "price": "₹ 195",
+          "price": "\u20b9 195",
           "unit": "",
           "min_order": "\"Kg\",\"PC_ITEM_NAME\":\"Calcium Hypochlorit",
           "images": [
@@ -694,7 +701,7 @@
           "prodname": "Vikram Bleaching Powder",
           "product_url": "https://www.indiamart.com/proddetail/2851935084588.html",
           "description": "Vikram Bleaching Powder is a widely used industrial-grade chemical known for its high available chlorine content and stability. It's manufactured by Grasim Industries and is commonly used in water treatment, textile bleaching, and surface disinfection.",
-          "price": "₹ 425",
+          "price": "\u20b9 425",
           "unit": "",
           "min_order": "\"Bag\",\"PC_ITEM_NAME\":\"Vikram Bleaching P",
           "images": [
@@ -769,7 +776,7 @@
           "prodname": "Liquid Soap Oil",
           "product_url": "https://www.indiamart.com/proddetail/25855439591.html",
           "description": "Soap Liquid  Established in the year  2012  we\\",
-          "price": "₹ 36",
+          "price": "\u20b9 36",
           "unit": "",
           "min_order": "\"Kg\",\"PC_ITEM_NAME\":\"Liquid Soap Oil\",\"P",
           "images": [
@@ -801,7 +808,7 @@
           "prodname": "Glacial Acetic Acid",
           "product_url": "https://www.indiamart.com/proddetail/2854613308391.html",
           "description": "Glacial Acetic Acid (GAA) is a highly concentrated form of acetic acid, typically &ge;99.5% purity, and is widely used in industries such as pharmaceuticals, textiles, food processing, and laboratory research. In India, GAA is available from various suppliers, offering different packaging options and pricing.",
-          "price": "₹ 85",
+          "price": "\u20b9 85",
           "unit": "",
           "min_order": "\"Kg\",\"PC_ITEM_NAME\":\"Glacial Acetic Acid",
           "images": [
@@ -839,7 +846,7 @@
           "prodname": "Soda Ash Light",
           "product_url": "https://www.indiamart.com/proddetail/26531547012.html",
           "description": "Established in the year  2012  we\" Chem Care Technologies.\" is a Manufacturer of the wide spectrum Non Ferric Alum, View More, Cooling Tower Chemicals etc. We are manufacturing these products using premium grade raw material that is procured from the authentic vendors of the market. We offer these products at reasonable rates and deliver these within the promised time-frame.",
-          "price": "₹ 33",
+          "price": "\u20b9 33",
           "unit": "",
           "min_order": "\"Kg\",\"PC_ITEM_NAME\":\"Soda Ash Light\",\"PC",
           "images": [
@@ -876,7 +883,7 @@
           "prodname": "5 Kg R.O Antiscalant",
           "product_url": "https://www.indiamart.com/proddetail/22358225048.html",
           "description": "Riding on unfathomable volumes of industrial expertise, we are engaged in offering a broad assortment of 5 Kg R.O Antiscalant.",
-          "price": "₹ 1000",
+          "price": "\u20b9 1000",
           "unit": "",
           "min_order": "\"Can\",\"PC_ITEM_NAME\":\"5 Kg R.O Antiscala",
           "images": [
@@ -912,7 +919,7 @@
           "prodname": "30 Kg R.O Antiscalant",
           "product_url": "https://www.indiamart.com/proddetail/22358224997.html",
           "description": "Backed by rich industry experiences; we are highly engaged in offering a premium quality range of 30 Kg R.O Antiscalant.",
-          "price": "₹ 240",
+          "price": "\u20b9 240",
           "unit": "",
           "min_order": "\"Litre\",\"PC_ITEM_NAME\":\"30 Kg R.O Antisc",
           "images": [
@@ -949,7 +956,7 @@
           "prodname": "Monohydrate Citric Acid",
           "product_url": "https://www.indiamart.com/proddetail/22370636862.html",
           "description": "Being a leader in the industry, we are engaged in offering a qualitative range of Monohydrate Citric Acid.",
-          "price": "₹ 71",
+          "price": "\u20b9 71",
           "unit": "",
           "min_order": "\"Kg\",\"PC_ITEM_NAME\":\"Monohydrate Citric",
           "images": [
@@ -991,7 +998,7 @@
           "prodname": "Caustic Soda Flakes",
           "product_url": "https://www.indiamart.com/proddetail/2855568390912.html",
           "description": "Caustic Soda Powder (Sodium Hydroxide, NaOH) is a highly versatile industrial chemical used in applications ranging from soap manufacturing and chemical synthesis to water treatment and petroleum refining. In India, it is available in various grades and packaging options to suit different needs.",
-          "price": "₹ 50",
+          "price": "\u20b9 50",
           "unit": "",
           "min_order": "\"Kg\",\"PC_ITEM_NAME\":\"Caustic Soda Flakes",
           "images": [
@@ -1028,7 +1035,7 @@
           "prodname": "Caustic Soda Lye",
           "product_url": "https://www.indiamart.com/proddetail/25855274433.html",
           "description": "Established in the year  2012  we\" Chem Care Technologies.\" is a Manufacturer of the wide spectrum Non Ferric Alum, View More, Cooling Tower Chemicals etc. We are manufacturing these products using premium grade raw material that is procured from the authentic vendors of the market. We offer these products at reasonable rates and deliver these within the promised time-frame.",
-          "price": "₹ 29",
+          "price": "\u20b9 29",
           "unit": "",
           "min_order": "\"Kg\",\"PC_ITEM_NAME\":\"Caustic Soda Lye\",\"",
           "images": [
@@ -1074,7 +1081,7 @@
           "prodname": "Formaldehyde Formalin 5 Liter",
           "product_url": "https://www.indiamart.com/proddetail/27255502555.html",
           "description": "Established in the year  2012  we\" Chem Care Technologies.\" is a Manufacturer of the wide spectrum Non Ferric Alum, View More, Cooling Tower Chemicals etc. We are manufacturing these products using premium grade raw material that is procured from the authentic vendors of the market. We offer these products at reasonable rates and deliver these within the promised time-frame.",
-          "price": "₹ 29",
+          "price": "\u20b9 29",
           "unit": "",
           "min_order": "\"Kg\",\"PC_ITEM_NAME\":\"Formaldehyde Formal",
           "images": [
@@ -1112,7 +1119,7 @@
           "prodname": "Hydrogen Peroxide 50",
           "product_url": "https://www.indiamart.com/proddetail/27489397455.html",
           "description": "Established in the year  2012  we\" Chem Care Technologies.\" is a Manufacturer of the wide spectrum Non Ferric Alum, View More, Cooling Tower Chemicals etc. We are manufacturing these products using premium grade raw material that is procured from the authentic vendors of the market. We offer these products at reasonable rates and deliver these within the promised time-frame.",
-          "price": "₹ 34",
+          "price": "\u20b9 34",
           "unit": "",
           "min_order": "\"Kg\",\"PC_ITEM_NAME\":\"Hydrogen Peroxide 5",
           "images": [
@@ -1149,7 +1156,7 @@
           "prodname": "Non Ferric Alum",
           "product_url": "https://www.indiamart.com/proddetail/22358332212.html",
           "description": "We are ranked amongst the renowned organizations that are engaged in providing the best quality range of Non Ferric Alum.",
-          "price": "₹ 26",
+          "price": "\u20b9 26",
           "unit": "",
           "min_order": "\"Kg\",\"PC_ITEM_NAME\":\"Non Ferric Alum\",\"P",
           "images": [
@@ -1192,7 +1199,7 @@
           "prodname": "Dilute Sulphuric Acid",
           "product_url": "https://www.indiamart.com/proddetail/22384207133.html",
           "description": "Being a foremost organization in the industry, we are actively engaged in offering the best quality range of Sulphuric Acid.",
-          "price": "₹ 9.5",
+          "price": "\u20b9 9.5",
           "unit": "",
           "min_order": "\"Litre\",\"PC_ITEM_NAME\":\"Dilute Sulphuric",
           "images": [
@@ -1236,7 +1243,7 @@
           "prodname": "Liquid Soap Oil",
           "product_url": "https://www.indiamart.com/proddetail/25855566573.html",
           "description": "Established in the year  2012  we\" Chem Care Technologies.\" is a Manufacturer of the wide spectrum Non Ferric Alum, View More, Cooling Tower Chemicals etc. We are manufacturing these products using premium grade raw material that is procured from the authentic vendors of the market. We offer these products at reasonable rates and deliver these within the promised time-frame.",
-          "price": "₹ 20",
+          "price": "\u20b9 20",
           "unit": "",
           "min_order": "\"Kg\",\"PC_ITEM_NAME\":\"Liquid Soap Oil\",\"P",
           "images": [
@@ -1273,7 +1280,7 @@
           "prodname": "Tri Sodium Phosphate Anhydrous",
           "product_url": "https://www.indiamart.com/proddetail/26216065988.html",
           "description": "Established in the year  2012  we\" Chem Care Technologies.\" is a Manufacturer of the wide spectrum Non Ferric Alum, View More, Cooling Tower Chemicals etc. We are manufacturing these products using premium grade raw material that is procured from the authentic vendors of the market. We offer these products at reasonable rates and deliver these within the promised time-frame.",
-          "price": "₹ 50",
+          "price": "\u20b9 50",
           "unit": "",
           "min_order": "\"Kg\",\"PC_ITEM_NAME\":\"Tri Sodium Phosphat",
           "images": [
@@ -1309,7 +1316,7 @@
           "prodname": "Sodium Hexametaphosphate Powder",
           "product_url": "https://www.indiamart.com/proddetail/26216095788.html",
           "description": "Sodium hexa metaphosphate 68 %  Established in the year  2012  we\" Chem Care Technologies.\" is a Manufacturer of the wide spectrum Non Ferric Alum, View More, Cooling Tower Chemicals etc. We are manufacturing these products using premium grade raw material that is procured from the authentic vendors of the market. We offer these products at reasonable rates and deliver these within the promised time-frame.",
-          "price": "₹ 170",
+          "price": "\u20b9 170",
           "unit": "",
           "min_order": "\"Kg\",\"PC_ITEM_NAME\":\"Sodium Hexametaphos",
           "images": [
@@ -1351,7 +1358,7 @@
           "prodname": "Nitric Acid 60",
           "product_url": "https://www.indiamart.com/proddetail/26226327833.html",
           "description": "Nitric acid 72%,68%,60%   Established in the year  2012  we\" Chem Care Technologies.\" is a Manufacturer of the wide spectrum Non Ferric Alum, View More, Cooling Tower Chemicals etc. We are manufacturing these products using premium grade raw material that is procured from the authentic vendors of the market. We offer these products at reasonable rates and deliver these within the promised time-frame.",
-          "price": "₹ 45",
+          "price": "\u20b9 45",
           "unit": "",
           "min_order": "\"Kg\",\"PC_ITEM_NAME\":\"Nitric Acid 60\",\"PC",
           "images": [
@@ -1388,7 +1395,7 @@
           "prodname": "Filter Media Sand & Gravels & Pebbles",
           "product_url": "https://www.indiamart.com/proddetail/25169117430.html",
           "description": "Fine sand,Core sand,Qoartz sand,Silex,Gravels, Pebbles",
-          "price": "₹ 8",
+          "price": "\u20b9 8",
           "unit": "",
           "min_order": "\"Kg\",\"PC_ITEM_NAME\":\"Filter Media Sand \\",
           "images": [
@@ -1431,7 +1438,7 @@
           "prodname": "Anthracite Or Activated Carbon",
           "product_url": "https://www.indiamart.com/proddetail/25169290112.html",
           "description": "anthracite Established in the year  2012  we\" Chem Care Technologies.\" is a Manufacturer of the wide spectrum Non Ferric Alum, View More, Cooling Tower Chemicals etc. We are manufacturing these products using premium grade raw material that is procured from the authentic vendors of the market. We offer these products at reasonable rates and deliver these within the promised time-frame.",
-          "price": "₹ 38",
+          "price": "\u20b9 38",
           "unit": "",
           "min_order": "\"Kg\",\"PC_ITEM_NAME\":\"Anthracite Or Activ",
           "images": [
@@ -1471,7 +1478,7 @@
           "prodname": "Sulfamic Acid Powder",
           "product_url": "https://www.indiamart.com/proddetail/25297589155.html",
           "description": "Industrial useEstablished in the year  2012  we\" Chem Care Technologies.\" is a Manufacturer of the wide spectrum Non Ferric Alum, View More, Cooling Tower Chemicals etc. We are manufacturing these products using premium grade raw material that is procured from the authentic vendors of the market. We offer these products at reasonable rates and deliver these within the promised time-frame.",
-          "price": "₹ 56",
+          "price": "\u20b9 56",
           "unit": "",
           "min_order": "\"Kg\",\"PC_ITEM_NAME\":\"Sulfamic Acid Powde",
           "images": [
@@ -1508,7 +1515,7 @@
           "prodname": "Sodium Sulphate Powder",
           "product_url": "https://www.indiamart.com/proddetail/23400435773.html",
           "description": "We are dealing into best quality.",
-          "price": "₹ 15",
+          "price": "\u20b9 15",
           "unit": "",
           "min_order": "\"Kg\",\"PC_ITEM_NAME\":\"Sodium Sulphate Pow",
           "images": [
@@ -1547,7 +1554,7 @@
           "prodname": "Cartridge Filters 5 Micron Wound And Spun 10&quot;,20&quot;,30&quot;,40&quot;, Jumbo Filters",
           "product_url": "https://www.indiamart.com/proddetail/24685803855.html",
           "description": "10,2Certainly! Here's a curated selection of 5-micron wound and spun polypropylene (PP) cartridge filters in sizes ranging from 10\" to jumbo 40\", suitable for various applications like sediment filtration in water treatment, industrial processes, and reverse osmosis (RO) systems.0,30,40 inch spun filters wound filters and jumbo filters available",
-          "price": "₹ 110",
+          "price": "\u20b9 110",
           "unit": "",
           "min_order": "\"Piece\",\"PC_ITEM_NAME\":\"Cartridge Filter",
           "images": [
@@ -1587,7 +1594,7 @@
           "prodname": "Poly Aluminum Chloride Pac",
           "product_url": "https://www.indiamart.com/proddetail/26216184648.html",
           "description": "Established in the year  2012  we\" Chem Care Technologies.\" is a Manufacturer of the wide spectrum Non Ferric Alum, View More, Cooling Tower Chemicals etc. We are manufacturing these products using premium grade raw material that is procured from the authentic vendors of the market. We offer these products at reasonable rates and deliver these within the promised time-frame.",
-          "price": "₹ 42",
+          "price": "\u20b9 42",
           "unit": "",
           "min_order": "\"Kg\",\"PC_ITEM_NAME\":\"Poly Aluminum Chlor",
           "images": [
@@ -1627,7 +1634,7 @@
           "prodname": "Acetic Acid Glacial",
           "product_url": "https://www.indiamart.com/proddetail/2854613293130.html",
           "description": "Glacial Acetic Acid (pure acetic acid, typically &ge;99.5%) is a versatile chemical widely used in industries such as pharmaceuticals, textiles, food processing, and laboratory research. In India, it is available in various grades and packaging options to suit different applications.",
-          "price": "₹ 85",
+          "price": "\u20b9 85",
           "unit": "",
           "min_order": "\"Kg\",\"PC_ITEM_NAME\":\"Acetic Acid Glacial",
           "images": [
@@ -1668,7 +1675,7 @@
           "prodname": "33% Hydrochloric Acid",
           "product_url": "https://www.indiamart.com/proddetail/22370634373.html",
           "description": "With sincerity and hard work of our professionals, we have carved a niche for ourselves in this domain by offering premium quality gamut of 33% Hydrochloric Acid.",
-          "price": "₹ 4",
+          "price": "\u20b9 4",
           "unit": "",
           "min_order": "\"Kg\",\"PC_ITEM_NAME\":\"33% Hydrochloric Ac",
           "images": [
@@ -1713,7 +1720,7 @@
           "prodname": "Sodium Bi Corbonet",
           "product_url": "https://www.indiamart.com/proddetail/25168723930.html",
           "description": "Established in the year  2012  we\" Chem Care Technologies.\" is a Manufacturer of the wide spectrum Non Ferric Alum, View More, Cooling Tower Chemicals etc. We are manufacturing these products using premium grade raw material that is procured from the authentic vendors of the market. We offer these products at reasonable rates and deliver these within the promised time-frame.",
-          "price": "₹ 36",
+          "price": "\u20b9 36",
           "unit": "",
           "min_order": "\"Kg\",\"PC_ITEM_NAME\":\"Sodium Bi Corbonet\"",
           "images": [
@@ -1756,7 +1763,7 @@
           "prodname": "Ferric Chloride Powder",
           "product_url": "https://www.indiamart.com/proddetail/25168816812.html",
           "description": "Established in the year  2012  we\" Chem Care Technologies.\" is a Manufacturer of the wide spectrum Non Ferric Alum, View More, Cooling Tower Chemicals etc. We are manufacturing these products using premium grade raw material that is procured from the authentic vendors of the market. We offer these products at reasonable rates and deliver these within the promised time-frame.",
-          "price": "₹ 42",
+          "price": "\u20b9 42",
           "unit": "",
           "min_order": "\"Kg\",\"PC_ITEM_NAME\":\"Ferric Chloride Pow",
           "images": [
@@ -1792,7 +1799,7 @@
           "prodname": "Indion 225 Na",
           "product_url": "https://www.indiamart.com/proddetail/22370645333.html",
           "description": "In order to cater the variegated demands of our precious clients, we are offering a wide range of Water Treatment Resin.",
-          "price": "₹ 135",
+          "price": "\u20b9 135",
           "unit": "",
           "min_order": "\"Litre\",\"PC_ITEM_NAME\":\"Indion 225 Na\",\"",
           "images": [
@@ -1833,7 +1840,7 @@
           "prodname": "Industrial Waste Water Treatment Plant",
           "product_url": "https://www.indiamart.com/proddetail/22385335791.html",
           "description": "Being one of the renowned organizations in the industry, we are highly engaged in providing a premium quality range of Industrial Waste Water Treatment Plant.",
-          "price": "₹ 240000",
+          "price": "\u20b9 240000",
           "unit": "",
           "min_order": "\"\",\"PC_ITEM_NAME\":\"Industrial Waste Wate",
           "images": [
@@ -1870,7 +1877,7 @@
           "prodname": "PVC Multiport Valves",
           "product_url": "https://www.indiamart.com/proddetail/22370647855.html",
           "description": "Aimed at prosperous growth in this domain, we are instrumental in offering an excellent quality range of PVC Multiport Valves.",
-          "price": "₹ 3800",
+          "price": "\u20b9 3800",
           "unit": "",
           "min_order": "\"Piece\",\"PC_ITEM_NAME\":\"PVC Multiport Va",
           "images": [
@@ -1908,7 +1915,7 @@
           "prodname": "Caustic Soda Flakes",
           "product_url": "https://www.indiamart.com/proddetail/22358327733.html",
           "description": "With our in-depth knowledge of this domain, we are actively engaged in providing an excellent quality range of Caustic Soda Flakes.\\n",
-          "price": "₹ 50",
+          "price": "\u20b9 50",
           "unit": "",
           "min_order": "\"Kg\",\"PC_ITEM_NAME\":\"Caustic Soda Flakes",
           "images": [
@@ -1946,7 +1953,7 @@
           "prodname": "Morpholine 99.5 %",
           "product_url": "https://www.indiamart.com/proddetail/25855525430.html",
           "description": "",
-          "price": "₹ 280",
+          "price": "\u20b9 280",
           "unit": "",
           "min_order": "\"Kg\",\"PC_ITEM_NAME\":\"Morpholine 99.5 %\",",
           "images": [
@@ -1982,7 +1989,7 @@
           "prodname": "Caustic Potash Flakes",
           "product_url": "https://www.indiamart.com/proddetail/2853978188712.html",
           "description": "Caustic Potash Flakes, also known as Potassium Hydroxide (KOH) flakes, are a white, hygroscopic (moisture-absorbing) solid used widely in industrial, agricultural, and chemical processes.",
-          "price": "₹ 99",
+          "price": "\u20b9 99",
           "unit": "",
           "min_order": "\"Kg\",\"PC_ITEM_NAME\":\"Caustic Potash Flak",
           "images": [
@@ -2018,7 +2025,7 @@
           "prodname": "Silicone Defoamer Liquid",
           "product_url": "https://www.indiamart.com/proddetail/26226289162.html",
           "description": "Chem Care Silicon Defoamer",
-          "price": "₹ 270",
+          "price": "\u20b9 270",
           "unit": "",
           "min_order": "\"Kg\",\"PC_ITEM_NAME\":\"Silicone Defoamer L",
           "images": [
@@ -2055,7 +2062,7 @@
           "prodname": "Low Pressure Boiler Oxygen Scavenger Chemical",
           "product_url": "https://www.indiamart.com/proddetail/22383195730.html",
           "description": "Being a customer oriented organization, we are highly engaged in providing a wide range of Low Pressure Boiler Oxygen Scavenger Chemical.",
-          "price": "₹ 97",
+          "price": "\u20b9 97",
           "unit": "",
           "min_order": "\"Litre\",\"PC_ITEM_NAME\":\"Low Pressure Boi",
           "images": [
@@ -2088,7 +2095,7 @@
           "prodname": "High Pressure Boiler Oxygen Scavenger Chemical",
           "product_url": "https://www.indiamart.com/proddetail/22383190630.html",
           "description": "With the valuable assistance of skilled team of professionals, we are engaged in offering an extensive range of high quality High Pressure Boiler Oxygen Scavenger Chemical.",
-          "price": "₹ 290",
+          "price": "\u20b9 290",
           "unit": "",
           "min_order": "\"Litre\",\"PC_ITEM_NAME\":\"High Pressure Bo",
           "images": [
@@ -2223,5 +2230,25 @@
     "total_categories": 37,
     "total_products": 62,
     "fixed_at": "2026-06-03T07:59:42Z"
-  }
+  },
+  "testimonials": [
+    {
+      "name": "Amit Sharma",
+      "location": "Hyderabad, Telangana",
+      "rating": 5,
+      "text": "Excellent quality boiler chemicals. The team is very professional and delivery was prompt. Highly recommend Chem Care Technologies."
+    },
+    {
+      "name": "Rajesh Kumar",
+      "location": "Vijayawada, Andhra Pradesh",
+      "rating": 5,
+      "text": "We have been sourcing cooling tower chemicals from them for 3 years. Consistent quality and great technical support."
+    },
+    {
+      "name": "Priya Reddy",
+      "location": "Chennai, Tamil Nadu",
+      "rating": 4,
+      "text": "Good range of laboratory chemicals. The pricing is competitive, though packaging could be slightly improved."
+    }
+  ]
 }
