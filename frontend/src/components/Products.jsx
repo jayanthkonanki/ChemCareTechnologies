@@ -106,10 +106,12 @@ const Products = ({ data }) => {
 
   const handleCategoryClick = (slug) => {
     setActiveSlug(slug);
-    const productsEl = document.getElementById('products');
-    if (productsEl) {
-      const topOffset = productsEl.getBoundingClientRect().top + window.scrollY - 80;
-      window.scrollTo({ top: topOffset, behavior: 'smooth' });
+    if (window.innerWidth > 900) {
+      const productsEl = document.getElementById('products');
+      if (productsEl) {
+        const topOffset = productsEl.getBoundingClientRect().top + window.scrollY - 80;
+        window.scrollTo({ top: topOffset, behavior: 'smooth' });
+      }
     }
   };
 
@@ -121,6 +123,20 @@ const Products = ({ data }) => {
           {/* Sidebar */}
           <aside className="products-sidebar">
             <h2 className="sidebar-title">Categories</h2>
+            
+            {/* Mobile Dropdown */}
+            <div className="mobile-category-select">
+              <select value={activeSlug} onChange={(e) => handleCategoryClick(e.target.value)}>
+                <option value="all">All Products ({allProducts.length})</option>
+                {categories.filter(c => (c.products||[]).length > 0).map(cat => (
+                  <option key={cat.slug} value={cat.slug}>
+                    {toTitle(cat.name)} ({(cat.products||[]).length})
+                  </option>
+                ))}
+              </select>
+            </div>
+
+            {/* Desktop Sidebar */}
             <div className="sidebar-menu">
               <button
                 className={`sidebar-link${activeSlug === 'all' ? ' active' : ''}`}
